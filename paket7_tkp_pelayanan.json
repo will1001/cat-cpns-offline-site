@@ -14,18 +14,18 @@
       },
       {
         "label": "B",
-        "text": "Tetap duduk diam di balik meja menunggu instruksi teknisi.",
-        "score": 2
-      },
-      {
-        "label": "C",
         "text": "Mengatakan kepada warga agar sabar karena mati lampu bukan salah petugas.",
         "score": 3
       },
       {
-        "label": "D",
+        "label": "C",
         "text": "Mencatat nama warga di kertas seadanya tanpa informasi perkiraan waktu.",
         "score": 4
+      },
+      {
+        "label": "D",
+        "text": "Tetap duduk diam di balik meja menunggu instruksi teknisi.",
+        "score": 2
       },
       {
         "label": "E",
@@ -47,23 +47,23 @@
     "options": [
       {
         "label": "A",
-        "text": "Langsung mendahulukannya karena takut dimarahi pejabat yang disebutnya.",
-        "score": 1
-      },
-      {
-        "label": "B",
-        "text": "Memarahinya di depan warga lain agar ia merasa malu.",
-        "score": 2
-      },
-      {
-        "label": "C",
         "text": "Menyuruhnya keluar ruangan dan tidak melayani pengajuannya.",
         "score": 3
       },
       {
-        "label": "D",
+        "label": "B",
         "text": "Menerima berkasnya dulu lalu menyimpannya di tumpukan paling bawah.",
         "score": 4
+      },
+      {
+        "label": "C",
+        "text": "Memarahinya di depan warga lain agar ia merasa malu.",
+        "score": 2
+      },
+      {
+        "label": "D",
+        "text": "Langsung mendahulukannya karena takut dimarahi pejabat yang disebutnya.",
+        "score": 1
       },
       {
         "label": "E",
@@ -85,31 +85,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Menghapus komentar tersebut dan memblokir akun warga itu.",
-        "score": 1
-      },
-      {
-        "label": "B",
-        "text": "Membalas dengan nada membela diri dan menyalahkan pemohon yang kurang teliti.",
-        "score": 2
-      },
-      {
-        "label": "C",
-        "text": "Mengabaikan komentar tersebut supaya tenggelam dengan unggahan baru.",
-        "score": 3
-      },
-      {
-        "label": "D",
         "text": "Membalas singkat di kolom komentar agar ia datang langsung ke kantor.",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "B",
         "text": "Menanggapi secara tenang dan empatik di kolom komentar, mengajak komunikasi lanjutan lewat pesan langsung (DM)/kanal pengaduan resmi untuk mengecek nomor berkasnya, lalu menuntaskan kendalanya.",
         "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Menghapus komentar tersebut dan memblokir akun warga itu.",
+        "score": 1
+      },
+      {
+        "label": "D",
+        "text": "Membalas dengan nada membela diri dan menyalahkan pemohon yang kurang teliti.",
+        "score": 2
+      },
+      {
+        "label": "E",
+        "text": "Mengabaikan komentar tersebut supaya tenggelam dengan unggahan baru.",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "B",
     "explanationBasic": "Penanganan komplain digital menuntut respons publik yang profesional tanpa terpancing emosi, diikuti penelusuran kasus nyata.",
     "quickTrick": "Skor 5 Komplain Digital = Jawab tenang empatik + minta detail via DM resmi + selesaikan masalah."
   },
@@ -123,13 +123,13 @@
     "options": [
       {
         "label": "A",
-        "text": "Membiarkan kondisi tersebut karena sistem dibuat oleh vendor pusat.",
-        "score": 1
+        "text": "Menyarankan warga lansia menyewa jasa calo atau warnet untuk mengisi formulir.",
+        "score": 2
       },
       {
         "label": "B",
-        "text": "Menyarankan warga lansia menyewa jasa calo atau warnet untuk mengisi formulir.",
-        "score": 2
+        "text": "Mengusulkan perbaikan antarmuka berbahasa Indonesia yang jelas kepada pengembang sistem sambil membuat panduan cetak bergambar serta meja pendampingan khusus lansia.",
+        "score": 5
       },
       {
         "label": "C",
@@ -138,16 +138,16 @@
       },
       {
         "label": "D",
-        "text": "Membantu mengisi formulir setiap ada warga yang bertanya saja.",
-        "score": 4
+        "text": "Membiarkan kondisi tersebut karena sistem dibuat oleh vendor pusat.",
+        "score": 1
       },
       {
         "label": "E",
-        "text": "Mengusulkan perbaikan antarmuka berbahasa Indonesia yang jelas kepada pengembang sistem sambil membuat panduan cetak bergambar serta meja pendampingan khusus lansia.",
-        "score": 5
+        "text": "Membantu mengisi formulir setiap ada warga yang bertanya saja.",
+        "score": 4
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "B",
     "explanationBasic": "Solusi unggul menggabungkan tindakan langsung hari ini (panduan + pendampingan) dan perbaikan sistemik jangka panjang.",
     "quickTrick": "Skor 5 = Solusi cepat di tempat + usulan perbaikan sistem jangka panjang."
   },
@@ -161,8 +161,8 @@
     "options": [
       {
         "label": "A",
-        "text": "Mengatakan bahwa kesalahan kecil itu tidak masalah dan tidak perlu diubah.",
-        "score": 1
+        "text": "Memintanya mendaftar antrean baru dari awal dan menunggu minggu depan.",
+        "score": 3
       },
       {
         "label": "B",
@@ -171,8 +171,8 @@
       },
       {
         "label": "C",
-        "text": "Memintanya mendaftar antrean baru dari awal dan menunggu minggu depan.",
-        "score": 3
+        "text": "Mengakui kekeliruan dengan tulus, segera memprioritaskan pencetakan ulang perbaikan data saat itu juga, dan memeriksa kembali seluruh rincian sebelum menyerahkan dokumen.",
+        "score": 5
       },
       {
         "label": "D",
@@ -181,11 +181,11 @@
       },
       {
         "label": "E",
-        "text": "Mengakui kekeliruan dengan tulus, segera memprioritaskan pencetakan ulang perbaikan data saat itu juga, dan memeriksa kembali seluruh rincian sebelum menyerahkan dokumen.",
-        "score": 5
+        "text": "Mengatakan bahwa kesalahan kecil itu tidak masalah dan tidak perlu diubah.",
+        "score": 1
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "C",
     "explanationBasic": "Jika kesalahan berasal dari unit layanan, petugas wajib bertanggung jawab memperbaiki segera tanpa membebani warga antre ulang.",
     "quickTrick": "Skor 5 = Akui keliru + koreksi langsung tanpa bebani warga antre baru."
   },
@@ -204,26 +204,26 @@
       },
       {
         "label": "B",
-        "text": "Mendukung suara yang paling keras agar rapat cepat bubar.",
-        "score": 2
-      },
-      {
-        "label": "C",
         "text": "Meminta ketua panitia membatalkan salah satu konsep tanpa diskusi.",
         "score": 3
       },
       {
+        "label": "C",
+        "text": "Menjadi penengah dengan merangkum kelebihan kedua ide, mengaitkannya kembali dengan tujuan utama bakti sosial dan batas anggaran, lalu mengajak peserta memadukan poin terbaiknya.",
+        "score": 5
+      },
+      {
         "label": "D",
-        "text": "Mengusulkan penundaan rapat ke minggu depan saja.",
-        "score": 4
+        "text": "Mendukung suara yang paling keras agar rapat cepat bubar.",
+        "score": 2
       },
       {
         "label": "E",
-        "text": "Menjadi penengah dengan merangkum kelebihan kedua ide, mengaitkannya kembali dengan tujuan utama bakti sosial dan batas anggaran, lalu mengajak peserta memadukan poin terbaiknya.",
-        "score": 5
+        "text": "Mengusulkan penundaan rapat ke minggu depan saja.",
+        "score": 4
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "C",
     "explanationBasic": "Jejaring kerja membutuhkan kemampuan mediasi berbasis tujuan bersama dan integrasi ide terbaik.",
     "quickTrick": "Skor 5 = Mediasi netral + kembali ke tujuan/anggaran + padukan kelebihan ide."
   },
@@ -242,8 +242,8 @@
       },
       {
         "label": "B",
-        "text": "Menyalahkan rekan tersebut karena cuti di saat tenggat laporan dekat.",
-        "score": 2
+        "text": "Menghubungi rekan Anda yang sedang di rumah sakit untuk tetap mengerjakan laporannya.",
+        "score": 4
       },
       {
         "label": "C",
@@ -252,8 +252,8 @@
       },
       {
         "label": "D",
-        "text": "Menghubungi rekan Anda yang sedang di rumah sakit untuk tetap mengerjakan laporannya.",
-        "score": 4
+        "text": "Menyalahkan rekan tersebut karena cuti di saat tenggat laporan dekat.",
+        "score": 2
       },
       {
         "label": "E",
@@ -275,13 +275,13 @@
     "options": [
       {
         "label": "A",
-        "text": "Mengirim surat teguran resmi agar kader segera menyetor data.",
-        "score": 1
+        "text": "Mengunjungi atau berdialog santun dengan pihak kecamatan dan perwakilan kader guna menjelaskan manfaat nyata program bagi warga serta menyepakati alur setor data yang ringkas.",
+        "score": 5
       },
       {
         "label": "B",
-        "text": "Mengambil alih seluruh pencatatan dengan staf kantor tanpa melibatkan kader lagi.",
-        "score": 2
+        "text": "Memberi batas waktu pengumpulan data yang lebih singkat lewat pesan teks.",
+        "score": 4
       },
       {
         "label": "C",
@@ -290,16 +290,16 @@
       },
       {
         "label": "D",
-        "text": "Memberi batas waktu pengumpulan data yang lebih singkat lewat pesan teks.",
-        "score": 4
+        "text": "Mengambil alih seluruh pencatatan dengan staf kantor tanpa melibatkan kader lagi.",
+        "score": 2
       },
       {
         "label": "E",
-        "text": "Mengunjungi atau berdialog santun dengan pihak kecamatan dan perwakilan kader guna menjelaskan manfaat nyata program bagi warga serta menyepakati alur setor data yang ringkas.",
-        "score": 5
+        "text": "Mengirim surat teguran resmi agar kader segera menyetor data.",
+        "score": 1
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "Kolaborasi eksternal efektif jika mitra memahami tujuan bersama dan diberi alur kerja yang tidak memberatkan.",
     "quickTrick": "Skor 5 = Bangun kesepahaman manfaat + sederhanakan alur kolaborasi."
   },
@@ -313,8 +313,8 @@
     "options": [
       {
         "label": "A",
-        "text": "Membiarkannya karena beda bidang tugas.",
-        "score": 1
+        "text": "Menawarkan bantuan secara ramah tanpa menggurui dan meluangkan waktu sejenak menunjukkan cara pengisian tabel dengan contoh praktis.",
+        "score": 5
       },
       {
         "label": "B",
@@ -323,8 +323,8 @@
       },
       {
         "label": "C",
-        "text": "Menunggu sampai ia datang meminta bantuan terlebih dahulu.",
-        "score": 3
+        "text": "Membiarkannya karena beda bidang tugas.",
+        "score": 1
       },
       {
         "label": "D",
@@ -333,11 +333,11 @@
       },
       {
         "label": "E",
-        "text": "Menawarkan bantuan secara ramah tanpa menggurui dan meluangkan waktu sejenak menunjukkan cara pengisian tabel dengan contoh praktis.",
-        "score": 5
+        "text": "Menunggu sampai ia datang meminta bantuan terlebih dahulu.",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "Inisiatif membantu lintas bidang tanpa sikap menggurui memperkuat jejaring kerja di seluruh organisasi.",
     "quickTrick": "Skor 5 = Tawarkan bantuan ramah + tidak menggurui + beri contoh praktis."
   },
@@ -356,13 +356,13 @@
       },
       {
         "label": "B",
-        "text": "Diam membisu hingga sesi tanya jawab berakhir.",
-        "score": 2
+        "text": "Membantah kritik tersebut secara emosional demi menjaga nama baik kantor.",
+        "score": 3
       },
       {
         "label": "C",
-        "text": "Membantah kritik tersebut secara emosional demi menjaga nama baik kantor.",
-        "score": 3
+        "text": "Menerima masukan dengan terbuka, mengklarifikasi kondisi teknis saat ini secara santun, dan menjadwalkan tindak lanjut sinkronisasi data bersama tim terkait.",
+        "score": 5
       },
       {
         "label": "D",
@@ -371,11 +371,11 @@
       },
       {
         "label": "E",
-        "text": "Menerima masukan dengan terbuka, mengklarifikasi kondisi teknis saat ini secara santun, dan menjadwalkan tindak lanjut sinkronisasi data bersama tim terkait.",
-        "score": 5
+        "text": "Diam membisu hingga sesi tanya jawab berakhir.",
+        "score": 2
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "C",
     "explanationBasic": "Sikap terbuka dalam forum lintas instansi mengubah kritik menjadi peluang sinkronisasi kerja yang lebih baik.",
     "quickTrick": "Skor 5 = Terima terbuka + klarifikasi santun + agendakan sinkronisasi."
   },
@@ -389,31 +389,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Menertawakannya karena tidak langsung membeli pakaian adat sejak hari pertama.",
-        "score": 1
-      },
-      {
-        "label": "B",
-        "text": "Membiarkannya memakai kaos bebas tanpa arahan apa pun.",
-        "score": 2
-      },
-      {
-        "label": "C",
         "text": "Memaksanya langsung membeli setelan lengkap paling mahal sebelum Kamis tiba.",
         "score": 3
       },
       {
-        "label": "D",
+        "label": "B",
         "text": "Memintanya meminta surat izin tidak ikut program ke pimpinan.",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "C",
         "text": "Menjelaskan ketentuan minimal yang paling sederhana/terjangkau (misal cukup motif kain daerah yang rapi) serta membantu meminjamkan atau memberi info penjahit terjangkau hingga ia siap.",
         "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Menertawakannya karena tidak langsung membeli pakaian adat sejak hari pertama.",
+        "score": 1
+      },
+      {
+        "label": "E",
+        "text": "Membiarkannya memakai kaos bebas tanpa arahan apa pun.",
+        "score": 2
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "C",
     "explanationBasic": "Pelestarian budaya kerja perlu diiringi solusi inklusif dan empati terhadap kemampuan pegawai baru.",
     "quickTrick": "Skor 5 = Jelaskan opsi paling sederhana + bantu solusi ramah tanpa membebani."
   },
@@ -432,26 +432,26 @@
       },
       {
         "label": "B",
-        "text": "Meminta panitia memindahkan rekan tersebut karena dianggap merepotkan.",
-        "score": 2
+        "text": "Menghormati jam istirahatnya dengan menelepon di area lobi/luar kamar serta menyepakati aturan kenyamanan bersama di awal.",
+        "score": 5
       },
       {
         "label": "C",
-        "text": "Mematikan lampu saja namun tetap berbicara lewat telepon di tempat tidur.",
-        "score": 3
-      },
-      {
-        "label": "D",
         "text": "Mengirim pesan teks saja tanpa pernah menyapa rekan sekamar.",
         "score": 4
       },
       {
+        "label": "D",
+        "text": "Mematikan lampu saja namun tetap berbicara lewat telepon di tempat tidur.",
+        "score": 3
+      },
+      {
         "label": "E",
-        "text": "Menghormati jam istirahatnya dengan menelepon di area lobi/luar kamar serta menyepakati aturan kenyamanan bersama di awal.",
-        "score": 5
+        "text": "Meminta panitia memindahkan rekan tersebut karena dianggap merepotkan.",
+        "score": 2
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "B",
     "explanationBasic": "Tenggang rasa dalam keberagaman kebiasaan dimulai dari menghargai ruang privasi dan kesepakatan bersama.",
     "quickTrick": "Skor 5 = Menghormati jam istirahat rekan + menelepon di luar kamar."
   },
@@ -465,8 +465,8 @@
     "options": [
       {
         "label": "A",
-        "text": "Meminta lebih banyak hasil kebun agar bisa dibawa pulang ke kota.",
-        "score": 1
+        "text": "Menjelaskan dengan hangat bahwa tugas petugas memang untuk melayani masyarakat sehingga tidak perlu memberi imbalan, atau apabila berupa hidangan sederhana untuk dinikmati bersama warga di tempat dengan tetap menjaga kepatuhan aturan gratifikasi.",
+        "score": 5
       },
       {
         "label": "B",
@@ -475,8 +475,8 @@
       },
       {
         "label": "C",
-        "text": "Menerima semuanya diam-diam setiap minggu tanpa batas.",
-        "score": 3
+        "text": "Meminta lebih banyak hasil kebun agar bisa dibawa pulang ke kota.",
+        "score": 1
       },
       {
         "label": "D",
@@ -485,11 +485,11 @@
       },
       {
         "label": "E",
-        "text": "Menjelaskan dengan hangat bahwa tugas petugas memang untuk melayani masyarakat sehingga tidak perlu memberi imbalan, atau apabila berupa hidangan sederhana untuk dinikmati bersama warga di tempat dengan tetap menjaga kepatuhan aturan gratifikasi.",
-        "score": 5
+        "text": "Menerima semuanya diam-diam setiap minggu tanpa batas.",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "Menghargai niat baik tradisi lokal tetap bisa dilakukan tanpa melukai perasaan warga sekaligus menjaga batas aturan anti-gratifikasi.",
     "quickTrick": "Skor 5 = Tolak halus penuh hormat atau nikmati bersama secukupnya di tempat sesuai etika gratifikasi."
   },
@@ -503,8 +503,8 @@
     "options": [
       {
         "label": "A",
-        "text": "Tetap membangun di area keramat tanpa mendengar pendapat tetua adat.",
-        "score": 1
+        "text": "Mengajak tokoh adat, perangkat desa, dan tim teknis bermusyawarah mencari lokasi alternatif yang secara teknis layak sekaligus menghormati nilai sakral masyarakat setempat.",
+        "score": 5
       },
       {
         "label": "B",
@@ -518,16 +518,16 @@
       },
       {
         "label": "D",
-        "text": "Meminta warga melakukan pemungutan suara tanpa kajian teknis.",
-        "score": 4
+        "text": "Tetap membangun di area keramat tanpa mendengar pendapat tetua adat.",
+        "score": 1
       },
       {
         "label": "E",
-        "text": "Mengajak tokoh adat, perangkat desa, dan tim teknis bermusyawarah mencari lokasi alternatif yang secara teknis layak sekaligus menghormati nilai sakral masyarakat setempat.",
-        "score": 5
+        "text": "Meminta warga melakukan pemungutan suara tanpa kajian teknis.",
+        "score": 4
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "Pembangunan berkelanjutan menyelaraskan kelayakan teknis dengan penghormatan pada kearifan lokal melalui musyawarah.",
     "quickTrick": "Skor 5 = Musyawarah semua pihak -> cari titik temu layak teknis & hormati adat."
   },
@@ -541,8 +541,8 @@
     "options": [
       {
         "label": "A",
-        "text": "Menertawakan logat dan kosakata daerah tersebut di hadapan mereka.",
-        "score": 1
+        "text": "Berhenti menyimak presentasi dan fokus mencatat hal lain.",
+        "score": 3
       },
       {
         "label": "B",
@@ -551,8 +551,8 @@
       },
       {
         "label": "C",
-        "text": "Berhenti menyimak presentasi dan fokus mencatat hal lain.",
-        "score": 3
+        "text": "Menertawakan logat dan kosakata daerah tersebut di hadapan mereka.",
+        "score": 1
       },
       {
         "label": "D",
@@ -579,18 +579,18 @@
     "options": [
       {
         "label": "A",
-        "text": "Ikut memasang aplikasi pemalsu lokasi agar tidak terlambat absen.",
-        "score": 1
-      },
-      {
-        "label": "B",
         "text": "Membiarkan rekan melakukannya asalkan Anda sendiri tidak ikut memakai.",
         "score": 2
       },
       {
-        "label": "C",
+        "label": "B",
         "text": "Menyindir mereka di media sosial pribadi.",
         "score": 3
+      },
+      {
+        "label": "C",
+        "text": "Ikut memasang aplikasi pemalsu lokasi agar tidak terlambat absen.",
+        "score": 1
       },
       {
         "label": "D",
@@ -622,13 +622,13 @@
       },
       {
         "label": "B",
-        "text": "Mewajibkan warga membuat akun baru lengkap dengan unggah foto KTP.",
-        "score": 2
+        "text": "Merancang survei ringkas 3–5 pertanyaan ramah layar ponsel lewat kode QR yang langsung terbuka tanpa login, serta menyediakan kotak survei manual alternatif bagi yang tidak membawa ponsel.",
+        "score": 5
       },
       {
         "label": "C",
-        "text": "Hanya membagikan tautan panjang di situs web tanpa kode QR.",
-        "score": 3
+        "text": "Mewajibkan warga membuat akun baru lengkap dengan unggah foto KTP.",
+        "score": 2
       },
       {
         "label": "D",
@@ -637,11 +637,11 @@
       },
       {
         "label": "E",
-        "text": "Merancang survei ringkas 3–5 pertanyaan ramah layar ponsel lewat kode QR yang langsung terbuka tanpa login, serta menyediakan kotak survei manual alternatif bagi yang tidak membawa ponsel.",
-        "score": 5
+        "text": "Hanya membagikan tautan panjang di situs web tanpa kode QR.",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "B",
     "explanationBasic": "Desain layanan digital yang inklusif mengutamakan kemudahan akses mobile, pertanyaan ringkas, serta opsi manual bagi kelompok non-digital.",
     "quickTrick": "Skor 5 TIK Inklusif = Ringkas + mobile-friendly QR + opsi manual pendamping."
   },
@@ -660,26 +660,26 @@
       },
       {
         "label": "B",
-        "text": "Tetap menginstal di komputer rekan kerja untuk melihat apakah aman.",
-        "score": 2
-      },
-      {
-        "label": "C",
         "text": "Mengabaikan pekerjaan pengolah PDF dan mengerjakannya di ponsel pribadi.",
         "score": 3
       },
       {
-        "label": "D",
+        "label": "C",
         "text": "Membiarkan file installer tersimpan di folder Downloads komputer bersama.",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "D",
         "text": "Membatalkan instalasi segera, menghapus file mencurigakan tersebut, lalu meminta tim IT instansi memasang aplikasi resmi/berlisensi yang aman.",
         "score": 5
+      },
+      {
+        "label": "E",
+        "text": "Tetap menginstal di komputer rekan kerja untuk melihat apakah aman.",
+        "score": 2
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "D",
     "explanationBasic": "Keamanan perangkat jaringan kantor dijaga dengan tidak mematikan antivirus serta selalu meminta instalasi software dari sumber resmi melalui IT.",
     "quickTrick": "Skor 5 Keamanan TIK = Hentikan & hapus file berisiko + minta instalasi resmi ke IT."
   },
@@ -693,8 +693,8 @@
     "options": [
       {
         "label": "A",
-        "text": "Membiarkannya bekerja lambat karena itu bukan tugas Anda.",
-        "score": 1
+        "text": "Langsung mengambil filenya dan menggantinya tanpa menjelaskan caranya.",
+        "score": 3
       },
       {
         "label": "B",
@@ -703,21 +703,21 @@
       },
       {
         "label": "C",
-        "text": "Langsung mengambil filenya dan menggantinya tanpa menjelaskan caranya.",
-        "score": 3
+        "text": "Membiarkannya bekerja lambat karena itu bukan tugas Anda.",
+        "score": 1
       },
       {
         "label": "D",
-        "text": "Memberi tahu bahwa ada rumus cepat tanpa memberi contoh penggunaannya.",
-        "score": 4
+        "text": "Menunjukkan dengan ramah rumus pemeriksaan duplikat di spreadsheet pada salinan data agar proses lebih cepat dan minim human error, sambil tetap melakukan pengecekan akhir bersama.",
+        "score": 5
       },
       {
         "label": "E",
-        "text": "Menunjukkan dengan ramah rumus pemeriksaan duplikat di spreadsheet pada salinan data agar proses lebih cepat dan minim human error, sambil tetap melakukan pengecekan akhir bersama.",
-        "score": 5
+        "text": "Memberi tahu bahwa ada rumus cepat tanpa memberi contoh penggunaannya.",
+        "score": 4
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "D",
     "explanationBasic": "Pemanfaatan TIK yang tepat meningkatkan akurasi dan efisiensi tim melalui transfer keterampilan yang ramah.",
     "quickTrick": "Skor 5 = Ajari rumus cepat pada salinan data + tetap verifikasi hasil."
   },
@@ -731,31 +731,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Tetap mengunggahnya karena deadline pengumuman tinggal 10 menit lagi.",
-        "score": 1
-      },
-      {
-        "label": "B",
-        "text": "Mengunggahnya dulu lalu berencana menggantinya minggu depan.",
-        "score": 2
-      },
-      {
-        "label": "C",
-        "text": "Menghapus seluruh nama pelamar sehingga tidak ada yang tahu hasilnya.",
-        "score": 3
-      },
-      {
-        "label": "D",
         "text": "Menanyakan di grup percakapan apakah boleh diunggah apa adanya.",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "B",
+        "text": "Tetap mengunggahnya karena deadline pengumuman tinggal 10 menit lagi.",
+        "score": 1
+      },
+      {
+        "label": "C",
         "text": "Menahan publikasi sejenak, segera menyunting lampiran dengan menyamarkan/menghapus data pribadi sensitif (masking nomor ponsel), dan hanya menampilkan nomor peserta/nama sesuai aturan perlindungan data pribadi.",
         "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Mengunggahnya dulu lalu berencana menggantinya minggu depan.",
+        "score": 2
+      },
+      {
+        "label": "E",
+        "text": "Menghapus seluruh nama pelamar sehingga tidak ada yang tahu hasilnya.",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "C",
     "explanationBasic": "Kepatuhan Perlindungan Data Pribadi (UU PDP) wajib didahulukan sebelum mempublikasikan dokumen terbuka.",
     "quickTrick": "Skor 5 = Lindungi data pribadi (masking no HP/NIK) sebelum publish."
   },
@@ -769,18 +769,18 @@
     "options": [
       {
         "label": "A",
+        "text": "Mengakui secara jantan dan profesional di hadapan rapat bahwa kekeliruan pencatatan berasal dari diri Anda, membebaskan staf junior dari tuduhan, dan memaparkan perbaikan sistem pengingat kerja Anda.",
+        "score": 5
+      },
+      {
+        "label": "B",
         "text": "Membiarkan atasan menyalahkan staf junior supaya reputasi Anda aman.",
         "score": 1
       },
       {
-        "label": "B",
+        "label": "C",
         "text": "Menyalahkan jaringan internet kantor yang sering lambat.",
         "score": 2
-      },
-      {
-        "label": "C",
-        "text": "Diam saja di rapat lalu meminta maaf secara diam-diam ke staf junior nanti.",
-        "score": 3
       },
       {
         "label": "D",
@@ -789,11 +789,11 @@
       },
       {
         "label": "E",
-        "text": "Mengakui secara jantan dan profesional di hadapan rapat bahwa kekeliruan pencatatan berasal dari diri Anda, membebaskan staf junior dari tuduhan, dan memaparkan perbaikan sistem pengingat kerja Anda.",
-        "score": 5
+        "text": "Diam saja di rapat lalu meminta maaf secara diam-diam ke staf junior nanti.",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "Integritas dan profesionalisme pemimpin/senior diukur dari keberanian mengakui kesalahan sendiri dan melindungi bawahan dari tuduhan yang tidak tepat.",
     "quickTrick": "Skor 5 = Akui kesalahan secara terbuka + lindungi rekan + bawa perbaikan."
   },
@@ -822,16 +822,16 @@
       },
       {
         "label": "D",
-        "text": "Membawa seluruh berkas fisik rahasia keuangan ke lokasi inspeksi lapangan.",
-        "score": 4
+        "text": "Menyimpan rapi progres laporan yang sudah dikerjakan, melapor kepada atasan terkait estimasi sisa penyelesaian laporan, lalu fokus menuntaskan inspeksi lapangan dan melanjutkan laporan tepat waktu.",
+        "score": 5
       },
       {
         "label": "E",
-        "text": "Menyimpan rapi progres laporan yang sudah dikerjakan, melapor kepada atasan terkait estimasi sisa penyelesaian laporan, lalu fokus menuntaskan inspeksi lapangan dan melanjutkan laporan tepat waktu.",
-        "score": 5
+        "text": "Membawa seluruh berkas fisik rahasia keuangan ke lokasi inspeksi lapangan.",
+        "score": 4
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "D",
     "explanationBasic": "Manajemen prioritas profesional menjaga keamanan dokumen, kejelasan komunikasi tenggat dengan atasan, dan ketuntasan kedua tugas.",
     "quickTrick": "Skor 5 = Amankan progres + lapor estimasi jadwal ke atasan + tuntaskan keduanya."
   },
@@ -845,8 +845,8 @@
     "options": [
       {
         "label": "A",
-        "text": "Membiarkannya karena sudah menjadi kebiasaan sejak bertahun-tahun lalu.",
-        "score": 1
+        "text": "Mengeluhkan kondisi keamanan kantor saat ngobrol di kantin.",
+        "score": 3
       },
       {
         "label": "B",
@@ -855,21 +855,21 @@
       },
       {
         "label": "C",
-        "text": "Mengeluhkan kondisi keamanan kantor saat ngobrol di kantin.",
-        "score": 3
+        "text": "Membiarkannya karena sudah menjadi kebiasaan sejak bertahun-tahun lalu.",
+        "score": 1
       },
       {
         "label": "D",
-        "text": "Menempelkan kertas bertuliskan 'Dilarang Mengambil Kunci' di laci resepsionis.",
-        "score": 4
+        "text": "Mengusulkan kepada kepala subbagian umum untuk memakai kotak kunci terkunci beserta buku log serah terima guna menjamin akuntabilitas keamanan arsip.",
+        "score": 5
       },
       {
         "label": "E",
-        "text": "Mengusulkan kepada kepala subbagian umum untuk memakai kotak kunci terkunci beserta buku log serah terima guna menjamin akuntabilitas keamanan arsip.",
-        "score": 5
+        "text": "Menempelkan kertas bertuliskan 'Dilarang Mengambil Kunci' di laci resepsionis.",
+        "score": 4
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "D",
     "explanationBasic": "Profesionalisme peka terhadap celah pengendalian internal dan mengusulkan prosedur perbaikan yang terukur.",
     "quickTrick": "Skor 5 = Usulkan sistem kontrol resmi (kotak aman + log serah terima)."
   },
@@ -883,31 +883,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Nominal komisinya terlalu kecil dibandingkan nilai proyek.",
-        "score": 1
+        "text": "Menolak tegas karena pelayanan dan serah terima sesuai kontrak adalah kewajiban jabatan yang sudah digaji negara serta mencegah konflik kepentingan di pengadaan berikutnya.",
+        "score": 5
       },
       {
         "label": "B",
-        "text": "Takut ketahuan oleh rekan satu ruangan saja.",
+        "text": "Meminta komisi diganti menjadi voucher belanja supaya tidak tercatat sebagai uang tunai.",
         "score": 2
       },
       {
         "label": "C",
-        "text": "Meminta vendor mengirimkannya bulan depan setelah proyek ditutup.",
-        "score": 3
-      },
-      {
-        "label": "D",
-        "text": "Meminta komisi diganti dalam bentuk voucher belanja agar tidak terlihat uang.",
+        "text": "Menolak pemberian secara halus namun tidak menegaskannya sebagai aturan anti-gratifikasi agar hubungan tetap cair.",
         "score": 4
       },
       {
+        "label": "D",
+        "text": "Meminta vendor mengirimkannya bulan depan setelah proyek ditutup agar tidak mencolok.",
+        "score": 1
+      },
+      {
         "label": "E",
-        "text": "Menolak tegas karena pelayanan dan serah terima sesuai kontrak adalah kewajiban jabatan yang sudah digaji negara serta mencegah konflik kepentingan di pengadaan berikutnya.",
-        "score": 5
+        "text": "Menitipkan uang komisi tersebut ke kas bersama ruangan tanpa melaporkannya ke UPG.",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "Menolak imbalan dalam bentuk apa pun menjaga kemandirian keputusan pengadaan dan martabat ASN.",
     "quickTrick": "Skor 5 = Tolak tegas berprinsip (kewajiban jabatan + bebas konflik kepentingan)."
   },
@@ -921,31 +921,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Ikut bersantai karena penghargaan sudah diraih dan aman selama setahun.",
-        "score": 1
-      },
-      {
-        "label": "B",
-        "text": "Mengkritik tajam rekan-rekan yang mulai santai di forum terbuka.",
-        "score": 2
-      },
-      {
-        "label": "C",
-        "text": "Pindah ke unit lain yang lebih tenang.",
-        "score": 3
-      },
-      {
-        "label": "D",
         "text": "Tetap bekerja sendiri tanpa peduli mutu layanan loket sebelah.",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "B",
         "text": "Menjaga konsistensi standar layanan pribadi setiap hari dan mengajak rekan mempertahankan budaya kerja unggul melalui evaluasi ringan berkala.",
         "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Ikut bersantai karena penghargaan sudah diraih dan aman selama setahun.",
+        "score": 1
+      },
+      {
+        "label": "D",
+        "text": "Pindah ke unit lain yang lebih tenang.",
+        "score": 3
+      },
+      {
+        "label": "E",
+        "text": "Mengkritik tajam rekan-rekan yang mulai santai di forum terbuka.",
+        "score": 2
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "B",
     "explanationBasic": "Mutu pelayanan bukanlah proyek sesaat untuk mengejar piala, melainkan budaya kerja berkelanjutan.",
     "quickTrick": "Skor 5 = Konsisten jaga standar pribadi + ajak tim rawat budaya kerja."
   },
@@ -959,13 +959,13 @@
     "options": [
       {
         "label": "A",
-        "text": "Membiarkannya agar interaksi komentar unggahan terlihat ramai.",
-        "score": 1
+        "text": "Membalas komentar tersebut dengan kata-kata kasar dan umpatan.",
+        "score": 2
       },
       {
         "label": "B",
-        "text": "Membalas komentar tersebut dengan kata-kata kasar dan umpatan.",
-        "score": 2
+        "text": "Menyembunyikan/menghapus komentar provokatif sesuai pedoman moderasi ruang publik, memblokir penyebar kebencian bila berulang, serta menaikkan narasi persatuan yang santun.",
+        "score": 5
       },
       {
         "label": "C",
@@ -979,11 +979,11 @@
       },
       {
         "label": "E",
-        "text": "Menyembunyikan/menghapus komentar provokatif sesuai pedoman moderasi ruang publik, memblokir penyebar kebencian bila berulang, serta menaikkan narasi persatuan yang santun.",
-        "score": 5
+        "text": "Membiarkannya agar interaksi komentar unggahan terlihat ramai.",
+        "score": 1
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "B",
     "explanationBasic": "Moderasi ruang digital resmi instansi melindungi masyarakat dari propaganda anti-kebangsaan sekaligus menjaga keteduhan informasi.",
     "quickTrick": "Skor 5 = Moderasi/hapus komentar kebencian sesuai SOP + perkuat narasi persatuan."
   },
@@ -1040,26 +1040,26 @@
       },
       {
         "label": "B",
-        "text": "Kompetisi Ketat Antarsekolah Demi Meraih Juara Tunggal",
-        "score": 2
-      },
-      {
-        "label": "C",
-        "text": "Keunggulan Budaya Daerah Tertentu di Atas Daerah Lainnya",
-        "score": 3
-      },
-      {
-        "label": "D",
         "text": "Larangan Keras Menggunakan Internet Bagi Pelajar Sekolah",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "C",
         "text": "Merawat Keberagaman dan Persahabatan Lintas Perbedaan untuk Indonesia Damai di Era Digital",
         "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Kompetisi Ketat Antarsekolah Demi Meraih Juara Tunggal",
+        "score": 2
+      },
+      {
+        "label": "E",
+        "text": "Keunggulan Budaya Daerah Tertentu di Atas Daerah Lainnya",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "C",
     "explanationBasic": "Tema positif yang merangkul persahabatan lintas perbedaan dan literasi digital efektif membentengi generasi muda dari intoleransi.",
     "quickTrick": "Skor 5 = Narasi positif merawat keberagaman & persahabatan inklusif."
   },
@@ -1073,31 +1073,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Mengikuti sarannya agar proses pembagian di kelurahan berjalan cepat tanpa protes.",
-        "score": 1
-      },
-      {
-        "label": "B",
         "text": "Menunda pembagian bantuan ke seluruh warga kelurahan tersebut selamanya.",
         "score": 2
       },
       {
-        "label": "C",
-        "text": "Meminta warga yang dicoret mendaftar di kelurahan lain.",
-        "score": 3
+        "label": "B",
+        "text": "Mengikuti sarannya agar proses pembagian di kelurahan berjalan cepat tanpa protes.",
+        "score": 1
       },
       {
-        "label": "D",
+        "label": "C",
         "text": "Mengurangi jatah bantuan mereka menjadi setengahnya saja.",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "D",
         "text": "Menolak saran diskriminatif tersebut secara tegas dan profesional, lalu menyalurkan bantuan murni berdasarkan kriteria objektif dan verifikasi data lapangan yang adil.",
         "score": 5
+      },
+      {
+        "label": "E",
+        "text": "Meminta warga yang dicoret mendaftar di kelurahan lain.",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "D",
     "explanationBasic": "Penolakan terhadap diskriminasi kelompok menjaga keadilan sosial dan menangkal benih perpecahan di masyarakat.",
     "quickTrick": "Skor 5 = Tolak diskriminasi tegas + berpegang pada kriteria objektif."
   },
@@ -1116,26 +1116,26 @@
       },
       {
         "label": "B",
-        "text": "Membagikan tautan tersebut ke grup kantor agar ikut membantu.",
-        "score": 2
-      },
-      {
-        "label": "C",
         "text": "Membiarkannya saja tanpa memberi peringatan apa pun ke anggota keluarga.",
         "score": 3
       },
       {
+        "label": "C",
+        "text": "Membagikan tautan tersebut ke grup kantor agar ikut membantu.",
+        "score": 2
+      },
+      {
         "label": "D",
-        "text": "Memarahi kerabat tersebut di grup keluarga hingga memicu pertengkaran.",
-        "score": 4
+        "text": "Mengingatkan keluarga dengan sopan agar selalu menyalurkan donasi hanya lewat lembaga resmi berizin pemerintah serta mengecek legalitasnya terlebih dahulu agar tidak terseret pendanaan ilegal.",
+        "score": 5
       },
       {
         "label": "E",
-        "text": "Mengingatkan keluarga dengan sopan agar selalu menyalurkan donasi hanya lewat lembaga resmi berizin pemerintah serta mengecek legalitasnya terlebih dahulu agar tidak terseret pendanaan ilegal.",
-        "score": 5
+        "text": "Memarahi kerabat tersebut di grup keluarga hingga memicu pertengkaran.",
+        "score": 4
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "D",
     "explanationBasic": "Literasi verifikasi legalitas lembaga penggalang dana di lingkungan terdekat mencegah penyalahgunaan niat baik masyarakat.",
     "quickTrick": "Skor 5 = Edukasi santun keluarga cek izin resmi lembaga donasi."
   }

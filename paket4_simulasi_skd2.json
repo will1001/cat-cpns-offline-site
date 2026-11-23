@@ -47,7 +47,7 @@
     "options": [
       {
         "label": "A",
-        "text": "Empat tahun sekali",
+        "text": "Tiga tahun sekali",
         "score": 0
       },
       {
@@ -62,12 +62,12 @@
       },
       {
         "label": "D",
-        "text": "Tiga tahun sekali",
+        "text": "Sepuluh tahun sekali",
         "score": 0
       },
       {
         "label": "E",
-        "text": "Sepuluh tahun sekali",
+        "text": "Empat tahun sekali",
         "score": 0
       }
     ],
@@ -85,17 +85,17 @@
     "options": [
       {
         "label": "A",
-        "text": "Mengembalikan langsung ke kurir dalam 60 hari kerja",
+        "text": "Menghibahkan barang tersebut ke panti asuhan atas nama instansi",
         "score": 0
       },
       {
         "label": "B",
-        "text": "Melaporkan kepada KPK atau Unit Pengendali Gratifikasi (UPG) paling lambat 30 hari kerja sejak tanggal penerimaan",
-        "score": 5
+        "text": "Menyimpannya di brankas kantor hingga masa jabatan berakhir",
+        "score": 0
       },
       {
         "label": "C",
-        "text": "Menghibahkan barang tersebut ke panti asuhan atas nama instansi",
+        "text": "Mengembalikan langsung ke kurir dalam 60 hari kerja",
         "score": 0
       },
       {
@@ -105,11 +105,11 @@
       },
       {
         "label": "E",
-        "text": "Menyimpannya di brankas kantor hingga masa jabatan berakhir",
-        "score": 0
+        "text": "Melaporkan kepada KPK atau Unit Pengendali Gratifikasi (UPG) paling lambat 30 hari kerja sejak tanggal penerimaan",
+        "score": 5
       }
     ],
-    "correctLabel": "B",
+    "correctLabel": "E",
     "explanationBasic": "Sesuai UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 Pasal 12C, penerima gratifikasi wajib melaporkannya kepada KPK paling lambat 30 hari kerja terhitung sejak tanggal gratifikasi tersebut diterima.",
     "quickTrick": "Batas lapor gratifikasi ke KPK/UPG = 30 hari kerja!"
   },
@@ -123,31 +123,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Indonesia menutup diri dari perdagangan internasional agar mandiri penuh",
-        "score": 0
-      },
-      {
-        "label": "B",
         "text": "Indonesia bergabung ke blok ekonomi terkuat demi mempercepat pembangunan",
         "score": 0
       },
       {
+        "label": "B",
+        "text": "Indonesia membatasi hubungan diplomatik dengan negara bekas penjajah",
+        "score": 0
+      },
+      {
         "label": "C",
+        "text": "Indonesia menutup diri dari perdagangan internasional agar mandiri penuh",
+        "score": 0
+      },
+      {
+        "label": "D",
         "text": "Indonesia bersikap bebas aktif dan tidak memihak blok Barat maupun blok Timur selama Perang Dingin demi menjaga kedaulatan nasional",
         "score": 5
       },
       {
-        "label": "D",
-        "text": "Indonesia memprioritaskan kerja sama militer hanya dengan negara tetangga Asia Tenggara",
-        "score": 0
-      },
-      {
         "label": "E",
-        "text": "Indonesia membatasi hubungan diplomatik dengan negara bekas penjajah",
+        "text": "Indonesia memprioritaskan kerja sama militer hanya dengan negara tetangga Asia Tenggara",
         "score": 0
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "D",
     "explanationBasic": "Doktrin 'Mendayung di Antara Dua Karang' oleh Wakil Presiden Mohammad Hatta menjadi dasar politik luar negeri Bebas Aktif Indonesia: tidak masuk pakta militer blok Barat (AS) maupun Timur (Uni Soviet), tetapi aktif memperjuangkan perdamaian dunia.",
     "quickTrick": "Dua Karang Hatta = Blok Barat vs Blok Timur -> lahir politik Bebas Aktif."
   },
@@ -161,31 +161,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Mewajibkan seluruh siswa mengikuti satu jenis ekstrakurikuler keagamaan yang sama",
-        "score": 0
-      },
-      {
-        "label": "B",
-        "text": "Menyediakan fasilitas ruang ibadah dan guru agama sesuai keyakinan masing-masing peserta didik di sekolah negeri",
-        "score": 5
-      },
-      {
-        "label": "C",
         "text": "Melarang perayaan hari besar keagamaan di ruang terbuka publik",
         "score": 0
       },
       {
-        "label": "D",
+        "label": "B",
         "text": "Membatasi pendirian tempat ibadah hanya di ibu kota provinsi",
         "score": 0
       },
       {
-        "label": "E",
+        "label": "C",
         "text": "Menghapus mata pelajaran pendidikan agama dari kurikulum sekolah",
         "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Mewajibkan seluruh siswa mengikuti satu jenis ekstrakurikuler keagamaan yang sama",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Menyediakan fasilitas ruang ibadah dan guru agama sesuai keyakinan masing-masing peserta didik di sekolah negeri",
+        "score": 5
       }
     ],
-    "correctLabel": "B",
+    "correctLabel": "E",
     "explanationBasic": "Sila Ketuhanan Yang Maha Esa dan Pasal 29 UUD 1945 menuntut perlakuan setara serta pemenuhan hak beribadah dan pendidikan agama sesuai keyakinan masing-masing warga negara.",
     "quickTrick": "Sila 1 dalam layanan publik = fasilitasi setara sesuai keyakinan tiap warga, tanpa pemaksaan."
   },
@@ -204,7 +204,7 @@
       },
       {
         "label": "B",
-        "text": "Aparatur Sipil Negara di seluruh kementerian",
+        "text": "Organisasi masyarakat dan relawan bencana",
         "score": 0
       },
       {
@@ -214,7 +214,7 @@
       },
       {
         "label": "D",
-        "text": "Organisasi masyarakat dan relawan bencana",
+        "text": "Aparatur Sipil Negara di seluruh kementerian",
         "score": 0
       },
       {
@@ -237,31 +237,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Akulturasi budaya",
-        "score": 0
-      },
-      {
-        "label": "B",
         "text": "Asimilasi sosial",
         "score": 0
       },
       {
+        "label": "B",
+        "text": "Integrasi nasional",
+        "score": 0
+      },
+      {
         "label": "C",
+        "text": "Akulturasi budaya",
+        "score": 0
+      },
+      {
+        "label": "D",
         "text": "Etnosentrisme",
         "score": 5
       },
       {
-        "label": "D",
-        "text": "Pluralisme konstruktif",
-        "score": 0
-      },
-      {
         "label": "E",
-        "text": "Integrasi nasional",
+        "text": "Pluralisme konstruktif",
         "score": 0
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "D",
     "explanationBasic": "Etnosentrisme adalah pandangan atau sikap menilai budaya lain menggunakan standar budaya sendiri dan menganggap budayanya paling tinggi, yang dapat menghambat persatuan Bhinneka Tunggal Ika.",
     "quickTrick": "Menganggap suku/budaya sendiri paling unggul = Etnosentrisme."
   },
@@ -313,31 +313,31 @@
     "options": [
       {
         "label": "A",
-        "text": "ASN hanya boleh berkampanye setelah mengajukan cuti tahunan",
-        "score": 0
-      },
-      {
-        "label": "B",
-        "text": "Netralitas ASN berlaku penuh baik di jam kerja maupun di luar jam kerja termasuk di ruang digital agar pelayanan publik bebas dari keberpihakan politik",
-        "score": 5
-      },
-      {
-        "label": "C",
         "text": "Unggahan di media sosial pribadi dilarang bagi seluruh warga negara",
         "score": 0
       },
       {
-        "label": "D",
+        "label": "B",
+        "text": "Simbol dukungan politik diperbolehkan asalkan tidak memakai seragam dinas",
+        "score": 0
+      },
+      {
+        "label": "C",
         "text": "ASN hanya dilarang mendukung calon dari luar daerah tugasnya",
         "score": 0
       },
       {
+        "label": "D",
+        "text": "Netralitas ASN berlaku penuh baik di jam kerja maupun di luar jam kerja termasuk di ruang digital agar pelayanan publik bebas dari keberpihakan politik",
+        "score": 5
+      },
+      {
         "label": "E",
-        "text": "Simbol dukungan politik diperbolehkan asalkan tidak memakai seragam dinas",
+        "text": "ASN hanya boleh berkampanye setelah mengajukan cuti tahunan",
         "score": 0
       }
     ],
-    "correctLabel": "B",
+    "correctLabel": "D",
     "explanationBasic": "UU ASN menegaskan asas netralitas bahwa pegawai ASN dilarang menunjukkan keberpihakan atau dukungan politik praktis baik luring maupun daring kapan pun selama berstatus ASN.",
     "quickTrick": "Netralitas ASN = berlaku 24 jam termasuk di medsos pribadi (foto/like/komentar dukungan paslon dilarang)."
   },
@@ -356,26 +356,26 @@
       },
       {
         "label": "B",
-        "text": "Amir Sjarifuddin",
-        "score": 0
-      },
-      {
-        "label": "C",
         "text": "Sjafruddin Prawiranegara",
         "score": 5
       },
       {
+        "label": "C",
+        "text": "Amir Sjarifuddin",
+        "score": 0
+      },
+      {
         "label": "D",
-        "text": "Mohammad Natsir",
+        "text": "Jenderal Sudirman",
         "score": 0
       },
       {
         "label": "E",
-        "text": "Jenderal Sudirman",
+        "text": "Mohammad Natsir",
         "score": 0
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "B",
     "explanationBasic": "Ketika Agresi Militer Belanda II menawan Soekarno-Hatta di Yogyakarta (19 Desember 1948), mandat pembentukan PDRI di Bukittinggi diberikan kepada Mr. Sjafruddin Prawiranegara untuk membuktikan kepada dunia bahwa RI tetap ada.",
     "quickTrick": "PDRI 1948 Bukittinggi = Sjafruddin Prawiranegara (menyelamatkan eksistensi RI di mata dunia)."
   },
@@ -389,18 +389,18 @@
     "options": [
       {
         "label": "A",
-        "text": "Mahkamah Konstitusi",
+        "text": "Dewan Pertimbangan Presiden",
         "score": 0
       },
       {
         "label": "B",
-        "text": "Komisi Pemberantasan Korupsi",
+        "text": "Mahkamah Konstitusi",
         "score": 0
       },
       {
         "label": "C",
-        "text": "Komisi Yudisial",
-        "score": 5
+        "text": "Komisi Pemberantasan Korupsi",
+        "score": 0
       },
       {
         "label": "D",
@@ -409,11 +409,11 @@
       },
       {
         "label": "E",
-        "text": "Dewan Pertimbangan Presiden",
-        "score": 0
+        "text": "Komisi Yudisial",
+        "score": 5
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "E",
     "explanationBasic": "Pasal 24B ayat (1) UUD NRI 1945 mengatur Komisi Yudisial bersifat mandiri yang berwenang mengusulkan pengangkatan hakim agung dan menjaga keluhuran martabat serta perilaku hakim.",
     "quickTrick": "Pasal 24B: Usul hakim agung + awasi perilaku hakim = Komisi Yudisial (KY)."
   },
@@ -427,17 +427,17 @@
     "options": [
       {
         "label": "A",
-        "text": "kualitas, jadwal, sistem, praktik",
-        "score": 5
+        "text": "kualitas, jadwal, sistim, praktik",
+        "score": 0
       },
       {
         "label": "B",
-        "text": "kwalitas, jadual, sistim, praktek",
+        "text": "kualitas, jadual, sistem, praktek",
         "score": 0
       },
       {
         "label": "C",
-        "text": "kualitas, jadual, sistem, praktek",
+        "text": "kwalitas, jadual, sistim, praktek",
         "score": 0
       },
       {
@@ -447,11 +447,11 @@
       },
       {
         "label": "E",
-        "text": "kualitas, jadwal, sistim, praktik",
-        "score": 0
+        "text": "kualitas, jadwal, sistem, praktik",
+        "score": 5
       }
     ],
-    "correctLabel": "A",
+    "correctLabel": "E",
     "explanationBasic": "Bentuk baku KBBI adalah kualitas (bukan kwalitas), jadwal (bukan jadual), sistem (bukan sistim), dan praktik (bukan praktek).",
     "quickTrick": "Hafalan wajib: kualitas, jadwal, sistem, praktik (semua pakai 'i'/'u', bukan 'e'/'w')."
   },
@@ -465,31 +465,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Ideologi politik semata",
-        "score": 0
-      },
-      {
-        "label": "B",
-        "text": "Kemampuan militer perbatasan",
-        "score": 0
-      },
-      {
-        "label": "C",
         "text": "Kedaulatan energi dan ekonomi nasional",
         "score": 5
       },
       {
-        "label": "D",
+        "label": "B",
+        "text": "Budaya populer masyarakat",
+        "score": 0
+      },
+      {
+        "label": "C",
         "text": "Hubungan diplomatik bilateral",
         "score": 0
       },
       {
+        "label": "D",
+        "text": "Kemampuan militer perbatasan",
+        "score": 0
+      },
+      {
         "label": "E",
-        "text": "Budaya populer masyarakat",
+        "text": "Ideologi politik semata",
         "score": 0
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "A",
     "explanationBasic": "Kemandirian energi terbarukan mengurangi kerentanan negara terhadap gejolak pasokan global, sehingga memperkuat dimensi ekonomi dan ketahanan nasional sebagai bentuk Bela Negara non-militer.",
     "quickTrick": "Energi lokal/terbarukan = ketahanan ekonomi & kedaulatan energi."
   },
@@ -503,31 +503,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Pertama",
-        "score": 0
+        "text": "Kelima",
+        "score": 5
       },
       {
         "label": "B",
-        "text": "Kedua",
-        "score": 0
-      },
-      {
-        "label": "C",
-        "text": "Ketiga",
-        "score": 0
-      },
-      {
-        "label": "D",
         "text": "Keempat",
         "score": 0
       },
       {
+        "label": "C",
+        "text": "Kedua",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Pertama",
+        "score": 0
+      },
+      {
         "label": "E",
-        "text": "Kelima",
-        "score": 5
+        "text": "Ketiga",
+        "score": 0
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "Penguasaan sumber daya alam oleh negara untuk kemakmuran rakyat banyak secara merata mencerminkan nilai keadilan sosial bagi seluruh rakyat Indonesia (Sila Kelima).",
     "quickTrick": "Pasal 33 & 34 UUD 1945 (ekonomi & kesejahteraan rakyat) = Sila ke-5."
   },
@@ -537,37 +537,37 @@
     "subtopic": "Bahasa Indonesia",
     "packageId": "paket_4",
     "isHots": true,
-    "questionText": "Perhatikan penulisan judul buku dan istilah asing dalam kalimat berikut! Manakah yang sesuai kaidah EYD Edisi V?",
+    "questionText": "Manakah penulisan gelar akademik dan sapaan yang seluruhnya tepat sesuai kaidah EYD Edisi V?",
     "options": [
       {
         "label": "A",
-        "text": "Ia membaca buku Dasar-Dasar Hukum Tata Negara di perpustakaan.",
+        "text": "Prof. Dr. Hendra Wijaya SH. menghadiri rapat koordinasi.",
         "score": 0
       },
       {
         "label": "B",
-        "text": "Para peserta wajib memahami istilah conflict of interest saat menyusun laporan.",
+        "text": "Ibu dr. Larasati, SpA menerima penghargaan pelayanan prima.",
         "score": 0
       },
       {
         "label": "C",
-        "text": "Artikel berjudul 'Transformasi Birokrasi Digital' dimuat di majalah Tempo.",
+        "text": "Dr. Ratna Sari, M.Pd. memberikan arahan kepada calon ASN.",
         "score": 5
       },
       {
         "label": "D",
-        "text": "Rapat membahas rencana kerja (workplan) tanpa menggunakan huruf miring.",
+        "text": "Bapak Drs Bambang Setiawan, M.Si menyampaikan materi.",
         "score": 0
       },
       {
         "label": "E",
-        "text": "Makalah berjudul Efektivitas Layanan Publik sangat diminati pembaca.",
+        "text": "Saudara Ir. Ahmad Fauzi M.T, memimpin proyek sistem baru.",
         "score": 0
       }
     ],
     "correctLabel": "C",
-    "explanationBasic": "Menurut EYD V, judul artikel dalam kalimat diapit tanda petik ganda/tunggal sedangkan nama majalah/koran/buku ditulis miring (dalam teks biasa tanpa markup miring, judul artikel pakai tanda petik sudah tepat dibanding opsi lain yang seluruhnya salah aturan; opsi A, B, D, E kurang penandaan judul/asing). Note: pada opsi C, 'Transformasi Birokrasi Digital' memakai tanda kutip judul artikel yang tepat.",
-    "quickTrick": "Judul artikel = tanda petik; judul buku/majalah & istilah asing = huruf miring."
+    "explanationBasic": "Sesuai EYD Edisi V, singkatan gelar akademik di depan maupun belakang nama wajib memakai tanda titik per unsur gelar, dan gelar di belakang nama didahului tanda koma (Dr. Ratna Sari, M.Pd.). Opsi A kurang koma sebelum S.H. dan titik antarhuruf; opsi B kurang titik pada Sp.A.; opsi D tanpa titik setelah Drs. dan M.Si.; opsi E salah menempatkan koma setelah gelar.",
+    "quickTrick": "Aturan gelar EYD V: depan nama pakai titik ('Dr.'), belakang nama didahului koma + titik tiap unsur (', M.Pd.', ', S.H.')."
   },
   {
     "id": "p4_tiu_01",
@@ -579,31 +579,31 @@
     "options": [
       {
         "label": "A",
-        "text": "52",
-        "score": 0
-      },
-      {
-        "label": "B",
-        "text": "54",
-        "score": 0
-      },
-      {
-        "label": "C",
         "text": "56",
         "score": 5
       },
       {
-        "label": "D",
+        "label": "B",
+        "text": "52",
+        "score": 0
+      },
+      {
+        "label": "C",
         "text": "58",
         "score": 0
       },
       {
-        "label": "E",
+        "label": "D",
         "text": "60",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "54",
         "score": 0
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "A",
     "explanationBasic": "Selisih antar suku berturut-turut adalah +4, +6, +8, +10, +12. Maka suku berikutnya 42 + 14 = 56 (atau pola n(n+1): 7 x 8 = 56).",
     "quickTrick": "Pola selisih genap naik (+4, +6, +8, +10, +12, +14) atau 7x8 = 56."
   },
@@ -617,31 +617,31 @@
     "options": [
       {
         "label": "A",
-        "text": "56, 76",
-        "score": 5
-      },
-      {
-        "label": "B",
-        "text": "42, 76",
-        "score": 0
-      },
-      {
-        "label": "C",
         "text": "56, 78",
         "score": 0
       },
       {
+        "label": "B",
+        "text": "54, 74",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "56, 76",
+        "score": 5
+      },
+      {
         "label": "D",
-        "text": "49, 76",
+        "text": "42, 76",
         "score": 0
       },
       {
         "label": "E",
-        "text": "54, 74",
+        "text": "49, 76",
         "score": 0
       }
     ],
-    "correctLabel": "A",
+    "correctLabel": "C",
     "explanationBasic": "Larik ganjil dikali 2: 7 -> 14 -> 28 -> 56. Larik genap dikurangi 8: 100 -> 92 -> 84 -> 76.",
     "quickTrick": "Pisah ganjil (x2) dan genap (-8): 28x2=56 dan 84-8=76."
   },
@@ -655,33 +655,33 @@
     "options": [
       {
         "label": "A",
-        "text": "70",
-        "score": 0
-      },
-      {
-        "label": "B",
-        "text": "75",
-        "score": 0
-      },
-      {
-        "label": "C",
-        "text": "80",
-        "score": 5
-      },
-      {
-        "label": "D",
         "text": "85",
         "score": 0
       },
       {
-        "label": "E",
+        "label": "B",
         "text": "90",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "75",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "80",
+        "score": 5
+      },
+      {
+        "label": "E",
+        "text": "70",
         "score": 0
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "D",
     "explanationBasic": "87,5% = 7/8. Jadi (7/8 x 160) - (2/5 x 150) = (7 x 20) - (2 x 30) = 140 - 60 = 80.",
-    "quickTrick": "87,5% = 7/8 -> 7x20 - 60 = 80."
+    "quickTrick": "Hafal cepat perdelapan: 12,5% = 1/8 maka 87,5% = 7/8. Coret 160/8 = 20 → 7×20 - 2×30 = 80."
   },
   {
     "id": "p4_tiu_04",
@@ -698,17 +698,17 @@
       },
       {
         "label": "B",
+        "text": "a = 2b",
+        "score": 0
+      },
+      {
+        "label": "C",
         "text": "a < b",
         "score": 5
       },
       {
-        "label": "C",
-        "text": "a = b",
-        "score": 0
-      },
-      {
         "label": "D",
-        "text": "a = 2b",
+        "text": "a = b",
         "score": 0
       },
       {
@@ -717,7 +717,7 @@
         "score": 0
       }
     ],
-    "correctLabel": "B",
+    "correctLabel": "C",
     "explanationBasic": "a = (45 + 35)(45 - 35) = 80 x 10 = 800. Sedangkan b = 80 x 11 = 880. Jadi a < b.",
     "quickTrick": "Pakai selisih kuadrat: (45+35)(45-35) = 80x10 < 80x11."
   },
@@ -731,22 +731,22 @@
     "options": [
       {
         "label": "A",
-        "text": "09.00 WIB",
+        "text": "10.30 WIB",
         "score": 0
       },
       {
         "label": "B",
-        "text": "09.30 WIB",
-        "score": 0
-      },
-      {
-        "label": "C",
         "text": "10.00 WIB",
         "score": 5
       },
       {
+        "label": "C",
+        "text": "09.00 WIB",
+        "score": 0
+      },
+      {
         "label": "D",
-        "text": "10.30 WIB",
+        "text": "09.30 WIB",
         "score": 0
       },
       {
@@ -755,7 +755,7 @@
         "score": 0
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "B",
     "explanationBasic": "Selisih jarak awal saat mobil berangkat pukul 08.00 = 40 km/jam x 1 jam = 40 km. Waktu menyusul = Selisih Jarak / Selisih Kecepatan = 40 / (60 - 40) = 2 jam. Jadi menyusul pukul 08.00 + 2 jam = 10.00 WIB.",
     "quickTrick": "Rumus menyusul: t = (v1 x dt) / (v2 - v1) = 40/20 = 2 jam setelah mobil jalan (08.00 + 2 = 10.00)."
   },
@@ -807,8 +807,8 @@
     "options": [
       {
         "label": "A",
-        "text": "12 hari",
-        "score": 0
+        "text": "15 hari",
+        "score": 5
       },
       {
         "label": "B",
@@ -817,8 +817,8 @@
       },
       {
         "label": "C",
-        "text": "15 hari",
-        "score": 5
+        "text": "12 hari",
+        "score": 0
       },
       {
         "label": "D",
@@ -831,7 +831,7 @@
         "score": 0
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "A",
     "explanationBasic": "Perbandingan berbalik nilai: 30 x 20 = (30 + 10) x H -> 600 = 40 x H -> H = 15 hari.",
     "quickTrick": "Anak bertambah -> waktu makin cepat: 30 x 20 / 40 = 15 hari."
   },
@@ -845,31 +845,31 @@
     "options": [
       {
         "label": "A",
-        "text": "15%",
-        "score": 0
-      },
-      {
-        "label": "B",
-        "text": "18%",
-        "score": 0
-      },
-      {
-        "label": "C",
-        "text": "20%",
-        "score": 5
-      },
-      {
-        "label": "D",
         "text": "24%",
         "score": 0
       },
       {
-        "label": "E",
+        "label": "B",
         "text": "25%",
         "score": 0
+      },
+      {
+        "label": "C",
+        "text": "18%",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "15%",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "20%",
+        "score": 5
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "E",
     "explanationBasic": "1 kodi = 20 buah. Harga beli per tas = 1.600.000 / 20 = Rp80.000. Untung per tas = 96.000 - 80.000 = Rp16.000. Persentase untung = (16.000 / 80.000) x 100% = 20%.",
     "quickTrick": "1 kodi = 20 pcs -> Beli 80rb, jual 96rb -> untung 16rb/80rb = 1/5 = 20%."
   },
@@ -883,12 +883,12 @@
     "options": [
       {
         "label": "A",
-        "text": "Kelembapan",
+        "text": "Ketinggian laut",
         "score": 0
       },
       {
         "label": "B",
-        "text": "Kecepatan angin",
+        "text": "Curah hujan",
         "score": 0
       },
       {
@@ -898,12 +898,12 @@
       },
       {
         "label": "D",
-        "text": "Curah hujan",
+        "text": "Kelembapan",
         "score": 0
       },
       {
         "label": "E",
-        "text": "Ketinggian laut",
+        "text": "Kecepatan angin",
         "score": 0
       }
     ],
@@ -921,31 +921,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Semua berkas di meja arsip belum diverifikasi petugas.",
-        "score": 0
-      },
-      {
-        "label": "B",
         "text": "Sebagian berkas di meja arsip belum diverifikasi petugas.",
         "score": 5
       },
       {
-        "label": "C",
-        "text": "Tidak ada berkas di meja arsip yang berstempel hijau.",
+        "label": "B",
+        "text": "Sebagian dokumen yang diverifikasi petugas tidak berstempel hijau.",
         "score": 0
       },
       {
-        "label": "D",
+        "label": "C",
         "text": "Semua dokumen yang berstempel hijau berada di meja arsip.",
         "score": 0
       },
       {
+        "label": "D",
+        "text": "Semua berkas di meja arsip belum diverifikasi petugas.",
+        "score": 0
+      },
+      {
         "label": "E",
-        "text": "Sebagian dokumen yang diverifikasi petugas tidak berstempel hijau.",
+        "text": "Tidak ada berkas di meja arsip yang berstempel hijau.",
         "score": 0
       }
     ],
-    "correctLabel": "B",
+    "correctLabel": "A",
     "explanationBasic": "Karena semua yang terverifikasi pasti berstempel hijau (Verifikasi -> Hijau), maka kontraposisinya adalah Tidak Hijau -> Belum Verifikasi. Sebagian berkas belum berstempel hijau berarti sebagian berkas itu pasti belum diverifikasi petugas.",
     "quickTrick": "P->Q berarti ~Q->~P. Belum hijau = pasti belum diverifikasi (sebagian)."
   },
@@ -997,13 +997,13 @@
     "options": [
       {
         "label": "A",
-        "text": "J -> K -> L -> M -> N",
-        "score": 0
+        "text": "J -> L -> M -> N",
+        "score": 5
       },
       {
         "label": "B",
-        "text": "J -> L -> M -> N",
-        "score": 5
+        "text": "J -> L -> N",
+        "score": 0
       },
       {
         "label": "C",
@@ -1012,16 +1012,16 @@
       },
       {
         "label": "D",
-        "text": "J -> L -> N",
+        "text": "J -> M -> N",
         "score": 0
       },
       {
         "label": "E",
-        "text": "J -> M -> N",
+        "text": "J -> K -> L -> M -> N",
         "score": 0
       }
     ],
-    "correctLabel": "B",
+    "correctLabel": "A",
     "explanationBasic": "Syaratnya wajib singgah di M sebelum ke N. Rute langsung J->L->M->N hanya melalui 4 kota (valid karena ada pintas J->L, lalu L->M, M->N). Rute J->M->N tidak tersedia langsung.",
     "quickTrick": "Wajib lewat M dan rute terpendek: cek pintasan J->L -> langsung M -> N."
   },
@@ -1040,26 +1040,26 @@
       },
       {
         "label": "B",
-        "text": "Posisi 4",
+        "text": "Posisi 1",
         "score": 0
       },
       {
         "label": "C",
-        "text": "Posisi 5",
-        "score": 5
-      },
-      {
-        "label": "D",
         "text": "Posisi 2",
         "score": 0
       },
       {
+        "label": "D",
+        "text": "Posisi 5",
+        "score": 5
+      },
+      {
         "label": "E",
-        "text": "Posisi 1",
+        "text": "Posisi 4",
         "score": 0
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "D",
     "explanationBasic": "Urutan terisi: 6=Abu-abu, 2=Biru, 1=Ungu (tepat di bawah Biru), 3=Merah (tepat di atas Biru). Tersisa posisi 4 dan 5 untuk Kuning dan Hijau. Karena Kuning di bawah Hijau, maka Kuning=4 dan Hijau=5.",
     "quickTrick": "Isi pasti dulu: 1=Ungu, 2=Biru, 3=Merah, 6=Abu -> sisa 4 & 5: Kuning < Hijau => Hijau=5."
   },
@@ -1137,30 +1137,6 @@
     "options": [
       {
         "label": "A",
-        "text": "Gambar A",
-        "score": 0,
-        "figural": {
-          "shape": "ARROW",
-          "fill": "OUTLINE",
-          "rotationDeg": 270,
-          "dotPosition": "TOP_LEFT",
-          "count": 1
-        }
-      },
-      {
-        "label": "B",
-        "text": "Gambar B",
-        "score": 0,
-        "figural": {
-          "shape": "ARROW",
-          "fill": "OUTLINE",
-          "rotationDeg": 180,
-          "dotPosition": "BOTTOM_LEFT",
-          "count": 1
-        }
-      },
-      {
-        "label": "C",
         "text": "Gambar C",
         "score": 5,
         "figural": {
@@ -1172,7 +1148,7 @@
         }
       },
       {
-        "label": "D",
+        "label": "B",
         "text": "Gambar D",
         "score": 0,
         "figural": {
@@ -1184,7 +1160,7 @@
         }
       },
       {
-        "label": "E",
+        "label": "C",
         "text": "Gambar E",
         "score": 0,
         "figural": {
@@ -1194,11 +1170,35 @@
           "dotPosition": "BOTTOM_LEFT",
           "count": 1
         }
+      },
+      {
+        "label": "D",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 270,
+          "dotPosition": "TOP_LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar B",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 180,
+          "dotPosition": "BOTTOM_LEFT",
+          "count": 1
+        }
       }
     ],
-    "correctLabel": "C",
+    "correctLabel": "A",
     "explanationBasic": "Setiap langkah, panah berputar +90° searah jarum jam (0° -> 90° -> 180° -> 270°) dan titik berpindah sudut searah jarum jam (kiri atas -> kanan atas -> kanan bawah -> kiri bawah), sedangkan isian tetap outline.",
-    "quickTrick": "Panah putar +90° (ke kiri = 270°) dan titik geser ke kiri bawah -> C."
+    "quickTrick": "Panah putar +90° (ke kiri = 270°) dan titik geser ke kiri bawah -> A."
   },
   {
     "id": "p4_tiu_16",
@@ -1248,30 +1248,6 @@
       },
       {
         "label": "B",
-        "text": "Gambar B",
-        "score": 5,
-        "figural": {
-          "shape": "SQUARE",
-          "fill": "OUTLINE",
-          "rotationDeg": 0,
-          "dotPosition": "NONE",
-          "count": 4
-        }
-      },
-      {
-        "label": "C",
-        "text": "Gambar C",
-        "score": 0,
-        "figural": {
-          "shape": "SQUARE",
-          "fill": "STRIPED",
-          "rotationDeg": 0,
-          "dotPosition": "NONE",
-          "count": 4
-        }
-      },
-      {
-        "label": "D",
         "text": "Gambar D",
         "score": 0,
         "figural": {
@@ -1283,7 +1259,19 @@
         }
       },
       {
-        "label": "E",
+        "label": "C",
+        "text": "Gambar B",
+        "score": 5,
+        "figural": {
+          "shape": "SQUARE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 4
+        }
+      },
+      {
+        "label": "D",
         "text": "Gambar E",
         "score": 0,
         "figural": {
@@ -1293,11 +1281,23 @@
           "dotPosition": "NONE",
           "count": 4
         }
+      },
+      {
+        "label": "E",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "SQUARE",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 4
+        }
       }
     ],
-    "correctLabel": "B",
+    "correctLabel": "C",
     "explanationBasic": "Jumlah persegi bertambah 1 tiap langkah (1, 2, 3, 4) dan jenis isian berulang siklus 3 langkah: Outline -> Striped -> Solid -> kembali ke Outline.",
-    "quickTrick": "Jumlah = 4 persegi; siklus warna kembali ke Outline -> B."
+    "quickTrick": "Jumlah = 4 persegi; siklus warna kembali ke Outline -> C."
   },
   {
     "id": "p4_tiu_17",
@@ -1338,15 +1338,15 @@
     "options": [
       {
         "label": "A",
-        "text": "Gambar A",
+        "text": "Gambar E",
         "score": 0,
         "figural": {
-          "shape": "SQUARE",
+          "shape": "CIRCLE",
           "fill": "SOLID",
           "rotationDeg": 0,
           "dotPosition": "NONE",
           "count": 1,
-          "innerShape": "DIAMOND"
+          "innerShape": "SQUARE"
         }
       },
       {
@@ -1364,6 +1364,19 @@
       },
       {
         "label": "C",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "SQUARE",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "DIAMOND"
+        }
+      },
+      {
+        "label": "D",
         "text": "Gambar C",
         "score": 0,
         "figural": {
@@ -1376,7 +1389,7 @@
         }
       },
       {
-        "label": "D",
+        "label": "E",
         "text": "Gambar D",
         "score": 5,
         "figural": {
@@ -1387,24 +1400,11 @@
           "count": 1,
           "innerShape": "SQUARE"
         }
-      },
-      {
-        "label": "E",
-        "text": "Gambar E",
-        "score": 0,
-        "figural": {
-          "shape": "CIRCLE",
-          "fill": "SOLID",
-          "rotationDeg": 0,
-          "dotPosition": "NONE",
-          "count": 1,
-          "innerShape": "SQUARE"
-        }
       }
     ],
-    "correctLabel": "D",
+    "correctLabel": "E",
     "explanationBasic": "Aturan transformasi: bangun luar dan bangun dalam bertukar posisi, lalu bangun luar berubah dari Outline menjadi Solid. Jadi Persegi(dalam Belah Ketupat) menjadi Belah Ketupat Solid(dalam Persegi).",
-    "quickTrick": "Tukar luar<->dalam + ubah jadi Solid => Belah Ketupat Solid berisi Persegi (D)."
+    "quickTrick": "Tukar luar<->dalam + ubah jadi Solid => Belah Ketupat Solid berisi Persegi (E)."
   },
   {
     "id": "p4_tiu_18",
@@ -1498,18 +1498,18 @@
     "options": [
       {
         "label": "A",
+        "text": "Menenangkannya serta menyarankan duduk di kursi sudut agar tidak terhimpit pemohon lain.",
+        "score": 3
+      },
+      {
+        "label": "B",
         "text": "Mengabaikannya karena semua pemohon wajib menunggu giliran tanpa terkecuali.",
         "score": 1
       },
       {
-        "label": "B",
-        "text": "Memintanya pulang dulu dan kembali lagi saat sore hari ketika sudah sepi.",
-        "score": 2
-      },
-      {
         "label": "C",
-        "text": "Menenangkannya serta menyarankan duduk di kursi sudut agar tidak terhimpit pemohon lain.",
-        "score": 3
+        "text": "Mengarahkannya ke ruang khusus kelompok rentan/laktasi yang nyaman sambil memastikan pemanggilan nomornya dibantu sesuai giliran atau jalur prioritas resmi instansi.",
+        "score": 5
       },
       {
         "label": "D",
@@ -1518,11 +1518,11 @@
       },
       {
         "label": "E",
-        "text": "Mengarahkannya ke ruang khusus kelompok rentan/laktasi yang nyaman sambil memastikan pemanggilan nomornya dibantu sesuai giliran atau jalur prioritas resmi instansi.",
-        "score": 5
+        "text": "Memintanya pulang dulu dan kembali lagi saat sore hari ketika sudah sepi.",
+        "score": 2
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "C",
     "explanationBasic": "Pelayanan publik berorientasi kelompok rentan menyediakan ruang nyaman serta memanfaatkan jalur prioritas resmi tanpa menimbulkan gesekan antrean.",
     "quickTrick": "Skor 5 Pelayanan Kelompok Rentan = Fasilitasi ruang nyaman + jalur prioritas resmi."
   },
@@ -1536,31 +1536,31 @@
     "options": [
       {
         "label": "A",
+        "text": "Memastikan kebutuhan dasarnya, menjelaskan dengan ramah bahwa kewenangan ada di dinas terkait, lalu memberikan kontak resmi, alamat loket, serta ringkasan syarat awal yang perlu disiapkan.",
+        "score": 5
+      },
+      {
+        "label": "B",
         "text": "Menutup telepon setelah mengatakan bahwa itu bukan urusan kantor Anda.",
         "score": 1
       },
       {
-        "label": "B",
+        "label": "C",
         "text": "Meminta warga mencari sendiri nomor telepon dinas terkait di internet.",
         "score": 2
       },
       {
-        "label": "C",
+        "label": "D",
         "text": "Memberi tahu nama dinas yang berwenang dengan singkat.",
         "score": 3
       },
       {
-        "label": "D",
+        "label": "E",
         "text": "Menjelaskan dinas tujuan yang berwenang serta memberikan alamat dan nomor kontaknya.",
         "score": 4
-      },
-      {
-        "label": "E",
-        "text": "Memastikan kebutuhan dasarnya, menjelaskan dengan ramah bahwa kewenangan ada di dinas terkait, lalu memberikan kontak resmi, alamat loket, serta ringkasan syarat awal yang perlu disiapkan.",
-        "score": 5
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "Walaupun bukan kewenangan unit kerja, ASN tetap memberi informasi lintas instansi secara tuntas agar masyarakat tidak dipingpong.",
     "quickTrick": "Skor 5 = Jangan pingpong warga; beri arah tujuan, kontak resmi, dan panduan awal."
   },
@@ -1574,18 +1574,18 @@
     "options": [
       {
         "label": "A",
-        "text": "Menghapus ulasan negatif agar penilaian kinerja unit terlihat tetap bagus.",
-        "score": 1
+        "text": "Membalas ulasan tersebut dengan permintaan maaf standar.",
+        "score": 3
       },
       {
         "label": "B",
-        "text": "Membiarkannya karena keluhan di media daring sering bersifat emosional.",
-        "score": 2
+        "text": "Menelusuri akar keterlambatan pada alur minggu lalu, menghubungi pemohon dengan klarifikasi solutif bila ada kontak, dan memperbaiki standar waktu proses tim loket.",
+        "score": 5
       },
       {
         "label": "C",
-        "text": "Membalas ulasan tersebut dengan permintaan maaf standar.",
-        "score": 3
+        "text": "Menghapus ulasan negatif agar penilaian kinerja unit terlihat tetap bagus.",
+        "score": 1
       },
       {
         "label": "D",
@@ -1594,11 +1594,11 @@
       },
       {
         "label": "E",
-        "text": "Menelusuri akar keterlambatan pada alur minggu lalu, menghubungi pemohon dengan klarifikasi solutif bila ada kontak, dan memperbaiki standar waktu proses tim loket.",
-        "score": 5
+        "text": "Membiarkannya karena keluhan di media daring sering bersifat emosional.",
+        "score": 2
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "B",
     "explanationBasic": "Komplain publik adalah umpan balik perbaikan nyata (audit akar masalah + tindak lanjut konkret), bukan untuk disembunyikan.",
     "quickTrick": "Skor 5 Keluhan Publik = Telusuri akar masalah + tindak lanjut + perbaiki SOP."
   },
@@ -1612,31 +1612,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Meminta pemohon pulang dan membawa pendamping yang bisa bahasa Indonesia.",
-        "score": 1
-      },
-      {
-        "label": "B",
-        "text": "Menebak-nebak keperluannya agar antrean cepat bergerak.",
-        "score": 2
-      },
-      {
-        "label": "C",
-        "text": "Memintanya menulis maksudnya di kertas dengan pelan.",
-        "score": 3
-      },
-      {
-        "label": "D",
         "text": "Menggunakan bahasa isyarat sederhana sambil mencocokkan daftar layanan tertulis.",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "B",
+        "text": "Memintanya menulis maksudnya di kertas dengan pelan.",
+        "score": 3
+      },
+      {
+        "label": "C",
+        "text": "Menebak-nebak keperluannya agar antrean cepat bergerak.",
+        "score": 2
+      },
+      {
+        "label": "D",
         "text": "Meminta bantuan rekan yang mengerti bahasa daerahnya secara sopan untuk menerjemahkan agar kebutuhan warga terpenuhi akurat.",
         "score": 5
+      },
+      {
+        "label": "E",
+        "text": "Meminta pemohon pulang dan membawa pendamping yang bisa bahasa Indonesia.",
+        "score": 1
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "D",
     "explanationBasic": "Kolaborasi internal untuk mengatasi hambatan bahasa memastikan warga menerima hak layanan yang benar dan tepat.",
     "quickTrick": "Skor 5 = Libatkan rekan penerjemah / alat bantu komunikasi agar tepat sasaran."
   },
@@ -1650,13 +1650,13 @@
     "options": [
       {
         "label": "A",
-        "text": "Mengabaikannya dan tetap menjalankan rancangan Anda bersama rekan muda lainnya.",
-        "score": 1
+        "text": "Melaporkannya kepada pimpinan bahwa rekan tersebut menghambat perubahan.",
+        "score": 2
       },
       {
         "label": "B",
-        "text": "Melaporkannya kepada pimpinan bahwa rekan tersebut menghambat perubahan.",
-        "score": 2
+        "text": "Mengabaikannya dan tetap menjalankan rancangan Anda bersama rekan muda lainnya.",
+        "score": 1
       },
       {
         "label": "C",
@@ -1688,8 +1688,8 @@
     "options": [
       {
         "label": "A",
-        "text": "Menolak mentah-mentah permintaan itu karena rundown sudah dicetak.",
-        "score": 1
+        "text": "Mengadakan koordinasi cepat bersama perwakilan ketiga mitra untuk mencari kompromi jadwal terbaik yang adil dan tidak merugikan acara utama.",
+        "score": 5
       },
       {
         "label": "B",
@@ -1703,16 +1703,16 @@
       },
       {
         "label": "D",
-        "text": "Memutuskan jadwal baru sepihak lalu mengirimkannya lewat grup pesan.",
-        "score": 4
+        "text": "Menolak mentah-mentah permintaan itu karena rundown sudah dicetak.",
+        "score": 1
       },
       {
         "label": "E",
-        "text": "Mengadakan koordinasi cepat bersama perwakilan ketiga mitra untuk mencari kompromi jadwal terbaik yang adil dan tidak merugikan acara utama.",
-        "score": 5
+        "text": "Memutuskan jadwal baru sepihak lalu mengirimkannya lewat grup pesan.",
+        "score": 4
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "Koordinasi multipihak membutuhkan komunikasi terbuka kepada seluruh pemangku kepentingan agar kesepakatan berjalan mulus.",
     "quickTrick": "Skor 5 = Koordinasi cepat semua pihak + cari titik temu adil."
   },
@@ -1741,16 +1741,16 @@
       },
       {
         "label": "D",
-        "text": "Menyampaikan garis besarnya secara lisan saat makan siang.",
-        "score": 4
+        "text": "Menjadwalkan sesi sharing singkat 30 menit di jam yang tidak mengganggu layanan, lengkap dengan ringkasan langkah praktis yang mudah langsung dipakai tim.",
+        "score": 5
       },
       {
         "label": "E",
-        "text": "Menjadwalkan sesi sharing singkat 30 menit di jam yang tidak mengganggu layanan, lengkap dengan ringkasan langkah praktis yang mudah langsung dipakai tim.",
-        "score": 5
+        "text": "Menyampaikan garis besarnya secara lisan saat makan siang.",
+        "score": 4
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "D",
     "explanationBasic": "Transfer pengetahuan terstruktur meningkatkan kapasitas seluruh jaringan tim tanpa mengganggu target layanan.",
     "quickTrick": "Skor 5 = Berbagi ilmu terstruktur + ringkas + praktis untuk tim."
   },
@@ -1764,31 +1764,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Memberikan seluruh basis data mentah termasuk data pribadi pemohon agar cepat.",
-        "score": 1
-      },
-      {
-        "label": "B",
         "text": "Menolaknya dengan alasan sibuk agar tidak repot.",
         "score": 2
       },
       {
+        "label": "B",
+        "text": "Menyiapkan data agregat publik yang diizinkan sesuai prosedur resmi instansi serta menjelaskan batas pemakaian datanya dengan ramah.",
+        "score": 5
+      },
+      {
         "label": "C",
+        "text": "Memberikan seluruh basis data mentah termasuk data pribadi pemohon agar cepat.",
+        "score": 1
+      },
+      {
+        "label": "D",
         "text": "Memintanya datang sendiri mengurus surat permohonan bermaterai terlebih dahulu.",
         "score": 3
       },
       {
-        "label": "D",
+        "label": "E",
         "text": "Mengirimkan tautan situs portal statistik umum instansi agar ia mencari sendiri.",
         "score": 4
-      },
-      {
-        "label": "E",
-        "text": "Menyiapkan data agregat publik yang diizinkan sesuai prosedur resmi instansi serta menjelaskan batas pemakaian datanya dengan ramah.",
-        "score": 5
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "B",
     "explanationBasic": "Jejaring kerja profesional memadukan semangat membantu mitra dengan kepatuhan mutlak pada privasi data.",
     "quickTrick": "Skor 5 = Bantu ramah lewat data non-rahasia sesuai prosedur resmi."
   },
@@ -1802,13 +1802,13 @@
     "options": [
       {
         "label": "A",
-        "text": "Tetap menggelar penyuluhan pukul 08.00 karena sesuai jam kerja kantor pusat.",
-        "score": 1
+        "text": "Menghentikan program penyuluhan karena menganggap warga kurang bersemangat.",
+        "score": 2
       },
       {
         "label": "B",
-        "text": "Menghentikan program penyuluhan karena menganggap warga kurang bersemangat.",
-        "score": 2
+        "text": "Tetap menggelar penyuluhan pukul 08.00 karena sesuai jam kerja kantor pusat.",
+        "score": 1
       },
       {
         "label": "C",
@@ -1817,16 +1817,16 @@
       },
       {
         "label": "D",
-        "text": "Meminta perangkat desa mewajibkan warga hadir pukul 08.00 dengan absensi.",
-        "score": 4
+        "text": "Berdiskusi dengan tokoh nelayan untuk menyesuaikan waktu penyuluhan ke jam sepulang melaut agar program tetap efektif tanpa mengganggu mata pencaharian warga.",
+        "score": 5
       },
       {
         "label": "E",
-        "text": "Berdiskusi dengan tokoh nelayan untuk menyesuaikan waktu penyuluhan ke jam sepulang melaut agar program tetap efektif tanpa mengganggu mata pencaharian warga.",
-        "score": 5
+        "text": "Meminta perangkat desa mewajibkan warga hadir pukul 08.00 dengan absensi.",
+        "score": 4
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "D",
     "explanationBasic": "Adaptasi sosial budaya menghormati ritme hidup dan ekonomi lokal sambil menjaga efektivitas program negara.",
     "quickTrick": "Skor 5 = Libatkan tokoh lokal + sesuaikan waktu/pendekatan tanpa benturan."
   },
@@ -1840,18 +1840,18 @@
     "options": [
       {
         "label": "A",
+        "text": "Mengingatkan secara santun agar komunikasi di grup kedinasan memakai bahasa Indonesia yang jelas supaya dipahami semua rekan lintas daerah.",
+        "score": 5
+      },
+      {
+        "label": "B",
         "text": "Membiarkannya karena setiap orang bebas mengetik gaya masing-masing.",
         "score": 1
       },
       {
-        "label": "B",
+        "label": "C",
         "text": "Menegur keras di grup agar semua pegawai malu dan langsung berhenti.",
         "score": 2
-      },
-      {
-        "label": "C",
-        "text": "Membuat grup baru khusus rekan-rekan sedaerah saja.",
-        "score": 3
       },
       {
         "label": "D",
@@ -1860,11 +1860,11 @@
       },
       {
         "label": "E",
-        "text": "Mengingatkan secara santun agar komunikasi di grup kedinasan memakai bahasa Indonesia yang jelas supaya dipahami semua rekan lintas daerah.",
-        "score": 5
+        "text": "Membuat grup baru khusus rekan-rekan sedaerah saja.",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "Bahasa Indonesia adalah bahasa pemersatu di ruang kerja formal lintas budaya, disampaikan dengan cara santun tanpa merendahkan bahasa daerah.",
     "quickTrick": "Skor 5 = Ajak santun gunakan bahasa Indonesia jelas di forum kerja."
   },
@@ -1883,18 +1883,18 @@
       },
       {
         "label": "B",
-        "text": "Mengatakan kepada warga lain bahwa keluarga baru itu memang tertutup.",
-        "score": 2
-      },
-      {
-        "label": "C",
         "text": "Mengajak mereka datang hanya untuk mendengarkan sambutan lalu pulang.",
         "score": 3
       },
       {
-        "label": "D",
+        "label": "C",
         "text": "Menyarankan mereka membawa makanan sendiri setiap kali acara warga.",
         "score": 4
+      },
+      {
+        "label": "D",
+        "text": "Mengatakan kepada warga lain bahwa keluarga baru itu memang tertutup.",
+        "score": 2
       },
       {
         "label": "E",
@@ -1916,8 +1916,8 @@
     "options": [
       {
         "label": "A",
-        "text": "Mengabaikannya karena kerusakan komputer adalah tanggung jawab teknisi IT.",
-        "score": 1
+        "text": "Meminta rekan satu tim berhati-hati saat membuka komputer tersebut.",
+        "score": 4
       },
       {
         "label": "B",
@@ -1926,21 +1926,21 @@
       },
       {
         "label": "C",
-        "text": "Melaporkan bunyi hard disk tersebut di akhir bulan saat pengajuan alat baru.",
-        "score": 3
+        "text": "Segera mencadangkan data kerja ke penyimpanan cloud resmi instansi atau server aman serta melapor ke tim IT untuk pengecekan perangkat.",
+        "score": 5
       },
       {
         "label": "D",
-        "text": "Meminta rekan satu tim berhati-hati saat membuka komputer tersebut.",
-        "score": 4
+        "text": "Mengabaikannya karena kerusakan komputer adalah tanggung jawab teknisi IT.",
+        "score": 1
       },
       {
         "label": "E",
-        "text": "Segera mencadangkan data kerja ke penyimpanan cloud resmi instansi atau server aman serta melapor ke tim IT untuk pengecekan perangkat.",
-        "score": 5
+        "text": "Melaporkan bunyi hard disk tersebut di akhir bulan saat pengajuan alat baru.",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "C",
     "explanationBasic": "Keamanan TIK menuntut mitigasi risiko kehilangan data ke media resmi instansi (bukan perangkat pribadi) dan eskalasi cepat ke tim IT.",
     "quickTrick": "Skor 5 TIK = Backup ke sistem resmi instansi + lapor tim IT."
   },
@@ -1954,31 +1954,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Langsung login ke tautan tersebut agar tunjangan tidak terpotong.",
-        "score": 1
-      },
-      {
-        "label": "B",
-        "text": "Meneruskan email tersebut ke grup kantor untuk menanyakan kebenarannya.",
-        "score": 2
-      },
-      {
-        "label": "C",
-        "text": "Menghapus email tersebut dari kotak masuk pribadi tanpa memberi tahu siapa pun.",
-        "score": 3
-      },
-      {
-        "label": "D",
         "text": "Mengingatkan teman satu meja saja agar tidak mengklik tautan itu.",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "B",
         "text": "Tidak mengklik tautan, memverifikasi domain pengirim ke tim pengelola TIK, lalu melaporkan email phishing tersebut agar sistem kantor memblokir dan memberi peringatan ke seluruh pegawai.",
         "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Langsung login ke tautan tersebut agar tunjangan tidak terpotong.",
+        "score": 1
+      },
+      {
+        "label": "D",
+        "text": "Menghapus email tersebut dari kotak masuk pribadi tanpa memberi tahu siapa pun.",
+        "score": 3
+      },
+      {
+        "label": "E",
+        "text": "Meneruskan email tersebut ke grup kantor untuk menanyakan kebenarannya.",
+        "score": 2
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "B",
     "explanationBasic": "Penanganan ancaman phishing meliputi pencegahan mandiri (jangan klik/sebarkan tautan) serta pelaporan resmi untuk perlindungan kolektif instansi.",
     "quickTrick": "Skor 5 Keamanan Siber = Jangan klik/teruskan + lapor resmi tim TIK untuk blokir & peringatan."
   },
@@ -1992,31 +1992,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Tetap mencetak semua surat seperti biasa tanpa memperkenalkan sistem baru.",
-        "score": 1
-      },
-      {
-        "label": "B",
-        "text": "Menolak mencetak surat sehingga pekerjaan kepala seksi tertunda.",
-        "score": 2
-      },
-      {
-        "label": "C",
         "text": "Memasang pengumuman tertulis tentang kewajiban memakai aplikasi.",
         "score": 3
       },
       {
-        "label": "D",
+        "label": "B",
         "text": "Mengirim notifikasi link dasbor setiap pagi via pesan singkat.",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "C",
         "text": "Membantu mengaktifkan notifikasi otomatis di perangkat beliau serta mendampingi praktik singkat membaca dan mendisposisi surat di dasbor.",
         "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Tetap mencetak semua surat seperti biasa tanpa memperkenalkan sistem baru.",
+        "score": 1
+      },
+      {
+        "label": "E",
+        "text": "Menolak mencetak surat sehingga pekerjaan kepala seksi tertunda.",
+        "score": 2
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "C",
     "explanationBasic": "Adopsi transformasi digital berhasil lewat pendampingan praktis dan pengaktifan fitur pengingat yang memudahkan pengguna.",
     "quickTrick": "Skor 5 TIK = Permudah transisi (notifikasi + pendampingan langsung)."
   },
@@ -2030,31 +2030,31 @@
     "options": [
       {
         "label": "A",
+        "text": "Menutup semua aplikasi sensitif/pribadi, menyiapkan file presentasi bersih, dan menggunakan fitur bagikan jendela aplikasi tertentu (window share) saja.",
+        "score": 5
+      },
+      {
+        "label": "B",
         "text": "Langsung membagikan seluruh layar (entire screen) supaya cepat.",
         "score": 1
       },
       {
-        "label": "B",
+        "label": "C",
         "text": "Menonaktifkan kamera dan mikrofon peserta lalu membaca dokumen tanpa tampilan.",
         "score": 2
       },
       {
-        "label": "C",
+        "label": "D",
         "text": "Meminta rekan lain yang membacakan data tanpa menampilkannya di layar.",
         "score": 3
       },
       {
-        "label": "D",
+        "label": "E",
         "text": "Menutup beberapa tab saja sambil tetap membagikan seluruh layar.",
         "score": 4
-      },
-      {
-        "label": "E",
-        "text": "Menutup semua aplikasi sensitif/pribadi, menyiapkan file presentasi bersih, dan menggunakan fitur bagikan jendela aplikasi tertentu (window share) saja.",
-        "score": 5
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "Kebersihan digital saat presentasi daring mencegah terbukanya dokumen rahasia atau notifikasi pribadi di hadapan peserta eksternal.",
     "quickTrick": "Skor 5 = Tutup tab sensitif + bagikan hanya window presentasi."
   },
@@ -2068,18 +2068,18 @@
     "options": [
       {
         "label": "A",
+        "text": "Mengubah sendiri seluruh spesifikasi tanpa persetujuan tim teknis.",
+        "score": 3
+      },
+      {
+        "label": "B",
         "text": "Menyalin langsung spesifikasi tahun lalu agar pengajuan selesai cepat.",
         "score": 1
       },
       {
-        "label": "B",
+        "label": "C",
         "text": "Menunda pengajuan melewati batas waktu tanpa koordinasi.",
         "score": 2
-      },
-      {
-        "label": "C",
-        "text": "Mengubah sendiri seluruh spesifikasi tanpa persetujuan tim teknis.",
-        "score": 3
       },
       {
         "label": "D",
@@ -2106,13 +2106,13 @@
     "options": [
       {
         "label": "A",
-        "text": "Membiarkan perdebatan berlangsung agar semua pihak meluapkan emosi.",
-        "score": 1
+        "text": "Memihak divisi Anda sendiri agar tidak disalahkan di depan pimpinan.",
+        "score": 2
       },
       {
         "label": "B",
-        "text": "Memihak divisi Anda sendiri agar tidak disalahkan di depan pimpinan.",
-        "score": 2
+        "text": "Mengarahkan diskusi dari mencari kesalahan menjadi pemetaan hambatan konkret, lalu menyepakati langkah perbaikan dan pembagian tanggung jawab yang jelas.",
+        "score": 5
       },
       {
         "label": "C",
@@ -2126,11 +2126,11 @@
       },
       {
         "label": "E",
-        "text": "Mengarahkan diskusi dari mencari kesalahan menjadi pemetaan hambatan konkret, lalu menyepakati langkah perbaikan dan pembagian tanggung jawab yang jelas.",
-        "score": 5
+        "text": "Membiarkan perdebatan berlangsung agar semua pihak meluapkan emosi.",
+        "score": 1
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "B",
     "explanationBasic": "Profesionalisme fokus pada penyelesaian masalah dan kejelasan tanggung jawab ke depan, bukan memperpanjang saling tuding.",
     "quickTrick": "Skor 5 = Alihkan fokus dari menyalahkan ke solusi & pembagian tugas jelas."
   },
@@ -2144,18 +2144,18 @@
     "options": [
       {
         "label": "A",
-        "text": "Memuji program tersebut sempurna agar atasan senang.",
-        "score": 1
+        "text": "Menyampaikan evaluasi secara santun dan objektif berbasis data survei awal, sekaligus menawarkan saran penyempurnaan agar program lebih tepat sasaran.",
+        "score": 5
       },
       {
         "label": "B",
-        "text": "Menolak berkomentar dengan alasan tidak memahami kebijakan.",
-        "score": 2
+        "text": "Mengkritik keras gagasan atasan di hadapan banyak staf lain.",
+        "score": 3
       },
       {
         "label": "C",
-        "text": "Mengkritik keras gagasan atasan di hadapan banyak staf lain.",
-        "score": 3
+        "text": "Menolak berkomentar dengan alasan tidak memahami kebijakan.",
+        "score": 2
       },
       {
         "label": "D",
@@ -2164,11 +2164,11 @@
       },
       {
         "label": "E",
-        "text": "Menyampaikan evaluasi secara santun dan objektif berbasis data survei awal, sekaligus menawarkan saran penyempurnaan agar program lebih tepat sasaran.",
-        "score": 5
+        "text": "Memuji program tersebut sempurna agar atasan senang.",
+        "score": 1
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "A",
     "explanationBasic": "ASN profesional bersikap objektif (tidak asal mengiyakan) dengan menyampaikan data secara sopan disertai solusi perbaikan.",
     "quickTrick": "Skor 5 = Jujur berbasis data + santun + tawarkan opsi perbaikan."
   },
@@ -2182,23 +2182,23 @@
     "options": [
       {
         "label": "A",
-        "text": "Menolak secara halus dan meminta tetap di bagian lama karena sudah nyaman.",
-        "score": 1
-      },
-      {
-        "label": "B",
         "text": "Bekerja sekadarnya di bagian baru sambil berharap segera dimutasi balik.",
         "score": 2
       },
       {
+        "label": "B",
+        "text": "Menolak secara halus dan meminta tetap di bagian lama karena sudah nyaman.",
+        "score": 1
+      },
+      {
         "label": "C",
-        "text": "Mengeluh di media sosial mengenai beban kerja di unit baru.",
-        "score": 3
+        "text": "Menjalankan tugas sebatas instruksi harian tanpa mempelajari SOP keseluruhan.",
+        "score": 4
       },
       {
         "label": "D",
-        "text": "Menjalankan tugas sebatas instruksi harian tanpa mempelajari SOP keseluruhan.",
-        "score": 4
+        "text": "Mengeluh di media sosial mengenai beban kerja di unit baru.",
+        "score": 3
       },
       {
         "label": "E",
@@ -2220,31 +2220,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Ikut menyetujui ajakannya supaya terlihat kompak dengan anggota komunitas.",
-        "score": 1
-      },
-      {
-        "label": "B",
-        "text": "Langsung keluar dari ruangan sambil memaki orang tersebut.",
-        "score": 2
-      },
-      {
-        "label": "C",
         "text": "Diam saja agar tidak merusak suasana santai komunitas.",
         "score": 3
       },
       {
-        "label": "D",
+        "label": "B",
         "text": "Mengingatkan singkat bahwa topik itu sebaiknya tidak dibahas di forum hobi.",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "C",
         "text": "Meluruskan secara tenang dan edukatif bahwa pajak adalah kewajiban konstitusional untuk pembangunan bersama dalam NKRI, serta menolak ajakan melanggar hukum.",
         "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Langsung keluar dari ruangan sambil memaki orang tersebut.",
+        "score": 2
+      },
+      {
+        "label": "E",
+        "text": "Ikut menyetujui ajakannya supaya terlihat kompak dengan anggota komunitas.",
+        "score": 1
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "C",
     "explanationBasic": "ASN menjaga keteguhan pada konstitusi dan hukum negara di mana pun berada dengan penyampaian persuasif dan berwibawa.",
     "quickTrick": "Skor 5 Anti-Radikalisme = Luruskan tenang berbasis konstitusi + tolak ajakan melanggar hukum."
   },
@@ -2258,13 +2258,13 @@
     "options": [
       {
         "label": "A",
-        "text": "Tetap memajang buku tersebut karena merupakan sumbangan gratis.",
-        "score": 1
+        "text": "Membuangnya sembarangan tanpa melaporkan kepada pengelola ruang baca.",
+        "score": 2
       },
       {
         "label": "B",
-        "text": "Membuangnya sembarangan tanpa melaporkan kepada pengelola ruang baca.",
-        "score": 2
+        "text": "Memindahkannya ke gudang arsip tanpa penjelasan.",
+        "score": 4
       },
       {
         "label": "C",
@@ -2273,16 +2273,16 @@
       },
       {
         "label": "D",
-        "text": "Memindahkannya ke gudang arsip tanpa penjelasan.",
-        "score": 4
+        "text": "Menarik buku tersebut agar tidak dipajang di ruang publik kantor dan melaporkannya kepada penanggung jawab sarana untuk penelusuran sumber dan pengawasan konten.",
+        "score": 5
       },
       {
         "label": "E",
-        "text": "Menarik buku tersebut agar tidak dipajang di ruang publik kantor dan melaporkannya kepada penanggung jawab sarana untuk penelusuran sumber dan pengawasan konten.",
-        "score": 5
+        "text": "Tetap memajang buku tersebut karena merupakan sumbangan gratis.",
+        "score": 1
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "D",
     "explanationBasic": "Ruang pelayanan pemerintah wajib steril dari konten intoleran/kekerasan melalui tindakan penarikan dan pelaporan berjenjang.",
     "quickTrick": "Skor 5 = Tarik dari ruang publik + laporkan ke pengelola resmi."
   },
@@ -2296,31 +2296,31 @@
     "options": [
       {
         "label": "A",
-        "text": "Mendukungnya agar rapat dipindahkan demi menghindari perbedaan.",
-        "score": 1
-      },
-      {
-        "label": "B",
-        "text": "Melaporkannya agar langsung diberi sanksi pemecatan.",
-        "score": 2
-      },
-      {
-        "label": "C",
-        "text": "Menggantikannya diam-diam setiap kali ada rapat di lokasi berbeda agama.",
-        "score": 3
-      },
-      {
-        "label": "D",
         "text": "Membiarkannya tidak hadir tanpa memberi penjelasan apa pun.",
         "score": 4
       },
       {
-        "label": "E",
+        "label": "B",
         "text": "Mengajaknya berdialog hangat bahwa tugas pelayanan publik bersifat netral dan profesional bagi seluruh warga, serta siap mendampinginya agar merasa nyaman bertugas.",
         "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Mendukungnya agar rapat dipindahkan demi menghindari perbedaan.",
+        "score": 1
+      },
+      {
+        "label": "D",
+        "text": "Melaporkannya agar langsung diberi sanksi pemecatan.",
+        "score": 2
+      },
+      {
+        "label": "E",
+        "text": "Menggantikannya diam-diam setiap kali ada rapat di lokasi berbeda agama.",
+        "score": 3
       }
     ],
-    "correctLabel": "E",
+    "correctLabel": "B",
     "explanationBasic": "Pendekatan dialog humanis yang menegaskan netralitas layanan publik menumbuhkan kesadaran inklusif pegawai.",
     "quickTrick": "Skor 5 = Dialog persuasif + tekankan profesionalisme netral melayani semua."
   }
