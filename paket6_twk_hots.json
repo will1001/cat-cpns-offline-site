@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "p6_twk_01",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - UUD 1945",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Pasal 7 UUD NRI Tahun 1945 hasil amandemen pertama membatasi masa jabatan Presiden dan Wakil Presiden agar tidak terjadi otoritarianisme, yaitu memegang jabatan selama lima tahun dan sesudahnya dapat dipilih kembali dalam jabatan yang sama hanya untuk...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dua kali masa jabatan berturut-turut",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Satu kali masa jabatan saja",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Tiga kali masa jabatan maksimal",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Satu kali masa jabatan lagi (total maksimal 2 periode)",
+        "score": 5
+      },
+      {
+        "label": "E",
+        "text": "Tidak terbatas selama disetujui MPR",
+        "score": 0
+      }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Pasal 7 UUD 1945 hasil amandemen ke-1 berbunyi: 'Presiden dan Wakil Presiden memegang jabatan selama lima tahun, dan sesudahnya dapat dipilih kembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan.'",
+    "quickTrick": "Pasal 7 amandemen ke-1 = 5 tahun, dapat dipilih lagi hanya untuk 1 kali masa jabatan."
+  },
+  {
+    "id": "p6_twk_02",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - UUD 1945",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Berdasarkan Pasal 34 ayat (1) dan (2) UUD NRI Tahun 1945, negara memelihara fakir miskin dan anak-anak yang terlantar serta mengembangkan sistem jaminan sosial bagi seluruh rakyat. Implementasi nyata dari amanat konstitusi tersebut adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pemberian subsidi bunga kredit kendaraan mewah",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Penyelenggaraan program Jaminan Kesehatan Nasional (BPJS Kesehatan) dan bantuan sosial tepat sasaran bagi keluarga prasejahtera",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Pembebasan pajak seluruh perusahaan multinasional besar",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Penghapusan seluruh upah minimum pekerja daerah",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Privatisasi seluruh layanan rumah sakit daerah",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Pasal 34 UUD 1945 mewajibkan negara mengembangkan sistem jaminan sosial (seperti BPJS Kesehatan & Ketenagakerjaan) serta memberdayakan masyarakat lemah dan tidak mampu.",
+    "quickTrick": "Pasal 34 = Fakir miskin & Sistem Jaminan Sosial (JKN/BPJS/Bansos)."
+  },
+  {
+    "id": "p6_twk_03",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - UUD 1945",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Apabila DPR ingin meminta keterangan kepada Pemerintah mengenai suatu kebijakan penting dan strategis yang berdampak luas pada kehidupan bermasyarakat dan bernegara, hak konstitusional DPR berdasarkan Pasal 20A ayat (2) UUD 1945 yang digunakan adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hak angket",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Hak interpelasi",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Hak menyatakan pendapat",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Hak inisiatif",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Hak imunitas",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Hak interpelasi adalah hak DPR untuk meminta keterangan kepada Pemerintah mengenai kebijakan penting dan strategis, sedangkan hak angket adalah hak melakukan penyelidikan atas dugaan pelanggaran undang-undang.",
+    "quickTrick": "Bedakan 3 hak DPR: Interpelasi = minta keterangan; Angket = menyelidiki; Menyatakan Pendapat = sikap DPR atas kebijakan/kejadian luar biasa."
+  },
+  {
+    "id": "p6_twk_04",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - UUD 1945",
+    "packageId": "paket_6",
+    "isHots": false,
+    "questionText": "Dalam aturan Pasal 28J ayat (2) UUD NRI Tahun 1945, pelaksanaan hak asasi manusia seseorang tidak bersifat mutlak tanpa batas karena...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hak asasi hanya berlaku bagi warga negara di wilayah perkotaan",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Setiap orang wajib tunduk kepada pembatasan yang ditetapkan undang-undang demi menghormati hak asasi orang lain serta menjaga ketertiban umum, moral, dan nilai agama",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Pemerintah dapat mencabut seluruh hak warga negara kapan saja tanpa dasar hukum",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Hak asasi manusia hanya diatur oleh peraturan daerah",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Kebebasan individu selalu lebih tinggi daripada kepentingan umum",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Pasal 28J ayat (2) menegaskan pembatasan HAM oleh undang-undang semata-mata untuk menjamin pengakuan dan penghormatan atas hak kebebasan orang lain serta memenuhi tuntutan keadilan sesuai pertimbangan moral, nilai agama, keamanan, dan ketertiban umum.",
+    "quickTrick": "Pasal 28J(2) = HAM dibatasi UU demi hak orang lain & ketertiban umum."
+  },
+  {
+    "id": "p6_twk_05",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - UUD 1945",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Kewenangan untuk menguji peraturan perundang-undangan di bawah undang-undang (seperti Peraturan Pemerintah atau Peraturan Menteri) terhadap undang-undang dimiliki oleh...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mahkamah Konstitusi",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Komisi Yudisial",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Mahkamah Agung",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Dewan Perwakilan Daerah",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Majelis Permusyawaratan Rakyat",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Menurut Pasal 24A ayat (1) UUD 1945, Mahkamah Agung berwenang mengadili pada tingkat kasasi dan menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang. Sedangkan uji UU terhadap UUD adalah kewenangan MK.",
+    "quickTrick": "Uji UU vs UUD = MK (Pasal 24C); Uji aturan di bawah UU vs UU = MA (Pasal 24A)."
+  },
+  {
+    "id": "p6_twk_06",
+    "category": "TWK",
+    "subtopic": "Nasionalisme",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Pada sidang BPUPKI kedua tanggal 10–17 Juli 1945, agenda utama yang dibahas oleh para pendiri bangsa adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pembacaan naskah Proklamasi Kemerdekaan Indonesia",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Perancangan Undang-Undang Dasar negara merdeka termasuk wilayah negara dan bentuk pemerintahan",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Penetapan pembubaran seluruh organisasi pergerakan nasional",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Pembentukan tentara keamanan rakyat pascakemerdekaan",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Penandatanganan perjanjian pengakuan kedaulatan oleh Belanda",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Sidang BPUPKI I (29 Mei–1 Juni 1945) merumuskan dasar negara Pancasila, sedangkan Sidang BPUPKI II (10–17 Juli 1945) membahas rancangan UUD, bentuk negara, wilayah negara, ekonomi, dan pembelaan negara.",
+    "quickTrick": "BPUPKI I = Dasar Negara; BPUPKI II = Rancangan UUD & Wilayah Negara."
+  },
+  {
+    "id": "p6_twk_07",
+    "category": "TWK",
+    "subtopic": "Nasionalisme",
+    "packageId": "paket_6",
+    "isHots": false,
+    "questionText": "Perjuangan diplomasi Indonesia di tingkat internasional yang menghasilkan pengakuan kedaulatan Republik Indonesia Serikat (RIS) oleh Belanda pada 27 Desember 1949 dicapai melalui...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Perjanjian Linggarjati",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Perjanjian Renville",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Konferensi Meja Bundar (KMB) di Den Haag",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Perjanjian Roem-Royen",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Konferensi Inter-Indonesia",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Konferensi Meja Bundar (23 Agustus – 2 November 1949) menghasilkan kesepakatan penyerahan/pengakuan kedaulatan Indonesia oleh Kerajaan Belanda pada 27 Desember 1949.",
+    "quickTrick": "Pengakuan kedaulatan 27 Desember 1949 = hasil Konferensi Meja Bundar (KMB)."
+  },
+  {
+    "id": "p6_twk_08",
+    "category": "TWK",
+    "subtopic": "Nasionalisme",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Latar belakang dikeluarkannya Dekrit Presiden tanggal 5 Juli 1959 yang menetapkan berlakunya kembali UUD 1945 adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Terjadinya kekosongan jabatan Wakil Presiden sejak kemerdekaan",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Kegagalan Badan Konstituante menyusun UUD baru hingga berlarut-larut dan mengancam persatuan nasional",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Keinginan mengganti sistem pemerintahan presidensial menjadi parlementer",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Penolakan seluruh daerah terhadap pelaksanaan pemilu 1955",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Berakhirnya masa tugas Kabinet Gotong Royong",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Konstituante hasil Pemilu 1955 mengalami kebuntuan berkepanjangan dalam menetapkan UUD baru menggantikan UUDS 1950, sehingga Presiden Soekarno mengeluarkan Dekrit 5 Juli 1959: membubarkan Konstituante dan kembali ke UUD 1945.",
+    "quickTrick": "Dekrit 5 Juli 1959: Konstituante gagal -> kembali ke UUD 1945, tidak berlaku UUDS 1950."
+  },
+  {
+    "id": "p6_twk_09",
+    "category": "TWK",
+    "subtopic": "Nasionalisme",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Serangan Umum 1 Maret 1949 di Yogyakarta di bawah koordinasi Sri Sultan Hamengkubuwono IX dan Letkol Soeharto memiliki tujuan diplomatik yang sangat penting, yakni...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menguasai pelabuhan dagang Belanda di Pulau Jawa",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Membuktikan kepada dunia internasional dan PBB bahwa TNI dan Republik Indonesia masih ada serta mampu melakukan perlawanan terorganisir",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Menghapus seluruh sistem perjanjian internasional sebelumnya",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Membentuk pemerintahan federal di bawah pengawasan Sekutu",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Menuntut pembayaran ganti rugi perang secara tunai",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Belanda menyebarkan propaganda bahwa TNI sudah hancur setelah Agresi Militer II. Keberhasilan menduduki Yogyakarta selama 6 jam mematahkan propaganda tersebut dan menekan Belanda kembali ke meja perundingan Roem-Royen.",
+    "quickTrick": "Serangan Umum 1 Maret 1949 = buktikan RI & TNI masih eksis di mata PBB/dunia."
+  },
+  {
+    "id": "p6_twk_10",
+    "category": "TWK",
+    "subtopic": "Nasionalisme",
+    "packageId": "paket_6",
+    "isHots": false,
+    "questionText": "Perjuangan diplomasi dan militer Indonesia untuk membebaskan wilayah Irian Barat agar kembali ke pangkuan NKRI dicanangkan melalui komando...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dwikora tahun 1964",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Trikora tanggal 19 Desember 1961",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Tritura tahun 1966",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Dasa Sila Bandung 1955",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Operasi Mandala 1948",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Tri Komando Rakyat (Trikora) dicetuskan pada 19 Desember 1961 di Yogyakarta untuk menggagalkan negara boneka Papua buatan Belanda, mengibarkan Sang Merah Putih di Irian Barat, dan bersiap mobilisasi umum.",
+    "quickTrick": "Irian Barat = Trikora (1961); Konfrontasi Malaysia = Dwikora (1964)."
+  },
+  {
+    "id": "p6_twk_11",
+    "category": "TWK",
+    "subtopic": "Integritas",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Seorang analis kebijakan menyusun kajian akademik terkait pembukaan izin tambang. Direktur menyarankan menghapus data risiko pencemaran sungai supaya kajian cepat disetujui investor. Sikap berintegritas pegawai tersebut yang mencerminkan nilai 'berani' dan 'jujur' adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menghapus bagian risiko sesuai arahan direktur karena ia hanya staf bawahan",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Memindahkan data risiko ke lampiran terpisah tanpa menyebutnya di ringkasan eksekutif",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Menolak mengubah data objektif secara profesional, menyajikan analisis dampak lingkungan apa adanya disertai opsi mitigasi risiko",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Meminta rekan lain menandatangani kajian tersebut agar tidak bertanggung jawab",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Menyebarluaskan draf kajian rahasia ke media sosial sebelum dilaporkan internal",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Integritas ASN menuntut kejujuran fakta ilmiah/lapangan dan keberanian menyampaikan kebenaran secara bertanggung jawab disertai solusi mitigasi tanpa memanipulasi data.",
+    "quickTrick": "Integritas kajian = tolak manipulasi data secara profesional + beri opsi mitigasi."
+  },
+  {
+    "id": "p6_twk_12",
+    "category": "TWK",
+    "subtopic": "Integritas",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Perbedaan mendasar antara tindak pidana korupsi berupa 'suap' dengan 'pemerasan dalam jabatan' menurut UU Tipikor terletak pada...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Besarnya nominal uang yang berpindah tangan",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Inisiatif dan adanya paksaan: suap melibatkan kesepakatan timbal balik dua pihak, sedangkan pemerasan terjadi ketika pejabat memaksa pihak lain memberi sesuatu dengan menyalahgunakan kekuasaan",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Waktu terjadinya transaksi di jam dinas atau di luar jam dinas",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Jenis barang yang diberikan berupa uang tunai atau barang elektronik",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Tingkat pendidikan pejabat yang terlibat",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Dalam suap, pemberi dan penerima sepakat memberi imbalan atas perbuatan jabatan (keduanya dijerat hukum). Dalam pemerasan, pejabat secara aktif menekan/memaksa masyarakat agar memberikan sesuatu sebagai syarat layanan.",
+    "quickTrick": "Suap = sepakat timbal balik (win-win korup); Pemerasan = pejabat menekan/memaksa korban."
+  },
+  {
+    "id": "p6_twk_13",
+    "category": "TWK",
+    "subtopic": "Integritas",
+    "packageId": "paket_6",
+    "isHots": false,
+    "questionText": "Salah satu core values ASN BerAKHLAK adalah 'Akuntabel'. Dalam praktik kerja sehari-hari di kantor pemerintahan, nilai Akuntabel diwujudkan dengan...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menggunakan fasilitas kendaraan dan printer dinas untuk usaha pribadi",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Melaksanakan tugas dengan jujur, bertanggung jawab, cermat, disiplin, serta menggunakan kekayaan negara secara efektif dan efisien",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Menunggu instruksi tertulis untuk setiap hal kecil sebelum berinisiatif melayani warga",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Merahasiakan seluruh anggaran kegiatan publik dari pengawasan internal",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Memberi prioritas layanan kepada kerabat agar lebih cepat selesai",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Panduan perilaku Akuntabel dalam ASN BerAKHLAK meliputi tanggung jawab atas kepercayaan yang diberikan, cermat, berintegritas tinggi, dan penggunaan barang milik negara secara bertanggung jawab dan efisien.",
+    "quickTrick": "BerAKHLAK Akuntabel = tanggung jawab + jujur + hemat/tepat guna aset negara."
+  },
+  {
+    "id": "p6_twk_14",
+    "category": "TWK",
+    "subtopic": "Integritas",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Kapan seorang pejabat pengambil keputusan dibenarkan menggunakan 'diskresi' menurut UU Administrasi Pemerintahan agar tidak dianggap sebagai penyalahgunaan wewenang?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Setiap kali pejabat ingin membantu kerabat terdekat agar urusannya lebih cepat",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Hanya untuk mengatasi persoalan konkret yang mendesak ketika aturan belum mengatur atau tidak jelas, sepanjang sesuai tujuan wewenang dan Asas Umum Pemerintahan yang Baik (AUPB)",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Ketika pejabat ingin memotong prosedur pengadaan agar vendor langganan menang",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Apabila keputusan tersebut dapat menyembunyikan kekeliruan laporan tahun sebelumnya",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Kapan saja atasan memberikan perintah lisan tanpa dasar hukum",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Diskresi sah digunakan untuk mengisi kekosongan hukum/situasi mendesak demi kepentingan umum dengan itikad baik, objektif, tidak ada konflik kepentingan, dan sesuai AUPB.",
+    "quickTrick": "Diskresi sah = atasi kekosongan/mendesak + kepentingan umum + tanpa konflik kepentingan."
+  },
+  {
+    "id": "p6_twk_15",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - Pancasila",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Sebagai 'sumber dari segala sumber hukum negara', kedudukan Pancasila dalam sistem hukum Indonesia membawa konsekuensi bahwa...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pancasila dapat diubah melalui peraturan menteri jika situasi ekonomi berubah",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Setiap undang-undang, peraturan pemerintah, hingga peraturan daerah tidak boleh bertentangan dengan nilai-nilai Pancasila",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Pancasila menggantikan seluruh peraturan teknis perizinan daerah",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Peraturan daerah adat tidak perlu memperhatikan hak asasi warga negara",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Undang-undang hanya mengikat warga sipil biasa",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "UU No. 12 Tahun 2011 Pasal 2 menempatkan Pancasila sebagai sumber segala sumber hukum negara; artinya seluruh hierarki peraturan perundang-undangan wajib selaras dengan nilai lima sila Pancasila.",
+    "quickTrick": "Sumber segala sumber hukum = semua UU/Perda wajib selaras nilai Pancasila."
+  },
+  {
+    "id": "p6_twk_16",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - Pancasila",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Ketika menghadapi bencana alam besar di wilayah lain, warga di berbagai provinsi secara sukarela menggalang donasi, dapur umum, dan mengirim relawan lintas suku tanpa membeda-bedakan korban. Perilaku sosial tersebut mencerminkan perwujudan nyata sila kedua karena...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menempatkan kepentingan pribadi di atas keselamatan umum",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Mengakui persamaan derajat serta menjunjung nilai kemanusiaan dan empati sesama manusia",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Mengutamakan keputusan rapat formal sebelum menolong korban",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Menunggu bantuan negara asing tiba terlebih dahulu",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Membagi bantuan hanya kepada warga yang memiliki ikatan daerah asal",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Sila Kemanusiaan yang Adil dan Beradab menekankan pengakuan harkat martabat manusia, solidaritas kemanusiaan, dan tenggang rasa tanpa diskriminasi.",
+    "quickTrick": "Aksi kemanusiaan / empati bencana lintas golongan = Sila ke-2."
+  },
+  {
+    "id": "p6_twk_17",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - Bhinneka Tunggal Ika",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Dalam semboyan Bhinneka Tunggal Ika, keberagaman suku, bahasa, dan budaya di Indonesia tidak diarahkan menjadi keseragaman tunggal yang menghapus ciri daerah. Prinsip yang paling tepat menggambarkan pengelolaan keberagaman tersebut adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Asimilasi paksa terhadap budaya lokal minoritas",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Kesetaraan dalam keberagaman yang saling menghormati di bawah naungan identitas nasional bersama",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Isolasi masing-masing wilayah adat agar tidak berinteraksi dengan daerah lain",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Dominasi satu budaya daerah mayoritas atas daerah lainnya",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Penghapusan seluruh bahasa daerah di ruang pendidikan",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Bhinneka Tunggal Ika bersifat konvergen dan non-sektarian: menghargai keunikan lokal setiap daerah sekaligus mengikatnya dalam kesatuan bangsa Indonesia.",
+    "quickTrick": "Bhinneka Tunggal Ika = bukan menyeragamkan paksa, tapi bersatu dalam kesetaraan."
+  },
+  {
+    "id": "p6_twk_18",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - NKRI",
+    "packageId": "paket_6",
+    "isHots": false,
+    "questionText": "Menurut Pasal 18B ayat (1) UUD NRI Tahun 1945, negara mengakui dan menghormati satuan-satuan pemerintahan daerah yang bersifat khusus atau bersifat istimewa yang diatur dengan undang-undang. Contoh daerah dengan status keistimewaan/otonomi khusus tersebut adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jawa Barat dan Jawa Timur",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Aceh, DKI Jakarta, D.I. Yogyakarta, dan wilayah Papua",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Bali dan Nusa Tenggara Barat",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Sumatera Utara dan Lampung",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Kalimantan Timur dan Sulawesi Selatan",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Di Indonesia, provinsi yang memiliki status khusus/istimewa berdasarkan UU sesuai Pasal 18B ayat (1) antara lain Aceh, DKI Jakarta, D.I. Yogyakarta, dan provinsi-provinsi di Tanah Papua.",
+    "quickTrick": "Daerah Khusus/Istimewa UUD 18B(1) = Aceh, DKI Jakarta, DIY, Papua."
+  },
+  {
+    "id": "p6_twk_19",
+    "category": "TWK",
+    "subtopic": "Bela Negara",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Komponen dalam sistem pertahanan negara menurut UU Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara yang disiapkan dari warga sipil melalui pelatihan dasar kemiliteran secara sukarela untuk memperbesar kekuatan TNI disebut...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Komponen Utama",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Komponen Cadangan (Komcad)",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Komponen Pendukung",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Satuan Polisi Pamong Praja",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Pasukan Pengaman Perbatasan Tetap",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Dalam pertahanan negara, TNI adalah Komponen Utama, sumber daya nasional yang telah disiapkan (termasuk relawan terlatih) untuk dikerahkan melalui mobilisasi adalah Komponen Cadangan (Komcad), dan seluruh sumber daya nasional lainnya adalah Komponen Pendukung.",
+    "quickTrick": "Utama = TNI; Cadangan = Warga sipil terlatih sukarela (Komcad); Pendukung = SDA/SDM umum."
+  },
+  {
+    "id": "p6_twk_20",
+    "category": "TWK",
+    "subtopic": "Bela Negara",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Dalam Wawasan Nusantara, ketahanan nasional Indonesia dibangun atas aspek alamiah (Trigatra) dan aspek sosial (Pancagatra). Manakah yang termasuk unsur Trigatra?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ideologi, politik, dan ekonomi",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Letak geografi, keadaan dan kekayaan alam, serta keadaan dan kemampuan penduduk",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Sosial budaya dan pertahanan keamanan",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Sistem hukum, pendidikan, dan teknologi informasi",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Kebijakan fiskal, moneter, dan perdagangan",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Trigatra (3 aspek alamiah) terdiri dari Geografi (posisi silang), Sumber Kekayaan Alam, dan Demografi/Penduduk. Sedangkan Pancagatra (5 aspek sosial) adalah Ipoleksosbudhankam.",
+    "quickTrick": "Trigatra = Alamiah (Geografi, Kekayaan Alam, Penduduk); Pancagatra = Ipoleksosbudhankam."
+  },
+  {
+    "id": "p6_twk_21",
+    "category": "TWK",
+    "subtopic": "Bela Negara",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Seorang peneliti muda Indonesia mengembangkan benih padi tahan salinitas untuk lahan rawa pasang surut agar produksi beras dalam negeri meningkat saat musim kemarau panjang. Tindakan peneliti tersebut merupakan wujud bela negara berupa...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Penguasaan teknologi pertahanan udara",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Pengabdian sesuai profesi yang memperkuat ketahanan pangan nasional",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Pelatihan militer wajib bagi tenaga riset",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Pembatasan ekspor seluruh komoditas pertanian",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Sentralisasi lahan pertanian milik warga",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Salah satu bentuk keikutsertaan bela negara paling relevan di era modern adalah pengabdian sesuai profesi (riset, pendidikan, kesehatan, ekonomi) untuk menjaga ketahanan dan kemandirian bangsa.",
+    "quickTrick": "Riset benih/inovasi kerja = Bela Negara lewat pengabdian sesuai profesi."
+  },
+  {
+    "id": "p6_twk_22",
+    "category": "TWK",
+    "subtopic": "Bahasa Indonesia",
+    "packageId": "paket_6",
+    "isHots": false,
+    "questionText": "Manakah penulisan huruf kapital yang tepat sesuai EYD Edisi V?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gubernur Jawa Timur meresmikan Jembatan Surabaya-Madura bersama Menteri Perhubungan.",
+        "score": 5
+      },
+      {
+        "label": "B",
+        "text": "Ibu membeli Jeruk Bali dan Gula Jawa di pasar tradisional.",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Rapat koordinasi akan dipimpin langsung oleh Bapak presiden di Istana.",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Kami berlayar melintasi selat Sunda menuju pulau Jawa.",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Dia lulus menjadi Pegawai Negeri Sipil pada tahun ini.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "A",
+    "explanationBasic": "Opsi A benar karena nama jabatan diikuti nama daerah/instansi serta nama geografi spesifik ditulis kapital. Opsi B: 'jeruk bali' dan 'gula jawa' (nama jenis bukan geografi) huruf kecil; opsi C: 'Presiden' kapital; opsi D: 'Selat Sunda' & 'Pulau Jawa' kapital; opsi E: 'pegawai negeri sipil' tanpa diikuti nama ditulis kecil.",
+    "quickTrick": "Jenis makanan (gula jawa, jeruk bali) huruf kecil! Jabatan tanpa nama orang/wilayah huruf kecil!"
+  },
+  {
+    "id": "p6_twk_23",
+    "category": "TWK",
+    "subtopic": "Bahasa Indonesia",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Kalimat manakah yang bebas dari pemborosan kata (pleonasme) dan memenuhi syarat kalimat efektif?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Para hadirin sekalian dimohon agar supaya segera memasuki ruang aula.",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Banyak pegawai-pegawai muda yang ikut serta dalam pelatihan kepemimpinan itu.",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Sejak dari pagi hingga sampai sore, antrean pemohon tidak kunjung surut.",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Seluruh peserta ujian wajib menyerahkan salinan ijazah sebelum pukul 10.00 WIB.",
+        "score": 5
+      },
+      {
+        "label": "E",
+        "text": "Demi untuk kelancaran acara, panitia sudah menyiapkan meja registrasi tambahan.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Opsi A boros ('Para hadirin sekalian', 'agar supaya'), opsi B boros jamak ganda ('Banyak pegawai-pegawai'), opsi C boros ('Sejak dari', 'hingga sampai'), opsi E boros ('Demi untuk'). Opsi D ringkas, lugas, dan tepat.",
+    "quickTrick": "Hapus bentuk ganda: 'para hadirin', 'banyak pegawai-pegawai', 'agar supaya', 'demi untuk', 'sejak dari'."
+  },
+  {
+    "id": "p6_twk_24",
+    "category": "TWK",
+    "subtopic": "Bahasa Indonesia",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Pasangan konjungsi korelatif yang penggunaannya paling tepat dalam kalimat resmi adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bukan saya tidak mau hadir, tetapi jadwal rapatnya bertabrakan.",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Tidak hanya pegawai tetap saja, melainkan pegawai kontrak juga mengikuti pembekalan.",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Baik ASN maupun tenaga pendukung wajib menjaga kerahasiaan data pemohon.",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Antara pelamar dan panitia harus sama-sama saling menghargai jadwal.",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Entah berhasil atau tidaknya usaha ini, kita tetap bekerja keras.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Pasangan konjungsi korelatif baku adalah: 'baik ... maupun ...', 'bukan ... melainkan ...', 'tidak ... tetapi ...'. Opsi A salah ('bukan' dipasangkan dengan 'tetapi'), opsi B salah ('tidak hanya' dipasangkan dengan 'melainkan'), opsi D boros ('sama-sama saling').",
+    "quickTrick": "Pasangan wajib EYD: Bukan <-> Melainkan; Tidak <-> Tetapi; Baik <-> Maupun."
+  },
+  {
+    "id": "p6_twk_25",
+    "category": "TWK",
+    "subtopic": "Bahasa Indonesia",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Bacalah paragraf berikut! 'Pemasangan panel surya di atap gedung perkantoran mampu menekan biaya listrik hingga 35 persen per bulan. Selain itu, penggunaan energi bersih ikut menurunkan emisi karbon di kawasan perkotaan. Oleh karena itu, peralihan bertahap menuju kantor ramah lingkungan layak diprioritaskan.' Berdasarkan letak kalimat utamanya, paragraf tersebut berpola...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Deduktif",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Induktif",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Campuran",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Ineratif",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Deskriptif naratif",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Paragraf diawali fakta pendukung (hemat biaya 35% dan turun emisi karbon), lalu diakhiri kalimat simpulan umum ('Oleh karena itu, peralihan bertahap... layak diprioritaskan') di akhir paragraf, sehingga berpola induktif.",
+    "quickTrick": "Ciri paragraf Induktif: fakta-fakta dulu -> simpulan umum ('Oleh karena itu / Jadi') di akhir."
+  },
+  {
+    "id": "p6_twk_26",
+    "category": "TWK",
+    "subtopic": "Nasionalisme",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Makna mendalam dari kalimat dalam Pembukaan UUD 1945 alinea kedua yang berbunyi '...mengantarkan rakyat Indonesia ke depan pintu gerbang kemerdekaan negara Indonesia yang merdeka, bersatu, berdaulat, adil, dan makmur' adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kemerdekaan adalah tujuan akhir perjuangan sehingga pembangunan ekonomi tidak diperlukan lagi",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Kemerdekaan bukanlah tujuan akhir, melainkan jembatan menuju cita-cita bangsa yang bersatu, berdaulat, adil, dan makmur",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Kedaulatan rakyat hanya berlaku sesudah seluruh wilayah dunia merdeka",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Pembangunan nasional cukup berpusat di ibu kota negara",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Kemakmuran hanya dapat dicapai melalui bantuan modal luar negeri",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Alinea kedua Pembukaan UUD 1945 menegaskan bahwa Proklamasi Kemerdekaan merupakan 'pintu gerbang' (jembatan) yang mengantarkan bangsa mengisi kemerdekaan demi terwujudnya negara yang adil dan makmur.",
+    "quickTrick": "Alinea 2 = Kemerdekaan sebagai pintu gerbang/jembatan menuju negara bersatu, berdaulat, adil, makmur."
+  },
+  {
+    "id": "p6_twk_27",
+    "category": "TWK",
+    "subtopic": "Integritas",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Seorang pengawas ujian melihat kerabat dekatnya berada di ruang ujian yang ia awasi dan tampak berusaha melirik layar komputer peserta di sebelahnya. Sikap paling berintegritas yang harus diambil pengawas adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pura-pura tidak melihat karena hubungan keluarga sangat dekat",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Memberi teguran ringan hanya setelah ujian berakhir agar tidak membuatnya malu",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Menegur peserta tersebut secara tegas sesuai tata tertib ujian, mencatat kejadian dalam berita acara pelanggaran, dan melaporkan ke panitia pengawas tanpa pandang bulu",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Memindahkan posisi duduk peserta lain agar tidak terlihat melirik",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Mengeluarkan seluruh peserta satu baris karena dianggap bersekongkol",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Integritas penegakan aturan menuntut sikap adil dan tegas tanpa pengecualian terhadap keluarga maupun kerabat, sesuai prosedur berita acara resmi.",
+    "quickTrick": "Pengawas berintegritas = tegur tegas + catat berita acara tanpa pandang bulu."
+  },
+  {
+    "id": "p6_twk_28",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - NKRI",
+    "packageId": "paket_6",
+    "isHots": false,
+    "questionText": "Negara Indonesia memiliki tiga zona waktu resmi (WIB, WITA, WIT) serta ribuan pulau dengan laut sebagai penghubungnya. Konsep geopolitik yang memandang Indonesia sebagai satu kesatuan politik, ekonomi, sosial budaya, dan pertahanan keamanan disebut...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Desentralisasi fiskal",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Wawasan Nusantara",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Konfederasi Kepulauan",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Otonomi Khusus",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Eksteritorialitas",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Wawasan Nusantara adalah cara pandang dan sikap bangsa Indonesia mengenai diri dan lingkungannya yang serba beragam dengan mengutamakan persatuan dan kesatuan wilayah (satu kesatuan Ipohankam).",
+    "quickTrick": "Cara pandang kesatuan darat-laut-udara & Ipoleksosbudhankam = Wawasan Nusantara."
+  },
+  {
+    "id": "p6_twk_29",
+    "category": "TWK",
+    "subtopic": "Bahasa Indonesia",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Manakah penggunaan kata berimbuhan 'di-' dan kata depan 'di' yang seluruhnya tepat?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Berkas lamaran disimpan didalam laci dan di serahkan di ruang rapat.",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Surat keputusan itu ditandatangani di Jakarta serta diarsipkan di bagian umum.",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Acara pembukaan di laksanakan di gedung serbaguna milik pemerintah.",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Para peserta di harap berkumpul di halaman utama sebelum pukul 07.00.",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Dokumen tersebut di bawa pulang untuk di periksa kembali.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Imbuhan pasif 'di-' ditulis serangkai dengan kata kerja ('ditandatangani', 'diarsipkan', 'dilaksanakan', 'diharap', 'dibawa', 'diperiksa'), sedangkan kata depan 'di' penunjuk tempat/lokasi ditulis terpisah ('di Jakarta', 'di bagian umum', 'di dalam').",
+    "quickTrick": "Tes mudah: bisa diganti 'me-' -> GABUNG (ditandatangani); penunjuk tempat/lokasi -> PISAH (di Jakarta)."
+  },
+  {
+    "id": "p6_twk_30",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - Bhinneka Tunggal Ika",
+    "packageId": "paket_6",
+    "isHots": true,
+    "questionText": "Ketika menyusun jadwal kegiatan pembinaan pegawai sepanjang tahun, panitia kantor memastikan tanggal pelaksanaan kegiatan tidak berbenturan dengan hari besar keagamaan resmi umat beragama mana pun di Indonesia. Kebijakan ini merupakan implementasi dari...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sikap primordialisme kelompok",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Toleransi aktif dan penghormatan terhadap kebinekaan dalam tata kelola lembaga",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Pemisahan tugas berdasarkan asal daerah pegawai",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Penyeragaman hari libur lokal",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Netralitas anggaran operasional kantor",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Mempertimbangkan hari besar keagamaan seluruh pegawai dalam agenda kerja mencerminkan kepekaan inklusif, toleransi aktif, dan penerapan Bhinneka Tunggal Ika di instansi.",
+    "quickTrick": "Menjaga agenda bebas bentrok hari raya semua agama = toleransi aktif & inklusif."
+  }
+]

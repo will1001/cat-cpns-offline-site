@@ -1,0 +1,1886 @@
+[
+  {
+    "id": "p5_tiu_01",
+    "category": "TIU",
+    "subtopic": "Numerik - Deret Angka",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "Tentukan bilangan berikutnya pada deret: 1, 4, 9, 16, 25, 36, ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "45",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "47",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "48",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "49",
+        "score": 5
+      },
+      {
+        "label": "E",
+        "text": "52",
+        "score": 0
+      }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Ini adalah deret bilangan kuadrat: 1², 2², 3², 4², 5², 6², berikutnya 7² = 49.",
+    "quickTrick": "Bilangan kuadrat 1..7 -> 7² = 49."
+  },
+  {
+    "id": "p5_tiu_02",
+    "category": "TIU",
+    "subtopic": "Numerik - Deret Angka",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Lengkapi suku berikutnya: 3, 4, 8, 17, 33, 58, ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "87",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "90",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "92",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "94",
+        "score": 5
+      },
+      {
+        "label": "E",
+        "text": "96",
+        "score": 0
+      }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Selisih antar suku adalah kuadrat berurutan: +1 (1²), +4 (2²), +9 (3²), +16 (4²), +25 (5²). Berikutnya +36 (6²) -> 58 + 36 = 94.",
+    "quickTrick": "Selisih = 1, 4, 9, 16, 25 -> +36 = 94."
+  },
+  {
+    "id": "p5_tiu_03",
+    "category": "TIU",
+    "subtopic": "Numerik - Deret Angka",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Perhatikan pola deret berikut: 240, 240, 120, 40, 10, ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "5",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "4",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "2,5",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "2",
+        "score": 5
+      },
+      {
+        "label": "E",
+        "text": "1",
+        "score": 0
+      }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Pola pembagian berurutan: /1, /2, /3, /4, maka berikutnya /5 -> 10 / 5 = 2.",
+    "quickTrick": "Operasi berurutan /1, /2, /3, /4, /5 -> 10/5 = 2."
+  },
+  {
+    "id": "p5_tiu_04",
+    "category": "TIU",
+    "subtopic": "Numerik - Deret Angka",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Tentukan dua huruf selanjutnya pada deret abjad: B, E, H, K, N, ..., ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "P, S",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Q, T",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Q, U",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "R, U",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "P, T",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Posisi huruf: B(2), E(5), H(8), K(11), N(14) — bertambah +3 tiap langkah. Berikutnya posisi 17 (Q) dan 20 (T).",
+    "quickTrick": "Loncat +3: N(14) +3 = Q(17), +3 = T(20)."
+  },
+  {
+    "id": "p5_tiu_05",
+    "category": "TIU",
+    "subtopic": "Numerik - Deret Angka",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "Lengkapi deret berikut: 5, 11, 23, 47, 95, ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "185",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "189",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "190",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "191",
+        "score": 5
+      },
+      {
+        "label": "E",
+        "text": "195",
+        "score": 0
+      }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Pola x2 + 1 setiap langkah: 5(x2+1)=11, 11(x2+1)=23, 23(x2+1)=47, 47(x2+1)=95, 95(x2+1) = 191.",
+    "quickTrick": "Setiap angka dikali 2 lalu tambah 1 -> 95x2 + 1 = 191."
+  },
+  {
+    "id": "p5_tiu_06",
+    "category": "TIU",
+    "subtopic": "Numerik - Hitung Cepat",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "Hasil dari 12,5% x 480 + 33,33% x 90 adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "80",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "85",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "90",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "95",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "100",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "12,5% = 1/8 dan 33,33% = 1/3. Jadi (1/8 x 480) + (1/3 x 90) = 60 + 30 = 90.",
+    "quickTrick": "1/8 x 480 = 60; 1/3 x 90 = 30 -> 60 + 30 = 90."
+  },
+  {
+    "id": "p5_tiu_07",
+    "category": "TIU",
+    "subtopic": "Numerik - Hitung Cepat",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Jika x = 3/4 + 5/8 - 1/2 dan y = 0,875, maka hubungan yang tepat antara x dan y adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > y",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "x < y",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "x = y",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "x = 2y",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "y = 2x",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "x = 6/8 + 5/8 - 4/8 = 7/8 = 0,875. Karena y = 0,875, maka x = y.",
+    "quickTrick": "Samakan penyebut ke /8 -> (6+5-4)/8 = 7/8 = 0,875 = y!"
+  },
+  {
+    "id": "p5_tiu_08",
+    "category": "TIU",
+    "subtopic": "Numerik - Hitung Cepat",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "Hasil dari sqrt(225) + sqrt(625) - sqrt(144) adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "24",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "26",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "28",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "30",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "32",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "sqrt(225) = 15, sqrt(625) = 25, sqrt(144) = 12. Maka 15 + 25 - 12 = 28.",
+    "quickTrick": "15 + 25 - 12 = 28."
+  },
+  {
+    "id": "p5_tiu_09",
+    "category": "TIU",
+    "subtopic": "Numerik - Soal Cerita",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Lima tahun yang lalu, perbandingan usia ayah dan anak adalah 5 : 1. Sekarang jumlah usia mereka berdua adalah 46 tahun. Berapa tahun usia anak sekarang?",
+    "options": [
+      {
+        "label": "A",
+        "text": "9 tahun",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "10 tahun",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "11 tahun",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "12 tahun",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "13 tahun",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Jumlah usia 5 tahun lalu = 46 - 2(5) = 36 tahun. Rasio 5 : 1 (total 6 bagian = 36 -> 1 bagian = 6). Usia anak 5 tahun lalu = 6 tahun, jadi usia anak sekarang = 6 + 5 = 11 tahun.",
+    "quickTrick": "Mundur 5 tahun untuk berdua: 46-10=36 -> 1/6 x 36 = 6 -> +5 = 11 tahun."
+  },
+  {
+    "id": "p5_tiu_10",
+    "category": "TIU",
+    "subtopic": "Numerik - Soal Cerita",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "Ani menabung di koperasi sebesar Rp2.000.000 dengan bunga tunggal 6% per tahun. Berapa total uang tabungan Ani setelah 8 bulan?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp2.060.000",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Rp2.080.000",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Rp2.100.000",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Rp2.120.000",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Rp2.160.000",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Bunga 8 bulan = (8/12) x 6% x 2.000.000 = 4% x 2.000.000 = Rp80.000. Total = Rp2.080.000.",
+    "quickTrick": "8 bulan = 2/3 tahun -> 2/3 x 6% = 4% -> 4% x 2jt = 80rb -> 2.080.000."
+  },
+  {
+    "id": "p5_tiu_11",
+    "category": "TIU",
+    "subtopic": "Numerik - Soal Cerita",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Sebuah tangki air berkapasitas 360 liter diisi oleh keran A dengan debit 12 liter/menit dan keran B dengan debit 8 liter/menit secara bersamaan, sementara di bagian bawah terdapat kebocoran sebesar 2 liter/menit. Berapa menit waktu yang dibutuhkan sampai tangki penuh?",
+    "options": [
+      {
+        "label": "A",
+        "text": "16 menit",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "18 menit",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "20 menit",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "22 menit",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "24 menit",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Debit bersih pengisian = 12 + 8 - 2 = 18 liter/menit. Waktu = 360 / 18 = 20 menit.",
+    "quickTrick": "Debit gabungan = 12 + 8 - 2 = 18 L/mnt -> 360/18 = 20 menit."
+  },
+  {
+    "id": "p5_tiu_12",
+    "category": "TIU",
+    "subtopic": "Numerik - Soal Cerita",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Dalam rapat pemilihan koordinator tim yang terdiri dari 1 ketua dan 1 sekretaris berbeda, terdapat 5 kandidat pegawai yang memenuhi syarat. Berapa banyak susunan pasangan ketua dan sekretaris yang mungkin terbentuk?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 susunan",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "15 susunan",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "20 susunan",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "25 susunan",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "30 susunan",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Karena jabatan ketua dan sekretaris berbeda (urutan diperhatikan), gunakan permutasi P(5,2) = 5 x 4 = 20 susunan.",
+    "quickTrick": "Ketua ada 5 pilihan, sekretaris sisa 4 pilihan -> 5 x 4 = 20."
+  },
+  {
+    "id": "p5_tiu_13",
+    "category": "TIU",
+    "subtopic": "Verbal - Analogi",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "HAKIM : PALU = DOKTER : ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pasien",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Resep",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Stetoskop",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Klinik",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Obat",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Hakim menggunakan palu sebagai perangkat khas profesinya di persidangan, sebagaimana dokter menggunakan stetoskop saat memeriksa pasien.",
+    "quickTrick": "Profesi : Alat khas kerja -> Hakim:Palu = Dokter:Stetoskop."
+  },
+  {
+    "id": "p5_tiu_14",
+    "category": "TIU",
+    "subtopic": "Verbal - Analogi",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "BAJA : KUAT = KAPAS : ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Putih",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Lembut",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Ringan",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Benang",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Kain",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Sifat fisik khas baja adalah keras/kuat, sedangkan sifat raba khas kapas adalah lembut.",
+    "quickTrick": "Benda : Sifat tekstur khas -> Baja:Kuat = Kapas:Lembut."
+  },
+  {
+    "id": "p5_tiu_15",
+    "category": "TIU",
+    "subtopic": "Verbal - Analogi Kalimat",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Hubungan antara kata 'Benih', 'Tumbuh', dan 'Panen' sepadan dengan...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rencana, Pelaksanaan, Evaluasi",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Latihan, Mahir, Prestasi",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Air, Mendidih, Es",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Kertas, Pena, Buku",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Hujan, Banjir, Kemarau",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Benih diproses melalui tumbuh hingga membuahkan hasil panen, sepadan dengan latihan yang diproses menjadi mahir hingga membuahkan prestasi.",
+    "quickTrick": "Tahap awal -> proses berkembang -> capaian hasil positif = Latihan->Mahir->Prestasi."
+  },
+  {
+    "id": "p5_tiu_16",
+    "category": "TIU",
+    "subtopic": "Verbal - Analogi",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "KILOMETER : JARAK = KILOGRAM : ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tinggi",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Volume",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Massa",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Luas",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Waktu",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Kilometer adalah satuan jarak, sedangkan kilogram adalah satuan massa/berat benda.",
+    "quickTrick": "Satuan : Besaran -> Kilogram : Massa."
+  },
+  {
+    "id": "p5_tiu_17",
+    "category": "TIU",
+    "subtopic": "Verbal - Silogisme",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Semua buku referensi di rak A berbahasa Indonesia. Sebagian buku di rak A adalah buku hukum. Tidak ada komik yang diletakkan di rak A. Simpulan yang PASTI BENAR adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Semua buku hukum berbahasa Indonesia.",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Sebagian buku hukum berbahasa Indonesia.",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Sebagian komik berbahasa Indonesia.",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Tidak ada buku referensi yang membahas hukum.",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Semua buku berbahasa Indonesia ada di rak A.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Ada buku hukum di rak A, dan seluruh isi rak A (termasuk buku referensi di rak A) berbahasa Indonesia -> maka pasti ada sebagian buku hukum (yaitu yang di rak A) yang berbahasa Indonesia.",
+    "quickTrick": "Sebagian buku hukum ada di rak A, semua di rak A berbahasa Indonesia -> sebagian buku hukum berbahasa Indonesia."
+  },
+  {
+    "id": "p5_tiu_18",
+    "category": "TIU",
+    "subtopic": "Verbal - Silogisme",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Jika jadwal pemeliharaan server dimajukan ke hari Sabtu, maka layanan portal pendaftaran ditutup sementara. Jika layanan portal ditutup sementara, pelamar mengunduh formulir versi cetak. Hari ini pelamar tidak mengunduh formulir versi cetak. Simpulan yang sah adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Layanan portal pendaftaran ditutup sementara.",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Jadwal pemeliharaan server dimajukan ke hari Sabtu.",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Jadwal pemeliharaan server tidak dimajukan ke hari Sabtu.",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Sebagian pelamar tetap mengakses portal.",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Pemeliharaan server dipindahkan ke hari Minggu.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Silogisme berantai: P -> Q -> R. Karena ~R (pelamar tidak mengunduh formulir cetak), dengan Modus Tollens kesimpulannya ~Q dan ~P: jadwal pemeliharaan server tidak dimajukan ke hari Sabtu.",
+    "quickTrick": "P->Q->R, fakta ~R => pasti ~P (server tidak dimajukan ke Sabtu)."
+  },
+  {
+    "id": "p5_tiu_19",
+    "category": "TIU",
+    "subtopic": "Verbal - Silogisme",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "Setiap pegawai yang lolos diklat dasar mendapat sertifikat kelulusan atau piagam keaktifan. Raka lolos diklat dasar, namun ia tidak mendapat piagam keaktifan. Simpulan yang paling tepat adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Raka tidak lolos diklat dasar.",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Raka pasti mendapat sertifikat kelulusan.",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Raka mendapat kedua dokumen sekaligus.",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Tidak ada peserta diklat yang mendapat sertifikat.",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Raka harus mengulang diklat dasar.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Karena syaratnya disjungsi ('sertifikat ATAU piagam') dan salah satu tidak terpenuhi ('tidak mendapat piagam'), maka yang satunya ('mendapat sertifikat kelulusan') pasti terjadi.",
+    "quickTrick": "A atau B, bukan B => Pasti A (sertifikat kelulusan)."
+  },
+  {
+    "id": "p5_tiu_20",
+    "category": "TIU",
+    "subtopic": "Verbal - Silogisme",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Pernyataan 'Jika anggaran disetujui, maka proyek jembatan dimulai' setara (ekuivalen secara logika) dengan pernyataan...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jika anggaran tidak disetujui, maka proyek jembatan tidak dimulai.",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Jika proyek jembatan dimulai, maka anggaran disetujui.",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Jika proyek jembatan tidak dimulai, maka anggaran tidak disetujui.",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Anggaran disetujui tetapi proyek jembatan ditunda.",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Proyek jembatan selalu dimulai tanpa persetujuan anggaran.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Secara logika formal, implikasi P -> Q hanya ekuivalen dengan kontraposisinya yaitu ~Q -> ~P: 'Jika proyek jembatan tidak dimulai, maka anggaran tidak disetujui.'",
+    "quickTrick": "Ekuivalensi wajib: (P -> Q) === (~Q -> ~P) [dibalik & dinegasikan]."
+  },
+  {
+    "id": "p5_tiu_21",
+    "category": "TIU",
+    "subtopic": "Verbal - Penalaran Analitis",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Lima peserta ujian (Dian, Ega, Fikri, Gita, Hana) memperoleh skor berbeda. Skor Ega lebih tinggi dari Fikri, tetapi lebih rendah dari Gita. Skor Hana lebih tinggi dari Dian, namun lebih rendah dari Fikri. Siapakah yang memperoleh skor tertinggi ketiga?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gita",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Ega",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Fikri",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Hana",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Dian",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Urutan dari skor tertinggi ke terendah: Gita > Ega > Fikri > Hana > Dian. Posisi ke-1 Gita, ke-2 Ega, ke-3 Fikri.",
+    "quickTrick": "Susun rantai: Gita > Ega > Fikri > Hana > Dian -> peringkat ke-3 = Fikri."
+  },
+  {
+    "id": "p5_tiu_22",
+    "category": "TIU",
+    "subtopic": "Verbal - Penalaran Analitis",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Sebanyak 4 loket pelayanan (Loket 1 sampai Loket 4) dijaga oleh 4 petugas (Rani, Sinta, Taufik, Umar), masing-masing 1 loket. - Rani tidak menjaga Loket 1 maupun Loket 4. - Sinta menjaga Loket tepat di sebelah kiri Taufik. - Umar menjaga Loket 4. Di loket manakah Rani bertugas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Loket 1",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Loket 2",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Loket 3",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Loket 4",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Tidak dapat ditentukan",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Umar = 4. Sinta tepat di kiri Taufik, berarti pasangan berurutan (1,2) atau (2,3). Karena Rani tidak di 1 dan 4, Rani harus di 2 atau 3. Jika Rani=2, Sinta-Taufik tidak muat bersebelahan di sisa kursi (1 dan 3). Maka Sinta=1, Taufik=2, dan Rani=3!",
+    "quickTrick": "Umar=4; Sinta-Taufik berdempetan -> hanya bisa (1,2) karena Rani!=1 -> Rani=3."
+  },
+  {
+    "id": "p5_tiu_23",
+    "category": "TIU",
+    "subtopic": "Verbal - Penalaran Analitis",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Dalam rapat meja bundar 6 kursi bernomor urut melingkar searah jarum jam, duduk 6 kepala seksi (P, Q, R, S, T, U): P berhadapan dengan S; R berhadapan dengan T; dan Q duduk tepat di antara P dan R. Jika urutan searah jarum jam adalah P - Q - R - S, siapakah yang duduk di antara S dan P di sisi lainnya?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hanya T saja",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "T dan U",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Q dan R",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "S dan R",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "U dan Q",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Enam kursi melingkar: P(1), Q(2), R(3), S(4). Karena R(3) berhadapan dengan T, maka T berada di kursi 6 (di sebelah P). Kursi tersisa yaitu kursi 5 diisi U. Jadi yang duduk di antara S(4) dan P(1) di sisi lainnya adalah U dan T.",
+    "quickTrick": "Lingkaran 6 kursi: 1=P, 2=Q, 3=R, 4=S -> hadapan R(3) = T(6), sisa 5 = U -> sisi satunya berisi T & U."
+  },
+  {
+    "id": "p5_tiu_24",
+    "category": "TIU",
+    "subtopic": "Verbal - Penalaran Analitis",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Sebuah tim harus memilih tepat 3 dari 5 kandidat (A, B, C, D, E) untuk proyek lapangan dengan syarat: Jika A dipilih, maka B juga harus dipilih. C dan D tidak boleh dipilih bersamaan. E wajib dipilih jika B tidak dipilih. Jika C dan E dipilih masuk tim, siapa kandidat ketiga yang pasti terpilih?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "B",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "D",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "A atau B",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "B atau D",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "C dan E sudah dipilih (2 orang, butuh 1 lagi). Karena C dipilih, D gugur (C dan D tidak boleh bersama). Tersisa kandidat A atau B untuk 1 kursi. Jika memilih A, syaratnya B harus ikut (jadi 4 orang, melanggar kuota 3!). Maka satu-satunya yang bisa dipilih adalah B.",
+    "quickTrick": "C masuk -> D gugur; sisa kursi 1 orang -> A tak bisa masuk tanpa B -> wajib B."
+  },
+  {
+    "id": "p5_tiu_25",
+    "category": "TIU",
+    "subtopic": "Verbal - Analogi",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "PENULIS : NASKAH = SUTRADARA : ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kamera",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Bioskop",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Film",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Aktor",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Panggung",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Penulis menghasilkan karya berupa naskah, sedangkan sutradara mengarahkan dan menghasilkan karya berupa film.",
+    "quickTrick": "Kreator : Hasil karya utama -> Penulis:Naskah = Sutradara:Film."
+  },
+  {
+    "id": "p5_tiu_26",
+    "category": "TIU",
+    "subtopic": "Figural - Deret Gambar",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "Amati perubahan jumlah sisi bangun datar pada deret berikut. Gambar keempat yang tepat adalah...",
+    "figuralPrompt": {
+      "type": "SERIES",
+      "cells": [
+        {
+          "shape": "HEXAGON",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        },
+        {
+          "shape": "PENTAGON",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        },
+        {
+          "shape": "SQUARE",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "TRIANGLE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 5,
+        "figural": {
+          "shape": "TRIANGLE",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "CIRCLE",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 0,
+        "figural": {
+          "shape": "STAR",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Jumlah sisi bangun berkurang 1 setiap langkah (6 sisi -> 5 sisi -> 4 sisi -> 3 sisi yaitu Segitiga) dan isian arsir (Striped) tetap konsisten.",
+    "quickTrick": "6 -> 5 -> 4 -> 3 sisi (Segitiga) dengan arsir sama -> B."
+  },
+  {
+    "id": "p5_tiu_27",
+    "category": "TIU",
+    "subtopic": "Figural - Deret Gambar",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Perhatikan pergantian bentuk dan pergeseran sudut titik penanda searah jarum jam. Gambar keempat yang benar adalah...",
+    "figuralPrompt": {
+      "type": "SERIES",
+      "cells": [
+        {
+          "shape": "DIAMOND",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "TOP_LEFT",
+          "count": 1
+        },
+        {
+          "shape": "CROSS",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "TOP_RIGHT",
+          "count": 1
+        },
+        {
+          "shape": "DIAMOND",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "BOTTOM_RIGHT",
+          "count": 1
+        }
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "DIAMOND",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "BOTTOM_LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 0,
+        "figural": {
+          "shape": "CROSS",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "TOP_LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 5,
+        "figural": {
+          "shape": "CROSS",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "BOTTOM_LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 0,
+        "figural": {
+          "shape": "CROSS",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "BOTTOM_LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "STAR",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "BOTTOM_LEFT",
+          "count": 1
+        }
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Bentuk bergantian Belah Ketupat <-> Tanda Tambah (Cross), dan titik berpindah sudut searah jarum jam: kiri atas -> kanan atas -> kanan bawah -> kiri bawah.",
+    "quickTrick": "Giliran Cross + titik di kiri bawah -> C."
+  },
+  {
+    "id": "p5_tiu_28",
+    "category": "TIU",
+    "subtopic": "Figural - Deret Gambar",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "Amati perubahan jumlah bintang dan pola isian warna pada deret gambar berikut. Gambar keempat yang tepat adalah...",
+    "figuralPrompt": {
+      "type": "SERIES",
+      "cells": [
+        {
+          "shape": "STAR",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 4
+        },
+        {
+          "shape": "STAR",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 3
+        },
+        {
+          "shape": "STAR",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 2
+        }
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "STAR",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 5,
+        "figural": {
+          "shape": "STAR",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "STAR",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 0,
+        "figural": {
+          "shape": "STAR",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 2
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "PENTAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Jumlah bintang berkurang 1 tiap langkah (4 -> 3 -> 2 -> 1), dan warna bergantian Solid -> Outline -> Solid -> Outline.",
+    "quickTrick": "4,3,2 -> 1 bintang; Solid,Outline,Solid -> Outline (B)."
+  },
+  {
+    "id": "p5_tiu_29",
+    "category": "TIU",
+    "subtopic": "Figural - Deret Gambar",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Amati perputaran posisi titik dan rotasi tanda silang sebesar +45° searah jarum jam setiap langkah. Gambar keempat yang tepat adalah...",
+    "figuralPrompt": {
+      "type": "SERIES",
+      "cells": [
+        {
+          "shape": "CROSS",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "TOP",
+          "count": 1
+        },
+        {
+          "shape": "CROSS",
+          "fill": "OUTLINE",
+          "rotationDeg": 45,
+          "dotPosition": "TOP_RIGHT",
+          "count": 1
+        },
+        {
+          "shape": "CROSS",
+          "fill": "OUTLINE",
+          "rotationDeg": 90,
+          "dotPosition": "RIGHT",
+          "count": 1
+        }
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 5,
+        "figural": {
+          "shape": "CROSS",
+          "fill": "OUTLINE",
+          "rotationDeg": 135,
+          "dotPosition": "BOTTOM_RIGHT",
+          "count": 1
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 0,
+        "figural": {
+          "shape": "CROSS",
+          "fill": "OUTLINE",
+          "rotationDeg": 180,
+          "dotPosition": "BOTTOM",
+          "count": 1
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "CROSS",
+          "fill": "OUTLINE",
+          "rotationDeg": 135,
+          "dotPosition": "BOTTOM_LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 0,
+        "figural": {
+          "shape": "CROSS",
+          "fill": "SOLID",
+          "rotationDeg": 135,
+          "dotPosition": "BOTTOM_RIGHT",
+          "count": 1
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "CROSS",
+          "fill": "OUTLINE",
+          "rotationDeg": 45,
+          "dotPosition": "BOTTOM_RIGHT",
+          "count": 1
+        }
+      }
+    ],
+    "correctLabel": "A",
+    "explanationBasic": "Bangun berputar +45° setiap langkah (0° -> 45° -> 90° -> 135°) dan titik bergeser 45° searah jarum jam (Atas -> Kanan Atas -> Kanan -> Kanan Bawah).",
+    "quickTrick": "Rotasi 90°+45° = 135° (posisi X miring) + titik Kanan Bawah -> A."
+  },
+  {
+    "id": "p5_tiu_30",
+    "category": "TIU",
+    "subtopic": "Figural - Analogi Gambar",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "Berdasarkan pola perubahan jumlah dan isian dari gambar ke-1 ke gambar ke-2, gambar keempat yang paling tepat adalah...",
+    "figuralPrompt": {
+      "type": "ANALOGY",
+      "cells": [
+        {
+          "shape": "CIRCLE",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        },
+        {
+          "shape": "CIRCLE",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 3
+        },
+        {
+          "shape": "HEXAGON",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 3
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 0,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 2
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 5,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 3
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 0,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 3
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "CIRCLE",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 3
+        }
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Jumlah bangun dilipatgandakan menjadi 3 (1 -> 3) dan isian arsir (Striped) berubah menjadi penuh (Solid) sambil mempertahankan jenis bangun.",
+    "quickTrick": "1 -> 3 buah, Striped -> Solid, tetap Segienam => C."
+  },
+  {
+    "id": "p5_tiu_31",
+    "category": "TIU",
+    "subtopic": "Figural - Analogi Gambar",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Perhatikan pembalikan arah orientasi, warna isian, dan posisi titik pada analogi gambar berikut:",
+    "figuralPrompt": {
+      "type": "ANALOGY",
+      "cells": [
+        {
+          "shape": "TRIANGLE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "BOTTOM",
+          "count": 1
+        },
+        {
+          "shape": "TRIANGLE",
+          "fill": "SOLID",
+          "rotationDeg": 180,
+          "dotPosition": "TOP",
+          "count": 1
+        },
+        {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 90,
+          "dotPosition": "LEFT",
+          "count": 1
+        }
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 270,
+          "dotPosition": "RIGHT",
+          "count": 1
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "SOLID",
+          "rotationDeg": 90,
+          "dotPosition": "RIGHT",
+          "count": 1
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "SOLID",
+          "rotationDeg": 270,
+          "dotPosition": "LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 5,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "SOLID",
+          "rotationDeg": 270,
+          "dotPosition": "RIGHT",
+          "count": 1
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "SOLID",
+          "rotationDeg": 180,
+          "dotPosition": "BOTTOM",
+          "count": 1
+        }
+      }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Aturan analogi: bangun berputar 180° (90° -> 270°), warna Outline berubah menjadi Solid, dan titik berpindah ke sisi berlawanan (Kiri -> Kanan).",
+    "quickTrick": "Putar 180° (90->270) + jadi Solid + titik pindah berlawanan (Kiri->Kanan) => D."
+  },
+  {
+    "id": "p5_tiu_32",
+    "category": "TIU",
+    "subtopic": "Figural - Analogi Gambar",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Tentukan gambar keempat berdasarkan pola perpindahan titik dan penambahan bangun dalam yang sama:",
+    "figuralPrompt": {
+      "type": "ANALOGY",
+      "cells": [
+        {
+          "shape": "DIAMOND",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "LEFT",
+          "count": 1
+        },
+        {
+          "shape": "DIAMOND",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "RIGHT",
+          "count": 1,
+          "innerShape": "DIAMOND"
+        },
+        {
+          "shape": "HEXAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "TOP",
+          "count": 1
+        }
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "BOTTOM",
+          "count": 1
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 5,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "BOTTOM",
+          "count": 1,
+          "innerShape": "HEXAGON"
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "TOP",
+          "count": 1,
+          "innerShape": "HEXAGON"
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 0,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "BOTTOM",
+          "count": 1,
+          "innerShape": "HEXAGON"
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "BOTTOM",
+          "count": 1,
+          "innerShape": "CIRCLE"
+        }
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Titik penanda berpindah ke sisi berlawanan (Atas -> Bawah) dan ditambahkan bangun dalam yang sama persis bentuknya dengan bangun luar (Segienam di dalam Segienam).",
+    "quickTrick": "Titik ke sisi lawan (Bawah) + tambah bangun kembar di dalam (Segienam) => B."
+  },
+  {
+    "id": "p5_tiu_33",
+    "category": "TIU",
+    "subtopic": "Figural - Ketidaksamaan Gambar",
+    "packageId": "paket_5",
+    "isHots": false,
+    "questionText": "Temukan satu gambar yang memiliki karakteristik geometri berbeda dari keempat gambar lainnya:",
+    "figuralPrompt": {
+      "type": "ODD_ONE_OUT",
+      "cells": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "SQUARE",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 0,
+        "figural": {
+          "shape": "DIAMOND",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "PENTAGON",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 5,
+        "figural": {
+          "shape": "CIRCLE",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        }
+      }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Opsi A, B, C, dan E semuanya merupakan bangun segi banyak (poligon) dengan sisi lurus dan titik sudut, sedangkan opsi D (Lingkaran) merupakan bangun bersisi lengkung tanpa titik sudut.",
+    "quickTrick": "Cari sifat dasar geometri: empat poligon bersisi lurus vs satu Lingkaran lengkung (D)."
+  },
+  {
+    "id": "p5_tiu_34",
+    "category": "TIU",
+    "subtopic": "Figural - Ketidaksamaan Gambar",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Pilih satu gambar yang polanya berbeda dari keempat gambar lainnya:",
+    "figuralPrompt": {
+      "type": "ODD_ONE_OUT",
+      "cells": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "CIRCLE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "CIRCLE"
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 0,
+        "figural": {
+          "shape": "TRIANGLE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "TRIANGLE"
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "SQUARE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "SQUARE"
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 0,
+        "figural": {
+          "shape": "PENTAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "PENTAGON"
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 5,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "STAR"
+        }
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Pada opsi A, B, C, dan D bangun di bagian dalam selalu sama persis jenisnya dengan bangun di luar. Hanya pada opsi E bangun luar (Segienam) berisi bangun dalam yang berbeda (Bintang).",
+    "quickTrick": "Empat gambar berisi bangun kembar di dalam; hanya E berbeda (Segienam berisi Bintang)."
+  },
+  {
+    "id": "p5_tiu_35",
+    "category": "TIU",
+    "subtopic": "Figural - Ketidaksamaan Gambar",
+    "packageId": "paket_5",
+    "isHots": true,
+    "questionText": "Manakah satu gambar yang berbeda aturan posisi titik terhadap arah panahnya?",
+    "figuralPrompt": {
+      "type": "ODD_ONE_OUT",
+      "cells": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "RIGHT",
+          "count": 1
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 90,
+          "dotPosition": "BOTTOM",
+          "count": 1
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 180,
+          "dotPosition": "LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 270,
+          "dotPosition": "TOP",
+          "count": 1
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 5,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 90,
+          "dotPosition": "TOP",
+          "count": 1
+        }
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Pada opsi A (panah atas, titik di kanan), B (panah kanan, titik di bawah), C (panah bawah, titik di kiri), dan D (panah kiri, titik di atas), posisi titik selalu berada 90° di sebelah KANAN arah panah. Hanya pada opsi E (panah kanan, titik di atas) titik berada di sebelah kiri arah panah.",
+    "quickTrick": "Posisikan diri searah panah: A, B, C, D titik ada di kanan panah; hanya E di kiri!"
+  }
+]

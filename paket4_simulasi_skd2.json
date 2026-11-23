@@ -1,0 +1,2327 @@
+[
+  {
+    "id": "p4_twk_01",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - UUD 1945",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Menurut Pasal 14 ayat (1) UUD NRI Tahun 1945, Presiden berhak memberi grasi dan rehabilitasi dengan memperhatikan pertimbangan dari...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dewan Perwakilan Rakyat",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Mahkamah Agung",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Mahkamah Konstitusi",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Komisi Yudisial",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Jaksa Agung",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Pasal 14 ayat (1) UUD 1945 menyatakan Presiden memberi grasi dan rehabilitasi dengan memperhatikan pertimbangan Mahkamah Agung, sedangkan amnesti dan abolisi (ayat 2) dengan pertimbangan DPR.",
+    "quickTrick": "Hafalan cepat Pasal 14: G-R = MA (Grasi & Rehabilitasi), A-A = DPR (Amnesti & Abolisi)."
+  },
+  {
+    "id": "p4_twk_02",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - UUD 1945",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Dalam sistem pemilu Indonesia berdasarkan Pasal 22E ayat (1) UUD NRI Tahun 1945, pemilihan umum dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil setiap...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Empat tahun sekali",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Lima tahun sekali",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Enam tahun sekali",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Tiga tahun sekali",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Sepuluh tahun sekali",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Pasal 22E ayat (1) UUD 1945 menegaskan bahwa pemilihan umum dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil setiap lima tahun sekali.",
+    "quickTrick": "Pasal 22E = Pemilu LUBER JURDIL setiap 5 tahun sekali."
+  },
+  {
+    "id": "p4_twk_03",
+    "category": "TWK",
+    "subtopic": "Integritas",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Seorang kepala bidang menerima bingkisan logam mulia bernilai Rp12.000.000 di rumahnya dari mitra kerja setelah proyek selesai tanpa penolakan di tempat karena diantar kurir. Berdasarkan aturan pelaporan gratifikasi KPK, kewajiban paling lambat yang harus dilakukan adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mengembalikan langsung ke kurir dalam 60 hari kerja",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Melaporkan kepada KPK atau Unit Pengendali Gratifikasi (UPG) paling lambat 30 hari kerja sejak tanggal penerimaan",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Menghibahkan barang tersebut ke panti asuhan atas nama instansi",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Mencatatnya dalam laporan kas akhir tahun divisi",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Menyimpannya di brankas kantor hingga masa jabatan berakhir",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Sesuai UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 Pasal 12C, penerima gratifikasi wajib melaporkannya kepada KPK paling lambat 30 hari kerja terhitung sejak tanggal gratifikasi tersebut diterima.",
+    "quickTrick": "Batas lapor gratifikasi ke KPK/UPG = 30 hari kerja!"
+  },
+  {
+    "id": "p4_twk_04",
+    "category": "TWK",
+    "subtopic": "Nasionalisme",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Dalam pidatonya di hadapan Badan Pekerja KNIP pada 2 September 1948, Mohammad Hatta merumuskan haluan politik luar negeri Indonesia dengan istilah 'Mendayung di Antara Dua Karang'. Makna historis dan strategis dari gagasan tersebut adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Indonesia menutup diri dari perdagangan internasional agar mandiri penuh",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Indonesia bergabung ke blok ekonomi terkuat demi mempercepat pembangunan",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Indonesia bersikap bebas aktif dan tidak memihak blok Barat maupun blok Timur selama Perang Dingin demi menjaga kedaulatan nasional",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Indonesia memprioritaskan kerja sama militer hanya dengan negara tetangga Asia Tenggara",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Indonesia membatasi hubungan diplomatik dengan negara bekas penjajah",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Doktrin 'Mendayung di Antara Dua Karang' oleh Wakil Presiden Mohammad Hatta menjadi dasar politik luar negeri Bebas Aktif Indonesia: tidak masuk pakta militer blok Barat (AS) maupun Timur (Uni Soviet), tetapi aktif memperjuangkan perdamaian dunia.",
+    "quickTrick": "Dua Karang Hatta = Blok Barat vs Blok Timur -> lahir politik Bebas Aktif."
+  },
+  {
+    "id": "p4_twk_05",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - Pancasila",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Seorang pengamat menyatakan bahwa sila pertama Pancasila menjamin kebebasan memeluk agama sekaligus melarang pemaksaan keyakinan oleh negara maupun kelompok mayoritas. Contoh kebijakan daerah yang paling sejalan dengan prinsip sila pertama tersebut adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mewajibkan seluruh siswa mengikuti satu jenis ekstrakurikuler keagamaan yang sama",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Menyediakan fasilitas ruang ibadah dan guru agama sesuai keyakinan masing-masing peserta didik di sekolah negeri",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Melarang perayaan hari besar keagamaan di ruang terbuka publik",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Membatasi pendirian tempat ibadah hanya di ibu kota provinsi",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Menghapus mata pelajaran pendidikan agama dari kurikulum sekolah",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Sila Ketuhanan Yang Maha Esa dan Pasal 29 UUD 1945 menuntut perlakuan setara serta pemenuhan hak beribadah dan pendidikan agama sesuai keyakinan masing-masing warga negara.",
+    "quickTrick": "Sila 1 dalam layanan publik = fasilitasi setara sesuai keyakinan tiap warga, tanpa pemaksaan."
+  },
+  {
+    "id": "p4_twk_06",
+    "category": "TWK",
+    "subtopic": "Bela Negara",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Sistem pertahanan dan keamanan negara Indonesia menurut Pasal 30 ayat (2) UUD NRI Tahun 1945 adalah Sishankamrata (Sistem Pertahanan dan Keamanan Rakyat Semesta), di mana kekuatan utama pertahanan berada pada...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kepolisian Negara Republik Indonesia",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Aparatur Sipil Negara di seluruh kementerian",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Tentara Nasional Indonesia (TNI) dan Polri sebagai kekuatan utama, sedangkan rakyat sebagai kekuatan pendukung",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Organisasi masyarakat dan relawan bencana",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Pasukan pengamanan swakarsa di tingkat daerah",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Pasal 30 ayat (2) UUD 1945 menegaskan bahwa usaha pertahanan dan keamanan negara dilaksanakan melalui sistem pertahanan dan keamanan rakyat semesta oleh TNI dan Kepolisian Negara RI sebagai kekuatan utama, dan rakyat sebagai kekuatan pendukung.",
+    "quickTrick": "Pasal 30(2) UUD 1945: Kekuatan Utama = TNI & Polri; Kekuatan Pendukung = Rakyat."
+  },
+  {
+    "id": "p4_twk_07",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - Bhinneka Tunggal Ika",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Di sebuah kabupaten majemuk, terjadi konflik sosial akibat sekelompok warga menganggap budaya daerahnya paling unggul sehingga meremehkan tradisi pendatang. Sikap negatif yang memicu gesekan tersebut dalam sosiologi kebangsaan dikenal sebagai...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Akulturasi budaya",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Asimilasi sosial",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Etnosentrisme",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Pluralisme konstruktif",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Integrasi nasional",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Etnosentrisme adalah pandangan atau sikap menilai budaya lain menggunakan standar budaya sendiri dan menganggap budayanya paling tinggi, yang dapat menghambat persatuan Bhinneka Tunggal Ika.",
+    "quickTrick": "Menganggap suku/budaya sendiri paling unggul = Etnosentrisme."
+  },
+  {
+    "id": "p4_twk_08",
+    "category": "TWK",
+    "subtopic": "Bahasa Indonesia",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Manakah penggunaan tanda koma yang paling tepat sesuai kaidah EYD Edisi V?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Walaupun hujan turun deras para peserta ujian tetap hadir tepat waktu.",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Semua pegawai wajib membawa KTP, kartu ujian, dan alat tulis pribadi.",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Dia mengatakan, bahwa rapat koordinasi ditunda hingga besok pagi.",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Karena sakit keras ia tidak dapat mengikuti pelatihan kepemimpinan.",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Buku ini bukan milik saya melainkan milik rekan kerja di bagian umum.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Opsi B menggunakan koma di antara unsur pemerincian (termasuk sebelum 'dan'). Opsi A & D kurang koma setelah anak kalimat di awal; opsi C tidak perlu koma sebelum 'bahwa'; opsi E wajib koma sebelum 'melainkan'.",
+    "quickTrick": "Cek koma EYD V: rincian >=3 item pakai koma sebelum 'dan'; anak kalimat di awal wajib koma; sebelum 'melainkan/sedangkan' pakai koma; sebelum 'bahwa' TIDAK pakai koma."
+  },
+  {
+    "id": "p4_twk_09",
+    "category": "TWK",
+    "subtopic": "Integritas",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Menjelang pilkada serentak, seorang ASN berfoto sambil mengacungkan jari simbol salah satu pasangan calon dan mengunggahnya di akun media sosial pribadi di luar jam kerja dengan alasan kebebasan berekspresi. Tindakan tersebut keliru karena...",
+    "options": [
+      {
+        "label": "A",
+        "text": "ASN hanya boleh berkampanye setelah mengajukan cuti tahunan",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Netralitas ASN berlaku penuh baik di jam kerja maupun di luar jam kerja termasuk di ruang digital agar pelayanan publik bebas dari keberpihakan politik",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Unggahan di media sosial pribadi dilarang bagi seluruh warga negara",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "ASN hanya dilarang mendukung calon dari luar daerah tugasnya",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Simbol dukungan politik diperbolehkan asalkan tidak memakai seragam dinas",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "UU ASN menegaskan asas netralitas bahwa pegawai ASN dilarang menunjukkan keberpihakan atau dukungan politik praktis baik luring maupun daring kapan pun selama berstatus ASN.",
+    "quickTrick": "Netralitas ASN = berlaku 24 jam termasuk di medsos pribadi (foto/like/komentar dukungan paslon dilarang)."
+  },
+  {
+    "id": "p4_twk_10",
+    "category": "TWK",
+    "subtopic": "Nasionalisme",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Peristiwa pengungsian pusat pemerintahan Republik Indonesia dan pembentukan Pemerintahan Darurat Republik Indonesia (PDRI) di Bukittinggi pada Desember 1948 dipimpin oleh...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sutan Sjahrir",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Amir Sjarifuddin",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Sjafruddin Prawiranegara",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Mohammad Natsir",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Jenderal Sudirman",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Ketika Agresi Militer Belanda II menawan Soekarno-Hatta di Yogyakarta (19 Desember 1948), mandat pembentukan PDRI di Bukittinggi diberikan kepada Mr. Sjafruddin Prawiranegara untuk membuktikan kepada dunia bahwa RI tetap ada.",
+    "quickTrick": "PDRI 1948 Bukittinggi = Sjafruddin Prawiranegara (menyelamatkan eksistensi RI di mata dunia)."
+  },
+  {
+    "id": "p4_twk_11",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - UUD 1945",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Lembaga negara yang dibentuk setelah amandemen UUD NRI Tahun 1945 untuk menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim serta mengusulkan pengangkatan hakim agung adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mahkamah Konstitusi",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Komisi Pemberantasan Korupsi",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Komisi Yudisial",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Ombudsman Republik Indonesia",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Dewan Pertimbangan Presiden",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Pasal 24B ayat (1) UUD NRI 1945 mengatur Komisi Yudisial bersifat mandiri yang berwenang mengusulkan pengangkatan hakim agung dan menjaga keluhuran martabat serta perilaku hakim.",
+    "quickTrick": "Pasal 24B: Usul hakim agung + awasi perilaku hakim = Komisi Yudisial (KY)."
+  },
+  {
+    "id": "p4_twk_12",
+    "category": "TWK",
+    "subtopic": "Bahasa Indonesia",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Penulisan kata serapan yang seluruhnya baku menurut KBBI adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "kualitas, jadwal, sistem, praktik",
+        "score": 5
+      },
+      {
+        "label": "B",
+        "text": "kwalitas, jadual, sistim, praktek",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "kualitas, jadual, sistem, praktek",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "kwalitas, jadwal, sistem, praktik",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "kualitas, jadwal, sistim, praktik",
+        "score": 0
+      }
+    ],
+    "correctLabel": "A",
+    "explanationBasic": "Bentuk baku KBBI adalah kualitas (bukan kwalitas), jadwal (bukan jadual), sistem (bukan sistim), dan praktik (bukan praktek).",
+    "quickTrick": "Hafalan wajib: kualitas, jadwal, sistem, praktik (semua pakai 'i'/'u', bukan 'e'/'w')."
+  },
+  {
+    "id": "p4_twk_13",
+    "category": "TWK",
+    "subtopic": "Bela Negara",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Dalam menghadapi ancaman ketergantungan impor energi fosil di masa depan, pemerintah mempercepat pembangunan pembangkit listrik tenaga surya dan biofuel lokal. Langkah strategis ini sejalan dengan bela negara karena memperkuat ketahanan di bidang...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ideologi politik semata",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Kemampuan militer perbatasan",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Kedaulatan energi dan ekonomi nasional",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Hubungan diplomatik bilateral",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Budaya populer masyarakat",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Kemandirian energi terbarukan mengurangi kerentanan negara terhadap gejolak pasokan global, sehingga memperkuat dimensi ekonomi dan ketahanan nasional sebagai bentuk Bela Negara non-militer.",
+    "quickTrick": "Energi lokal/terbarukan = ketahanan ekonomi & kedaulatan energi."
+  },
+  {
+    "id": "p4_twk_14",
+    "category": "TWK",
+    "subtopic": "Pilar Negara - Pancasila",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Sesuai Pasal 33 ayat (3) UUD NRI Tahun 1945, bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat. Pasal ini merupakan penjabaran langsung dari nilai Pancasila sila...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pertama",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Kedua",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Ketiga",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Keempat",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Kelima",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Penguasaan sumber daya alam oleh negara untuk kemakmuran rakyat banyak secara merata mencerminkan nilai keadilan sosial bagi seluruh rakyat Indonesia (Sila Kelima).",
+    "quickTrick": "Pasal 33 & 34 UUD 1945 (ekonomi & kesejahteraan rakyat) = Sila ke-5."
+  },
+  {
+    "id": "p4_twk_15",
+    "category": "TWK",
+    "subtopic": "Bahasa Indonesia",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Perhatikan penulisan judul buku dan istilah asing dalam kalimat berikut! Manakah yang sesuai kaidah EYD Edisi V?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ia membaca buku Dasar-Dasar Hukum Tata Negara di perpustakaan.",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Para peserta wajib memahami istilah conflict of interest saat menyusun laporan.",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Artikel berjudul 'Transformasi Birokrasi Digital' dimuat di majalah Tempo.",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Rapat membahas rencana kerja (workplan) tanpa menggunakan huruf miring.",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Makalah berjudul Efektivitas Layanan Publik sangat diminati pembaca.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Menurut EYD V, judul artikel dalam kalimat diapit tanda petik ganda/tunggal sedangkan nama majalah/koran/buku ditulis miring (dalam teks biasa tanpa markup miring, judul artikel pakai tanda petik sudah tepat dibanding opsi lain yang seluruhnya salah aturan; opsi A, B, D, E kurang penandaan judul/asing). Note: pada opsi C, 'Transformasi Birokrasi Digital' memakai tanda kutip judul artikel yang tepat.",
+    "quickTrick": "Judul artikel = tanda petik; judul buku/majalah & istilah asing = huruf miring."
+  },
+  {
+    "id": "p4_tiu_01",
+    "category": "TIU",
+    "subtopic": "Numerik - Deret Angka",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Tentukan bilangan berikutnya pada deret berikut: 2, 6, 12, 20, 30, 42, ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "52",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "54",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "56",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "58",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "60",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Selisih antar suku berturut-turut adalah +4, +6, +8, +10, +12. Maka suku berikutnya 42 + 14 = 56 (atau pola n(n+1): 7 x 8 = 56).",
+    "quickTrick": "Pola selisih genap naik (+4, +6, +8, +10, +12, +14) atau 7x8 = 56."
+  },
+  {
+    "id": "p4_tiu_02",
+    "category": "TIU",
+    "subtopic": "Numerik - Deret Angka",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Lengkapi deret larik dua berikut: 7, 100, 14, 92, 28, 84, ..., ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "56, 76",
+        "score": 5
+      },
+      {
+        "label": "B",
+        "text": "42, 76",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "56, 78",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "49, 76",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "54, 74",
+        "score": 0
+      }
+    ],
+    "correctLabel": "A",
+    "explanationBasic": "Larik ganjil dikali 2: 7 -> 14 -> 28 -> 56. Larik genap dikurangi 8: 100 -> 92 -> 84 -> 76.",
+    "quickTrick": "Pisah ganjil (x2) dan genap (-8): 28x2=56 dan 84-8=76."
+  },
+  {
+    "id": "p4_tiu_03",
+    "category": "TIU",
+    "subtopic": "Numerik - Hitung Cepat",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Nilai dari 87,5% x 160 - 2/5 x 150 adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "70",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "75",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "80",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "85",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "90",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "87,5% = 7/8. Jadi (7/8 x 160) - (2/5 x 150) = (7 x 20) - (2 x 30) = 140 - 60 = 80.",
+    "quickTrick": "87,5% = 7/8 -> 7x20 - 60 = 80."
+  },
+  {
+    "id": "p4_tiu_04",
+    "category": "TIU",
+    "subtopic": "Numerik - Hitung Cepat",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Jika a = 45² - 35² dan b = 80 x 11, maka hubungan yang tepat antara a dan b adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "a > b",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "a < b",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "a = b",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "a = 2b",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Hubungan tidak dapat ditentukan",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "a = (45 + 35)(45 - 35) = 80 x 10 = 800. Sedangkan b = 80 x 11 = 880. Jadi a < b.",
+    "quickTrick": "Pakai selisih kuadrat: (45+35)(45-35) = 80x10 < 80x11."
+  },
+  {
+    "id": "p4_tiu_05",
+    "category": "TIU",
+    "subtopic": "Numerik - Soal Cerita",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Seorang pengendara motor berangkat dari kota X pukul 07.00 WIB dengan kecepatan 40 km/jam. Satu jam kemudian, pengendara mobil menyusul dari kota X melalui rute yang sama dengan kecepatan 60 km/jam. Pada pukul berapa mobil tersebut berhasil menyusul motor?",
+    "options": [
+      {
+        "label": "A",
+        "text": "09.00 WIB",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "09.30 WIB",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "10.00 WIB",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "10.30 WIB",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "11.00 WIB",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Selisih jarak awal saat mobil berangkat pukul 08.00 = 40 km/jam x 1 jam = 40 km. Waktu menyusul = Selisih Jarak / Selisih Kecepatan = 40 / (60 - 40) = 2 jam. Jadi menyusul pukul 08.00 + 2 jam = 10.00 WIB.",
+    "quickTrick": "Rumus menyusul: t = (v1 x dt) / (v2 - v1) = 40/20 = 2 jam setelah mobil jalan (08.00 + 2 = 10.00)."
+  },
+  {
+    "id": "p4_tiu_06",
+    "category": "TIU",
+    "subtopic": "Numerik - Soal Cerita",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Dalam sebuah kantor terdapat 40 pegawai. Sebanyak 24 pegawai mahir mengolah data spreadsheet, 18 pegawai mahir membuat desain presentasi, dan 6 pegawai tidak mahir keduanya. Berapa pegawai yang mahir kedua keterampilan tersebut?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6 orang",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "8 orang",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "10 orang",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "12 orang",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "14 orang",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Total = A + B - Keduanya + Bukan Keduanya -> 40 = 24 + 18 - x + 6 -> 40 = 48 - x -> x = 8 orang.",
+    "quickTrick": "Rumus Himpunan: Irisan = (24 + 18 + 6) - 40 = 48 - 40 = 8."
+  },
+  {
+    "id": "p4_tiu_07",
+    "category": "TIU",
+    "subtopic": "Numerik - Perbandingan",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Sebuah panti asuhan memiliki persediaan beras yang cukup untuk 30 anak selama 20 hari. Jika penghuni panti bertambah 10 anak, berapa hari persediaan beras tersebut akan habis?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12 hari",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "14 hari",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "15 hari",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "16 hari",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "18 hari",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Perbandingan berbalik nilai: 30 x 20 = (30 + 10) x H -> 600 = 40 x H -> H = 15 hari.",
+    "quickTrick": "Anak bertambah -> waktu makin cepat: 30 x 20 / 40 = 15 hari."
+  },
+  {
+    "id": "p4_tiu_08",
+    "category": "TIU",
+    "subtopic": "Numerik - Aritmetika Sosial",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Seorang pedagang membeli satu kodi tas seminar seharga Rp1.600.000, lalu menjual seluruh tas tersebut dengan harga Rp96.000 per buah. Berapa persentase keuntungan pedagang tersebut?",
+    "options": [
+      {
+        "label": "A",
+        "text": "15%",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "18%",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "20%",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "24%",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "25%",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "1 kodi = 20 buah. Harga beli per tas = 1.600.000 / 20 = Rp80.000. Untung per tas = 96.000 - 80.000 = Rp16.000. Persentase untung = (16.000 / 80.000) x 100% = 20%.",
+    "quickTrick": "1 kodi = 20 pcs -> Beli 80rb, jual 96rb -> untung 16rb/80rb = 1/5 = 20%."
+  },
+  {
+    "id": "p4_tiu_09",
+    "category": "TIU",
+    "subtopic": "Verbal - Analogi",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "TERMOMETER : SUHU = BAROMETER : ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kelembapan",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Kecepatan angin",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Tekanan udara",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Curah hujan",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Ketinggian laut",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Termometer adalah alat pengukur suhu, sedangkan barometer adalah alat pengukur tekanan udara.",
+    "quickTrick": "Pasangan alat ukur dan besaran: Termometer->Suhu, Barometer->Tekanan udara."
+  },
+  {
+    "id": "p4_tiu_10",
+    "category": "TIU",
+    "subtopic": "Verbal - Silogisme",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Premis 1: Semua dokumen yang telah diverifikasi petugas berstempel hijau.\nPremis 2: Sebagian berkas di meja arsip belum berstempel hijau.\nSimpulan yang paling sah adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Semua berkas di meja arsip belum diverifikasi petugas.",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Sebagian berkas di meja arsip belum diverifikasi petugas.",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "Tidak ada berkas di meja arsip yang berstempel hijau.",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "Semua dokumen yang berstempel hijau berada di meja arsip.",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Sebagian dokumen yang diverifikasi petugas tidak berstempel hijau.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Karena semua yang terverifikasi pasti berstempel hijau (Verifikasi -> Hijau), maka kontraposisinya adalah Tidak Hijau -> Belum Verifikasi. Sebagian berkas belum berstempel hijau berarti sebagian berkas itu pasti belum diverifikasi petugas.",
+    "quickTrick": "P->Q berarti ~Q->~P. Belum hijau = pasti belum diverifikasi (sebagian)."
+  },
+  {
+    "id": "p4_tiu_11",
+    "category": "TIU",
+    "subtopic": "Verbal - Silogisme",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Manakah pernyataan yang merupakan negasi (ingkaran) paling tepat dari kalimat: 'Semua peserta seleksi mengenakan kemeja putih dan berdasi hitam'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Semua peserta seleksi tidak mengenakan kemeja putih dan tidak berdasi hitam.",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Tidak ada peserta seleksi yang mengenakan kemeja putih atau berdasi hitam.",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Ada peserta seleksi yang tidak mengenakan kemeja putih atau tidak berdasi hitam.",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Sebagian peserta seleksi mengenakan kemeja putih dan tidak berdasi hitam saja.",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Semua peserta seleksi mengenakan pakaian bebas.",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Ingkaran kuantor universal 'Semua X memenuhi (A dan B)' adalah 'Ada/Beberapa X yang memenuhi (~A atau ~B)' (Hukum De Morgan).",
+    "quickTrick": "Ingkaran 'Semua (A dan B)' = 'Ada yang (tidak A ATAU tidak B)'."
+  },
+  {
+    "id": "p4_tiu_12",
+    "category": "TIU",
+    "subtopic": "Verbal - Penalaran Analitis",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Lima kota (J, K, L, M, N) dihubungkan jalur bus satu arah: bus hanya berjalan dari J ke K, dari K ke L, dari L ke M, dari M ke N, serta jalur pintas langsung dari J ke L dan dari K ke N. Jika seorang petugas berangkat dari J dan ingin singgah di kota M sebelum tiba di N dengan jumlah kota singgah paling sedikit, rute manakah yang diambil?",
+    "options": [
+      {
+        "label": "A",
+        "text": "J -> K -> L -> M -> N",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "J -> L -> M -> N",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "J -> K -> N",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "J -> L -> N",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "J -> M -> N",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Syaratnya wajib singgah di M sebelum ke N. Rute langsung J->L->M->N hanya melalui 4 kota (valid karena ada pintas J->L, lalu L->M, M->N). Rute J->M->N tidak tersedia langsung.",
+    "quickTrick": "Wajib lewat M dan rute terpendek: cek pintasan J->L -> langsung M -> N."
+  },
+  {
+    "id": "p4_tiu_13",
+    "category": "TIU",
+    "subtopic": "Verbal - Penalaran Analitis",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Enam kotak arsip bernomor urut 1 sampai 6 dari bawah ke atas disimpan di lemari: Kotak Merah berada tepat di atas Kotak Biru. Kotak Kuning tidak di posisi 1 maupun 6 dan berada di bawah Kotak Hijau. Kotak Abu-abu berada di posisi paling atas (6). Jika Kotak Biru di posisi 2 dan Kotak Ungu tepat di bawah Biru, di posisi manakah Kotak Hijau?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Posisi 3",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "Posisi 4",
+        "score": 0
+      },
+      {
+        "label": "C",
+        "text": "Posisi 5",
+        "score": 5
+      },
+      {
+        "label": "D",
+        "text": "Posisi 2",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "Posisi 1",
+        "score": 0
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Urutan terisi: 6=Abu-abu, 2=Biru, 1=Ungu (tepat di bawah Biru), 3=Merah (tepat di atas Biru). Tersisa posisi 4 dan 5 untuk Kuning dan Hijau. Karena Kuning di bawah Hijau, maka Kuning=4 dan Hijau=5.",
+    "quickTrick": "Isi pasti dulu: 1=Ungu, 2=Biru, 3=Merah, 6=Abu -> sisa 4 & 5: Kuning < Hijau => Hijau=5."
+  },
+  {
+    "id": "p4_tiu_14",
+    "category": "TIU",
+    "subtopic": "Numerik - Soal Cerita",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Rata-rata nilai tes 12 orang kelas A adalah 75, sedangkan rata-rata nilai 8 orang kelas B adalah 85. Jika nilai kedua kelas digabungkan, berapakah rata-rata keseluruhannya?",
+    "options": [
+      {
+        "label": "A",
+        "text": "78",
+        "score": 0
+      },
+      {
+        "label": "B",
+        "text": "79",
+        "score": 5
+      },
+      {
+        "label": "C",
+        "text": "80",
+        "score": 0
+      },
+      {
+        "label": "D",
+        "text": "81",
+        "score": 0
+      },
+      {
+        "label": "E",
+        "text": "82",
+        "score": 0
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Total nilai A = 12 x 75 = 900. Total nilai B = 8 x 85 = 680. Total gabungan = 1.580 dibagi (12 + 8 = 20 orang) = 79.",
+    "quickTrick": "Rata-rata gabungan = (12x75 + 8x85) / 20 = (900+680)/20 = 79."
+  },
+  {
+    "id": "p4_tiu_15",
+    "category": "TIU",
+    "subtopic": "Figural - Deret Gambar",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Amati rotasi arah panah dan perpindahan sudut titik penanda pada deret gambar berikut. Gambar keempat yang tepat adalah...",
+    "figuralPrompt": {
+      "type": "SERIES",
+      "cells": [
+        {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "TOP_LEFT",
+          "count": 1
+        },
+        {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 90,
+          "dotPosition": "TOP_RIGHT",
+          "count": 1
+        },
+        {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 180,
+          "dotPosition": "BOTTOM_RIGHT",
+          "count": 1
+        }
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 270,
+          "dotPosition": "TOP_LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 180,
+          "dotPosition": "BOTTOM_LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 5,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 270,
+          "dotPosition": "BOTTOM_LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "SOLID",
+          "rotationDeg": 270,
+          "dotPosition": "BOTTOM_LEFT",
+          "count": 1
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "ARROW",
+          "fill": "OUTLINE",
+          "rotationDeg": 90,
+          "dotPosition": "BOTTOM_LEFT",
+          "count": 1
+        }
+      }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Setiap langkah, panah berputar +90° searah jarum jam (0° -> 90° -> 180° -> 270°) dan titik berpindah sudut searah jarum jam (kiri atas -> kanan atas -> kanan bawah -> kiri bawah), sedangkan isian tetap outline.",
+    "quickTrick": "Panah putar +90° (ke kiri = 270°) dan titik geser ke kiri bawah -> C."
+  },
+  {
+    "id": "p4_tiu_16",
+    "category": "TIU",
+    "subtopic": "Figural - Deret Gambar",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Perhatikan pola perubahan jumlah persegi serta pola isiannya dari kiri ke kanan. Gambar keempat yang benar adalah...",
+    "figuralPrompt": {
+      "type": "SERIES",
+      "cells": [
+        {
+          "shape": "SQUARE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1
+        },
+        {
+          "shape": "SQUARE",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 2
+        },
+        {
+          "shape": "SQUARE",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 3
+        }
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "SQUARE",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 4
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 5,
+        "figural": {
+          "shape": "SQUARE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 4
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "SQUARE",
+          "fill": "STRIPED",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 4
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 0,
+        "figural": {
+          "shape": "SQUARE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 3
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "DIAMOND",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 4
+        }
+      }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Jumlah persegi bertambah 1 tiap langkah (1, 2, 3, 4) dan jenis isian berulang siklus 3 langkah: Outline -> Striped -> Solid -> kembali ke Outline.",
+    "quickTrick": "Jumlah = 4 persegi; siklus warna kembali ke Outline -> B."
+  },
+  {
+    "id": "p4_tiu_17",
+    "category": "TIU",
+    "subtopic": "Figural - Analogi Gambar",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Amati perubahan bangun luar, bangun dalam, dan warna dari gambar ke-1 menjadi gambar ke-2. Gambar keempat yang tepat melengkapi analogi adalah...",
+    "figuralPrompt": {
+      "type": "ANALOGY",
+      "cells": [
+        {
+          "shape": "CIRCLE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "TRIANGLE"
+        },
+        {
+          "shape": "TRIANGLE",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "CIRCLE"
+        },
+        {
+          "shape": "SQUARE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "DIAMOND"
+        }
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "SQUARE",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "DIAMOND"
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 0,
+        "figural": {
+          "shape": "DIAMOND",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "SQUARE"
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "DIAMOND",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "CIRCLE"
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 5,
+        "figural": {
+          "shape": "DIAMOND",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "SQUARE"
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "CIRCLE",
+          "fill": "SOLID",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "SQUARE"
+        }
+      }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Aturan transformasi: bangun luar dan bangun dalam bertukar posisi, lalu bangun luar berubah dari Outline menjadi Solid. Jadi Persegi(dalam Belah Ketupat) menjadi Belah Ketupat Solid(dalam Persegi).",
+    "quickTrick": "Tukar luar<->dalam + ubah jadi Solid => Belah Ketupat Solid berisi Persegi (D)."
+  },
+  {
+    "id": "p4_tiu_18",
+    "category": "TIU",
+    "subtopic": "Figural - Ketidaksamaan Gambar",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Carilah satu gambar yang tidak mengikuti aturan hubungan jumlah sisi bangun luar dan bangun dalam yang sama dengan keempat gambar lainnya:",
+    "figuralPrompt": {
+      "type": "ODD_ONE_OUT",
+      "cells": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gambar A",
+        "score": 0,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "PENTAGON"
+        }
+      },
+      {
+        "label": "B",
+        "text": "Gambar B",
+        "score": 0,
+        "figural": {
+          "shape": "PENTAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "SQUARE"
+        }
+      },
+      {
+        "label": "C",
+        "text": "Gambar C",
+        "score": 0,
+        "figural": {
+          "shape": "SQUARE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "TRIANGLE"
+        }
+      },
+      {
+        "label": "D",
+        "text": "Gambar D",
+        "score": 5,
+        "figural": {
+          "shape": "TRIANGLE",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "HEXAGON"
+        }
+      },
+      {
+        "label": "E",
+        "text": "Gambar E",
+        "score": 0,
+        "figural": {
+          "shape": "HEXAGON",
+          "fill": "OUTLINE",
+          "rotationDeg": 0,
+          "dotPosition": "NONE",
+          "count": 1,
+          "innerShape": "SQUARE"
+        }
+      }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Pada opsi A (6>5), B (5>4), C (4>3), dan E (6>4), jumlah sisi bangun luar selalu lebih banyak daripada bangun di dalamnya. Hanya pada opsi D bangun luar segitiga (3 sisi) memiliki lebih sedikit sisi daripada segienam (6 sisi) di dalamnya.",
+    "quickTrick": "Cek aturan luar > dalam: A(6>5), B(5>4), C(4>3), E(6>4), hanya D(3<6) terbalik!"
+  },
+  {
+    "id": "p4_tkp_01",
+    "category": "TKP",
+    "subtopic": "Pelayanan Publik",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Saat bertugas di loket pengaduan daerah, datang seorang ibu menggendong balita yang rewel karena ruang tunggu penuh sesak dan nomor antreannya masih 12 nomor lagi. Sikap paling tepat yang tetap menjaga keadilan antrean adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mengabaikannya karena semua pemohon wajib menunggu giliran tanpa terkecuali.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Memintanya pulang dulu dan kembali lagi saat sore hari ketika sudah sepi.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Menenangkannya serta menyarankan duduk di kursi sudut agar tidak terhimpit pemohon lain.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Mengecek apakah ada kursi laktasi/ruang tunggu ramah anak dan mengarahkan beliau ke sana sambil memantau nomor antreannya.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Mengarahkannya ke ruang khusus kelompok rentan/laktasi yang nyaman sambil memastikan pemanggilan nomornya dibantu sesuai giliran atau jalur prioritas resmi instansi.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Pelayanan publik berorientasi kelompok rentan menyediakan ruang nyaman serta memanfaatkan jalur prioritas resmi tanpa menimbulkan gesekan antrean.",
+    "quickTrick": "Skor 5 Pelayanan Kelompok Rentan = Fasilitasi ruang nyaman + jalur prioritas resmi."
+  },
+  {
+    "id": "p4_tkp_02",
+    "category": "TKP",
+    "subtopic": "Pelayanan Publik",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Seorang warga menghubungi kanal layanan telepon resmi untuk menanyakan prosedur izin usaha baru, tetapi pertanyaan tersebut ternyata masuk kewenangan instansi dinas lain di gedung sebelah. Tindakan Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menutup telepon setelah mengatakan bahwa itu bukan urusan kantor Anda.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Meminta warga mencari sendiri nomor telepon dinas terkait di internet.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Memberi tahu nama dinas yang berwenang dengan singkat.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Menjelaskan dinas tujuan yang berwenang serta memberikan alamat dan nomor kontaknya.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Memastikan kebutuhan dasarnya, menjelaskan dengan ramah bahwa kewenangan ada di dinas terkait, lalu memberikan kontak resmi, alamat loket, serta ringkasan syarat awal yang perlu disiapkan.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Walaupun bukan kewenangan unit kerja, ASN tetap memberi informasi lintas instansi secara tuntas agar masyarakat tidak dipingpong.",
+    "quickTrick": "Skor 5 = Jangan pingpong warga; beri arah tujuan, kontak resmi, dan panduan awal."
+  },
+  {
+    "id": "p4_tkp_03",
+    "category": "TKP",
+    "subtopic": "Pelayanan Publik",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Setelah instansi meluncurkan kotak saran digital berbasis kode QR, muncul beberapa ulasan bintang satu yang mengeluhkan lambatnya penerbitan surat keterangan domisili usaha pada pekan lalu. Sebagai penanggung jawab mutu layanan, langkah Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menghapus ulasan negatif agar penilaian kinerja unit terlihat tetap bagus.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Membiarkannya karena keluhan di media daring sering bersifat emosional.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Membalas ulasan tersebut dengan permintaan maaf standar.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Mencatat keluhan itu untuk dibahas pada rapat evaluasi akhir bulan.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Menelusuri akar keterlambatan pada alur minggu lalu, menghubungi pemohon dengan klarifikasi solutif bila ada kontak, dan memperbaiki standar waktu proses tim loket.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Komplain publik adalah umpan balik perbaikan nyata (audit akar masalah + tindak lanjut konkret), bukan untuk disembunyikan.",
+    "quickTrick": "Skor 5 Keluhan Publik = Telusuri akar masalah + tindak lanjut + perbaiki SOP."
+  },
+  {
+    "id": "p4_tkp_04",
+    "category": "TKP",
+    "subtopic": "Pelayanan Publik",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Seorang pemohon datang menggunakan bahasa daerah yang kental dan kurang lancar berbahasa Indonesia baku sehingga kesulitan menjelaskan keperluannya. Rekan di loket sebelah kebetulan memahami bahasa daerah tersebut tetapi sedang merapikan berkas. Sikap Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Meminta pemohon pulang dan membawa pendamping yang bisa bahasa Indonesia.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Menebak-nebak keperluannya agar antrean cepat bergerak.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Memintanya menulis maksudnya di kertas dengan pelan.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Menggunakan bahasa isyarat sederhana sambil mencocokkan daftar layanan tertulis.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Meminta bantuan rekan yang mengerti bahasa daerahnya secara sopan untuk menerjemahkan agar kebutuhan warga terpenuhi akurat.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Kolaborasi internal untuk mengatasi hambatan bahasa memastikan warga menerima hak layanan yang benar dan tepat.",
+    "quickTrick": "Skor 5 = Libatkan rekan penerjemah / alat bantu komunikasi agar tepat sasaran."
+  },
+  {
+    "id": "p4_tkp_05",
+    "category": "TKP",
+    "subtopic": "Jejaring Kerja",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Dalam tim penyusunan sistem pelaporan baru, rekan senior Anda tampak pasif saat rapat karena merasa gagasan mudanya tidak sejalan dengan metode digital yang Anda usulkan. Agar jejaring kerja tetap harmonis dan proyek sukses, langkah Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mengabaikannya dan tetap menjalankan rancangan Anda bersama rekan muda lainnya.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Melaporkannya kepada pimpinan bahwa rekan tersebut menghambat perubahan.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Meminta pimpinan langsung membagi tugas tanpa perlu rapat lanjutan.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Mengajaknya berdiskusi di sesi rapat berikutnya agar mau memberi masukan.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Mendekatinya secara personal penuh hormat untuk meminta saran dari pengalaman lapangan beliau, lalu mengintegrasikan masukan praktisnya ke dalam sistem baru.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Jejaring kerja lintas generasi mengedepankan rasa hormat pada pengalaman senior sekaligus menjadikannya bagian dari solusi.",
+    "quickTrick": "Skor 5 = Rangkul personal + hargai pengalaman + libatkan dalam solusi."
+  },
+  {
+    "id": "p4_tkp_06",
+    "category": "TKP",
+    "subtopic": "Jejaring Kerja",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Unit Anda mendapat tugas melaksanakan pameran layanan publik bersama tiga mitra komunitas lokal. H-1 acara, salah satu mitra meminta perubahan jadwal panggung yang memengaruhi susunan acara mitra lainnya. Tindakan Anda sebagai koordinator adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menolak mentah-mentah permintaan itu karena rundown sudah dicetak.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Langsung menyetujui permintaan mitra tersebut tanpa memberi tahu dua mitra lainnya.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Meminta ketiga mitra bermusyawarah sendiri dan melapor jika sudah selesai.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Memutuskan jadwal baru sepihak lalu mengirimkannya lewat grup pesan.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Mengadakan koordinasi cepat bersama perwakilan ketiga mitra untuk mencari kompromi jadwal terbaik yang adil dan tidak merugikan acara utama.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Koordinasi multipihak membutuhkan komunikasi terbuka kepada seluruh pemangku kepentingan agar kesepakatan berjalan mulus.",
+    "quickTrick": "Skor 5 = Koordinasi cepat semua pihak + cari titik temu adil."
+  },
+  {
+    "id": "p4_tkp_07",
+    "category": "TKP",
+    "subtopic": "Jejaring Kerja",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Setelah menyelesaikan pelatihan manajemen proyek, Anda diminta pimpinan membagikan ilmunya kepada rekan satu bidang, padahal jadwal pekerjaan rutin minggu ini sedang padat. Sikap Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menolak karena bukan tugas pokok Anda untuk mengajar rekan kerja.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Mengirimkan salinan slide materi mentah ke grup tanpa penjelasan.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Menunggu sampai seluruh pekerjaan bulan depan selesai baru berbagi.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Menyampaikan garis besarnya secara lisan saat makan siang.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Menjadwalkan sesi sharing singkat 30 menit di jam yang tidak mengganggu layanan, lengkap dengan ringkasan langkah praktis yang mudah langsung dipakai tim.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Transfer pengetahuan terstruktur meningkatkan kapasitas seluruh jaringan tim tanpa mengganggu target layanan.",
+    "quickTrick": "Skor 5 = Berbagi ilmu terstruktur + ringkas + praktis untuk tim."
+  },
+  {
+    "id": "p4_tkp_08",
+    "category": "TKP",
+    "subtopic": "Jejaring Kerja",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Seorang kolega dari instansi lain yang pernah membantu Anda tahun lalu kini menghubungi dan meminta data statistik agregat (non-rahasia) untuk bahan penelitian program kerjanya. Respons terbaik Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Memberikan seluruh basis data mentah termasuk data pribadi pemohon agar cepat.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Menolaknya dengan alasan sibuk agar tidak repot.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Memintanya datang sendiri mengurus surat permohonan bermaterai terlebih dahulu.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Mengirimkan tautan situs portal statistik umum instansi agar ia mencari sendiri.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Menyiapkan data agregat publik yang diizinkan sesuai prosedur resmi instansi serta menjelaskan batas pemakaian datanya dengan ramah.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Jejaring kerja profesional memadukan semangat membantu mitra dengan kepatuhan mutlak pada privasi data.",
+    "quickTrick": "Skor 5 = Bantu ramah lewat data non-rahasia sesuai prosedur resmi."
+  },
+  {
+    "id": "p4_tkp_09",
+    "category": "TKP",
+    "subtopic": "Sosial Budaya",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Anda ditugaskan selama enam bulan di wilayah pesisir yang warganya memiliki tradisi gotong royong melaut di pagi hari sehingga balai penyuluhan selalu sepi jika acara digelar pukul 08.00. Langkah adaptasi sosial budaya paling tepat adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tetap menggelar penyuluhan pukul 08.00 karena sesuai jam kerja kantor pusat.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Menghentikan program penyuluhan karena menganggap warga kurang bersemangat.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Mengganti penyuluhan tatap muka dengan membagikan brosur di pelabuhan.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Meminta perangkat desa mewajibkan warga hadir pukul 08.00 dengan absensi.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Berdiskusi dengan tokoh nelayan untuk menyesuaikan waktu penyuluhan ke jam sepulang melaut agar program tetap efektif tanpa mengganggu mata pencaharian warga.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Adaptasi sosial budaya menghormati ritme hidup dan ekonomi lokal sambil menjaga efektivitas program negara.",
+    "quickTrick": "Skor 5 = Libatkan tokoh lokal + sesuaikan waktu/pendekatan tanpa benturan."
+  },
+  {
+    "id": "p4_tkp_10",
+    "category": "TKP",
+    "subtopic": "Sosial Budaya",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Di kantor cabang tempat Anda bekerja, pegawai baru sering menggunakan singkatan gaul atau bahasa daerah tertentu di grup WhatsApp kedinasan sehingga rekan dari daerah lain bingung memahami instruksi. Sikap Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Membiarkannya karena setiap orang bebas mengetik gaya masing-masing.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Menegur keras di grup agar semua pegawai malu dan langsung berhenti.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Membuat grup baru khusus rekan-rekan sedaerah saja.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Mengusulkan aturan larangan memakai bahasa daerah di seluruh area kantor.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Mengingatkan secara santun agar komunikasi di grup kedinasan memakai bahasa Indonesia yang jelas supaya dipahami semua rekan lintas daerah.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Bahasa Indonesia adalah bahasa pemersatu di ruang kerja formal lintas budaya, disampaikan dengan cara santun tanpa merendahkan bahasa daerah.",
+    "quickTrick": "Skor 5 = Ajak santun gunakan bahasa Indonesia jelas di forum kerja."
+  },
+  {
+    "id": "p4_tkp_11",
+    "category": "TKP",
+    "subtopic": "Sosial Budaya",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Sebuah keluarga pendatang di kompleks perumahan Anda merasa sungkan mengikuti arisan warga karena perbedaan kebiasaan dan kekhawatiran soal menu konsumsi halal/non-halal. Sikap Anda sebagai tetangga adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tidak perlu mengajak mereka lagi supaya tidak merepotkan panitia konsumsi.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Mengatakan kepada warga lain bahwa keluarga baru itu memang tertutup.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Mengajak mereka datang hanya untuk mendengarkan sambutan lalu pulang.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Menyarankan mereka membawa makanan sendiri setiap kali acara warga.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Menyambut hangat keluarga tersebut, menjelaskan bahwa acara warga terbuka bagi semua, dan berkoordinasi dengan panitia agar menu konsumsi ramah bagi seluruh keyakinan.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Inklusivitas sosial budaya hadir lewat langkah kecil yang membuat pendatang merasa diterima dan aman.",
+    "quickTrick": "Skor 5 = Rangkul ramah + sesuaikan agar inklusif semua golongan."
+  },
+  {
+    "id": "p4_tkp_12",
+    "category": "TKP",
+    "subtopic": "TIK",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Saat melakukan audit ringan berkas digital proyek, Anda melihat banyak dokumen penting di komputer kantor belum memiliki cadangan (backup) dan hanya tersimpan di satu hard disk lama yang mulai berbunyi aneh. Tindakan Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mengabaikannya karena kerusakan komputer adalah tanggung jawab teknisi IT.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Menyalin dokumen penting tersebut ke flashdisk pribadi untuk disimpan di rumah.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Melaporkan bunyi hard disk tersebut di akhir bulan saat pengajuan alat baru.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Meminta rekan satu tim berhati-hati saat membuka komputer tersebut.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Segera mencadangkan data kerja ke penyimpanan cloud resmi instansi atau server aman serta melapor ke tim IT untuk pengecekan perangkat.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Keamanan TIK menuntut mitigasi risiko kehilangan data ke media resmi instansi (bukan perangkat pribadi) dan eskalasi cepat ke tim IT.",
+    "quickTrick": "Skor 5 TIK = Backup ke sistem resmi instansi + lapor tim IT."
+  },
+  {
+    "id": "p4_tkp_13",
+    "category": "TKP",
+    "subtopic": "TIK",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Anda menerima email resmi palsu (phishing) yang tampilannya mirip portal kepegawaian dan meminta pegawai segera memasukkan NIK serta kata sandi untuk pembaruan tunjangan kinerja. Langkah Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Langsung login ke tautan tersebut agar tunjangan tidak terpotong.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Meneruskan email tersebut ke grup kantor untuk menanyakan kebenarannya.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Menghapus email tersebut dari kotak masuk pribadi tanpa memberi tahu siapa pun.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Mengingatkan teman satu meja saja agar tidak mengklik tautan itu.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Tidak mengklik tautan, memverifikasi domain pengirim ke tim pengelola TIK, lalu melaporkan email phishing tersebut agar sistem kantor memblokir dan memberi peringatan ke seluruh pegawai.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Penanganan ancaman phishing meliputi pencegahan mandiri (jangan klik/sebarkan tautan) serta pelaporan resmi untuk perlindungan kolektif instansi.",
+    "quickTrick": "Skor 5 Keamanan Siber = Jangan klik/teruskan + lapor resmi tim TIK untuk blokir & peringatan."
+  },
+  {
+    "id": "p4_tkp_14",
+    "category": "TKP",
+    "subtopic": "TIK",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Instansi ingin mengurangi penggunaan kertas melalui sistem disposisi surat elektronik, namun masih ada kepala seksi yang lebih sering meminta print-out surat karena belum terbiasa memantau dasbor aplikasi. Langkah konstruktif Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tetap mencetak semua surat seperti biasa tanpa memperkenalkan sistem baru.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Menolak mencetak surat sehingga pekerjaan kepala seksi tertunda.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Memasang pengumuman tertulis tentang kewajiban memakai aplikasi.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Mengirim notifikasi link dasbor setiap pagi via pesan singkat.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Membantu mengaktifkan notifikasi otomatis di perangkat beliau serta mendampingi praktik singkat membaca dan mendisposisi surat di dasbor.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Adopsi transformasi digital berhasil lewat pendampingan praktis dan pengaktifan fitur pengingat yang memudahkan pengguna.",
+    "quickTrick": "Skor 5 TIK = Permudah transisi (notifikasi + pendampingan langsung)."
+  },
+  {
+    "id": "p4_tkp_15",
+    "category": "TKP",
+    "subtopic": "TIK",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Dalam rapat daring lintas kabupaten, Anda bertugas memaparkan data anggaran melalui fitur berbagi layar (share screen). Agar rapat efektif dan bebas risiko kebocoran data sensitif yang mungkin terbuka di laptop, persiapan terbaik Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Langsung membagikan seluruh layar (entire screen) supaya cepat.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Menonaktifkan kamera dan mikrofon peserta lalu membaca dokumen tanpa tampilan.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Meminta rekan lain yang membacakan data tanpa menampilkannya di layar.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Menutup beberapa tab saja sambil tetap membagikan seluruh layar.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Menutup semua aplikasi sensitif/pribadi, menyiapkan file presentasi bersih, dan menggunakan fitur bagikan jendela aplikasi tertentu (window share) saja.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Kebersihan digital saat presentasi daring mencegah terbukanya dokumen rahasia atau notifikasi pribadi di hadapan peserta eksternal.",
+    "quickTrick": "Skor 5 = Tutup tab sensitif + bagikan hanya window presentasi."
+  },
+  {
+    "id": "p4_tkp_16",
+    "category": "TKP",
+    "subtopic": "Profesionalisme",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Saat menyusun dokumen pengadaan tahunan, Anda menemukan spesifikasi teknis dari draf tahun lalu kurang cocok dengan kebutuhan terbaru lapangan, padahal deadline pengajuan tinggal 1 hari lagi. Sikap profesional Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menyalin langsung spesifikasi tahun lalu agar pengajuan selesai cepat.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Menunda pengajuan melewati batas waktu tanpa koordinasi.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Mengubah sendiri seluruh spesifikasi tanpa persetujuan tim teknis.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Mencatat kekurangan tersebut untuk diperbaiki tahun anggaran depan saja.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Segera berkoordinasi dengan tim teknis dan atasan untuk menyusun penyesuaian spesifikasi yang akurat hari itu juga sehingga pengadaan tetap tepat guna dan tepat waktu.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Profesionalisme menolak kebiasaan copy-paste keliru dan memilih perbaikan cepat berbasis koordinasi sebelum tenggat.",
+    "quickTrick": "Skor 5 = Perbaiki substansi lewat koordinasi cepat sebelum deadline."
+  },
+  {
+    "id": "p4_tkp_17",
+    "category": "TKP",
+    "subtopic": "Profesionalisme",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Anda diminta memimpin rapat evaluasi proyek yang sebelumnya mengalami keterlambatan di bawah koordinator lama. Di awal rapat, anggota tim mulai saling menyalahkan divisi lain. Tindakan kepemimpinan profesional Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Membiarkan perdebatan berlangsung agar semua pihak meluapkan emosi.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Memihak divisi Anda sendiri agar tidak disalahkan di depan pimpinan.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Menghentikan rapat mendadak dan melimpahkan seluruh masalah ke pimpinan.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Meminta setiap divisi menulis pembelaan tertulis terlebih dahulu.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Mengarahkan diskusi dari mencari kesalahan menjadi pemetaan hambatan konkret, lalu menyepakati langkah perbaikan dan pembagian tanggung jawab yang jelas.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Profesionalisme fokus pada penyelesaian masalah dan kejelasan tanggung jawab ke depan, bukan memperpanjang saling tuding.",
+    "quickTrick": "Skor 5 = Alihkan fokus dari menyalahkan ke solusi & pembagian tugas jelas."
+  },
+  {
+    "id": "p4_tkp_18",
+    "category": "TKP",
+    "subtopic": "Profesionalisme",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Atasan Anda meminta pendapat jujur mengenai program kerja baru yang sebenarnya ia gagas sendiri, namun berdasarkan data survei awal program tersebut berpotensi kurang diminati warga. Sikap Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Memuji program tersebut sempurna agar atasan senang.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Menolak berkomentar dengan alasan tidak memahami kebijakan.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Mengkritik keras gagasan atasan di hadapan banyak staf lain.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Menyampaikan kekhawatiran secara samar tanpa menyertakan data.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Menyampaikan evaluasi secara santun dan objektif berbasis data survei awal, sekaligus menawarkan saran penyempurnaan agar program lebih tepat sasaran.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "ASN profesional bersikap objektif (tidak asal mengiyakan) dengan menyampaikan data secara sopan disertai solusi perbaikan.",
+    "quickTrick": "Skor 5 = Jujur berbasis data + santun + tawarkan opsi perbaikan."
+  },
+  {
+    "id": "p4_tkp_19",
+    "category": "TKP",
+    "subtopic": "Profesionalisme",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Setelah bekerja lima tahun di bagian administrasi umum, Anda mendapat rotasi mutasi ke bagian pelayanan perizinan yang ritme kerjanya jauh lebih dinamis. Sikap Anda terhadap keputusan rotasi tersebut adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menolak secara halus dan meminta tetap di bagian lama karena sudah nyaman.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Bekerja sekadarnya di bagian baru sambil berharap segera dimutasi balik.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Mengeluh di media sosial mengenai beban kerja di unit baru.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Menjalankan tugas sebatas instruksi harian tanpa mempelajari SOP keseluruhan.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Menerima mutasi dengan sikap positif, segera mempelajari SOP layanan baru, dan menjadikannya peluang memperluas kompetensi lintas bidang.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Kesiapan ditempatkan di berbagai unit kerja dan kemauan belajar cepat merupakan wujud profesionalisme dan komitmen ASN.",
+    "quickTrick": "Skor 5 = Terima positif + pelajari SOP cepat + jadikan ajang berkembang."
+  },
+  {
+    "id": "p4_tkp_20",
+    "category": "TKP",
+    "subtopic": "Anti-Radikalisme",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Dalam sebuah forum diskusi komunitas hobi di luar jam kerja, seorang peserta mulai mengajak anggota lain menolak kewajiban pembayaran pajak negara dengan dalih ideologi tertentu. Sikap Anda sebagai ASN adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ikut menyetujui ajakannya supaya terlihat kompak dengan anggota komunitas.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Langsung keluar dari ruangan sambil memaki orang tersebut.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Diam saja agar tidak merusak suasana santai komunitas.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Mengingatkan singkat bahwa topik itu sebaiknya tidak dibahas di forum hobi.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Meluruskan secara tenang dan edukatif bahwa pajak adalah kewajiban konstitusional untuk pembangunan bersama dalam NKRI, serta menolak ajakan melanggar hukum.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "ASN menjaga keteguhan pada konstitusi dan hukum negara di mana pun berada dengan penyampaian persuasif dan berwibawa.",
+    "quickTrick": "Skor 5 Anti-Radikalisme = Luruskan tenang berbasis konstitusi + tolak ajakan melanggar hukum."
+  },
+  {
+    "id": "p4_tkp_21",
+    "category": "TKP",
+    "subtopic": "Anti-Radikalisme",
+    "packageId": "paket_4",
+    "isHots": true,
+    "questionText": "Saat menyeleksi materi buku bacaan untuk pojok baca ruang tunggu kantor, Anda menemukan sebuah buku sumbangan anonim yang isinya membenarkan kekerasan terhadap kelompok berbeda keyakinan. Tindakan Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tetap memajang buku tersebut karena merupakan sumbangan gratis.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Membuangnya sembarangan tanpa melaporkan kepada pengelola ruang baca.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Membawanya pulang untuk koleksi pribadi.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Memindahkannya ke gudang arsip tanpa penjelasan.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Menarik buku tersebut agar tidak dipajang di ruang publik kantor dan melaporkannya kepada penanggung jawab sarana untuk penelusuran sumber dan pengawasan konten.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Ruang pelayanan pemerintah wajib steril dari konten intoleran/kekerasan melalui tindakan penarikan dan pelaporan berjenjang.",
+    "quickTrick": "Skor 5 = Tarik dari ruang publik + laporkan ke pengelola resmi."
+  },
+  {
+    "id": "p4_tkp_22",
+    "category": "TKP",
+    "subtopic": "Anti-Radikalisme",
+    "packageId": "paket_4",
+    "isHots": false,
+    "questionText": "Seorang rekan kerja menolak menghadiri rapat koordinasi pembangunan fasilitas desa karena lokasi rapat berada di balai pertemuan milik yayasan yang berbeda latar belakang agama dengannya. Langkah persuasif Anda adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mendukungnya agar rapat dipindahkan demi menghindari perbedaan.",
+        "score": 1
+      },
+      {
+        "label": "B",
+        "text": "Melaporkannya agar langsung diberi sanksi pemecatan.",
+        "score": 2
+      },
+      {
+        "label": "C",
+        "text": "Menggantikannya diam-diam setiap kali ada rapat di lokasi berbeda agama.",
+        "score": 3
+      },
+      {
+        "label": "D",
+        "text": "Membiarkannya tidak hadir tanpa memberi penjelasan apa pun.",
+        "score": 4
+      },
+      {
+        "label": "E",
+        "text": "Mengajaknya berdialog hangat bahwa tugas pelayanan publik bersifat netral dan profesional bagi seluruh warga, serta siap mendampinginya agar merasa nyaman bertugas.",
+        "score": 5
+      }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Pendekatan dialog humanis yang menegaskan netralitas layanan publik menumbuhkan kesadaran inklusif pegawai.",
+    "quickTrick": "Skor 5 = Dialog persuasif + tekankan profesionalisme netral melayani semua."
+  }
+]

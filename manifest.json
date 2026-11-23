@@ -15,6 +15,51 @@
       "version": 1,
       "minAppVersionCode": 1,
       "requiresRewardedAd": true
+    },
+    {
+      "id": "paket_4",
+      "title": "Paket 4 Tryout SKD Lengkap",
+      "description": "55 soal lengkap (15 TWK, 18 TIU + 4 Figural baru, 22 TKP HOTS).",
+      "fileUrl": "https://will1001.github.io/cat-cpns-offline-site/paket4_simulasi_skd2.json",
+      "version": 1,
+      "minAppVersionCode": 1,
+      "requiresRewardedAd": true
+    },
+    {
+      "id": "paket_5",
+      "title": "Paket 5 Spesialis TIU & Figural",
+      "description": "35 soal TIU intensif: 12 Numerik, 13 Verbal/Analitis, & 10 Figural vektor baru.",
+      "fileUrl": "https://will1001.github.io/cat-cpns-offline-site/paket5_tiu_spesialis.json",
+      "version": 1,
+      "minAppVersionCode": 1,
+      "requiresRewardedAd": true
+    },
+    {
+      "id": "paket_6",
+      "title": "Paket 6 TWK HOTS Kebangsaan",
+      "description": "30 soal TWK gratis (Pasal UUD 1945, Sejarah, Integritas, EYD V & Bela Negara).",
+      "fileUrl": "https://will1001.github.io/cat-cpns-offline-site/paket6_twk_hots.json",
+      "version": 1,
+      "minAppVersionCode": 1,
+      "requiresRewardedAd": false
+    },
+    {
+      "id": "paket_7",
+      "title": "Paket 7 TKP Kejar Skor 5",
+      "description": "30 studi kasus TKP pelayanan publik, jejaring, TIK, profesionalisme & anti-radikalisme.",
+      "fileUrl": "https://will1001.github.io/cat-cpns-offline-site/paket7_tkp_pelayanan.json",
+      "version": 1,
+      "minAppVersionCode": 1,
+      "requiresRewardedAd": true
+    },
+    {
+      "id": "paket_8",
+      "title": "Paket 8 FR Penalaran Terkini",
+      "description": "25 soal pola Field Report terbaru (8 TWK, 9 TIU + 3 Figural, 8 TKP).",
+      "fileUrl": "https://will1001.github.io/cat-cpns-offline-site/paket8_fr_2026.json",
+      "version": 1,
+      "minAppVersionCode": 1,
+      "requiresRewardedAd": true
     }
   ]
 }
