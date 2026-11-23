@@ -73,7 +73,7 @@
     ],
     "correctLabel": "E",
     "explanationBasic": "Integritas digital menuntut transparansi terhadap celah sistem, perlindungan integritas data layanan publik, dan penyajian capaian riil tanpa manipulasi.",
-    "quickTrick": "Celah sistem ditemukan = lapor & perbaiki segera + pakai data riil jujur."
+    "quickTrick": "Integritas di era digital: menemukan bug/celah skor tidak boleh 'didiamkan sementara' apalagi 'hapus log akses' -> wajib perbaiki segera, lapor tim IT, dan pakai data riil jujur."
   },
   {
     "id": "p8_twk_03",
@@ -149,7 +149,7 @@
     ],
     "correctLabel": "C",
     "explanationBasic": "Pemerataan ekonomi, pengurangan ketimpangan antarwilayah, dan keberpihakan akses layanan dasar bagi daerah tertinggal adalah inti pengamalan Sila Kelima Pancasila.",
-    "quickTrick": "Pemerataan akses & kurangi kesenjangan antarwilayah = Sila ke-5."
+    "quickTrick": "Kata kunci FR Sila ke-5: transfer dana proporsional wilayah terpencil + kurangi kesenjangan antarprovinsi = keadilan sosial & pemerataan pembangunan."
   },
   {
     "id": "p8_twk_05",
@@ -225,7 +225,7 @@
     ],
     "correctLabel": "A",
     "explanationBasic": "Melindungi pulau terluar dari abrasi sekaligus menjaga titik pangkal batas maritim langsung berkaitan dengan menjaga kedaulatan teritorial dan keselamatan lingkungan NKRI.",
-    "quickTrick": "Pulau terluar + mangrove/batas laut = jaga kedaulatan teritorial NKRI."
+    "quickTrick": "Konteks maritim/pulau terluar di FR TWK: tanam mangrove pesisir + jaga patok batas laut = langsung menjaga KEUTUHAN WILAYAH TERITORIAL & lingkungan strategis NKRI."
   },
   {
     "id": "p8_twk_07",
@@ -263,7 +263,7 @@
     ],
     "correctLabel": "D",
     "explanationBasic": "Bhinneka Tunggal Ika menuntut penghormatan terhadap kearifan lokal dan batas kesakralan tradisi setempat sebagai bagian kekayaan bangsa yang harus dijaga bersama.",
-    "quickTrick": "Hargai batas sakral budaya lokal = toleransi & jaga kearifan lokal."
+    "quickTrick": "Kode etik wisata di wilayah adat: hormati upacara & zona sakral bukan berarti mengisolasi atau memaksa komersialisasi adat -> kuncinya 'saling menghargai tanpa merusak tatanan lokal'."
   },
   {
     "id": "p8_twk_08",
@@ -301,7 +301,7 @@
     ],
     "correctLabel": "E",
     "explanationBasic": "Pasal 37 ayat (5) UUD NRI Tahun 1945 berbunyi: 'Khusus mengenai bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan.'",
-    "quickTrick": "Pasal 37(5) UUD 1945: Yang TIDAK BISA diamandemen = Bentuk Negara Kesatuan RI (NKRI)."
+    "quickTrick": "Jebakan FR Pasal 37 UUD 1945: pasal-pasal lain dan sistem pemilu/menteri BISA diamandemen (ayat 1–4), HANYA satu hal yang terkunci mati di Pasal 37(5): BENTUK NKRI!"
   },
   {
     "id": "p8_tiu_01",

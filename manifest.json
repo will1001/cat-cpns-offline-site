@@ -12,7 +12,7 @@
       "title": "Paket 3 Harian SKD",
       "description": "15 soal pilihan terbaru (5 TWK, 5 TIU, 5 TKP) dengan trik cepat & pembahasan.",
       "fileUrl": "https://will1001.github.io/cat-cpns-offline-site/paket3_harian.json",
-      "version": 2,
+      "version": 3,
       "minAppVersionCode": 1,
       "requiresRewardedAd": true
     },
@@ -21,7 +21,7 @@
       "title": "Paket 4 Tryout SKD Lengkap",
       "description": "55 soal lengkap (15 TWK, 18 TIU + 4 Figural baru, 22 TKP HOTS).",
       "fileUrl": "https://will1001.github.io/cat-cpns-offline-site/paket4_simulasi_skd2.json",
-      "version": 2,
+      "version": 3,
       "minAppVersionCode": 1,
       "requiresRewardedAd": true
     },
@@ -39,7 +39,7 @@
       "title": "Paket 6 TWK HOTS Kebangsaan",
       "description": "30 soal TWK gratis (Pasal UUD 1945, Sejarah, Integritas, EYD V & Bela Negara).",
       "fileUrl": "https://will1001.github.io/cat-cpns-offline-site/paket6_twk_hots.json",
-      "version": 2,
+      "version": 3,
       "minAppVersionCode": 1,
       "requiresRewardedAd": false
     },
@@ -57,7 +57,7 @@
       "title": "Paket 8 FR Penalaran Terkini",
       "description": "25 soal pola Field Report terbaru (8 TWK, 9 TIU + 3 Figural, 8 TKP).",
       "fileUrl": "https://will1001.github.io/cat-cpns-offline-site/paket8_fr_2026.json",
-      "version": 2,
+      "version": 3,
       "minAppVersionCode": 1,
       "requiresRewardedAd": true
     }

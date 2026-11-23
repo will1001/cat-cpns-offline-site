@@ -35,7 +35,7 @@
     ],
     "correctLabel": "C",
     "explanationBasic": "Pasal 7 UUD 1945 hasil amandemen ke-1 berbunyi: 'Presiden dan Wakil Presiden memegang jabatan selama lima tahun, dan sesudahnya dapat dipilih kembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan.'",
-    "quickTrick": "Pasal 7 amandemen ke-1 = 5 tahun, dapat dipilih lagi hanya untuk 1 kali masa jabatan."
+    "quickTrick": "Awas jebakan kata 'dipilih KEMBALI'! Total maksimal memang 2 periode, tapi pertanyaannya adalah TAMBAHANNYA -> pilih '1 kali masa jabatan' (jangan terkecoh '2 kali'). Ingat Pasal 7 = 5 tahun + 1× ulang!"
   },
   {
     "id": "p6_twk_02",
@@ -73,7 +73,7 @@
     ],
     "correctLabel": "E",
     "explanationBasic": "Pasal 34 UUD 1945 mewajibkan negara mengembangkan sistem jaminan sosial (seperti BPJS Kesehatan & Ketenagakerjaan) serta memberdayakan masyarakat lemah dan tidak mampu.",
-    "quickTrick": "Pasal 34 = Fakir miskin & Sistem Jaminan Sosial (JKN/BPJS/Bansos)."
+    "quickTrick": "Pasangan Pasal 34 UUD 1945: ayat (1) = fakir miskin & anak terlantar; ayat (2) = Sistem Jaminan Sosial (JKN/BPJS) -> langsung coret opsi privatisasi RS atau subsidi kendaraan mewah."
   },
   {
     "id": "p6_twk_03",
@@ -149,7 +149,7 @@
     ],
     "correctLabel": "B",
     "explanationBasic": "Pasal 28J ayat (2) menegaskan pembatasan HAM oleh undang-undang semata-mata untuk menjamin pengakuan dan penghormatan atas hak kebebasan orang lain serta memenuhi tuntutan keadilan sesuai pertimbangan moral, nilai agama, keamanan, dan ketertiban umum.",
-    "quickTrick": "Pasal 28J(2) = HAM dibatasi UU demi hak orang lain & ketertiban umum."
+    "quickTrick": "Jebakan HAM absolut: Pasal 28J(2) adalah pasal 'REM/BATAS' di bab HAM -> setiap orang boleh berekspresi/berhak, tapi DIBATASI undang-undang demi hak orang lain & ketertiban umum."
   },
   {
     "id": "p6_twk_05",
@@ -225,7 +225,7 @@
     ],
     "correctLabel": "A",
     "explanationBasic": "Sidang BPUPKI I (29 Mei–1 Juni 1945) merumuskan dasar negara Pancasila, sedangkan Sidang BPUPKI II (10–17 Juli 1945) membahas rancangan UUD, bentuk negara, wilayah negara, ekonomi, dan pembelaan negara.",
-    "quickTrick": "BPUPKI I = Dasar Negara; BPUPKI II = Rancangan UUD & Wilayah Negara."
+    "quickTrick": "Bedakan dua sidang BPUPKI: Sidang I (29 Mei–1 Juni) = DASAR NEGARA (Pancasila); Sidang II (10–17 Juli) = RANCANGAN UUD, bentuk negara & wilayah! Jangan tertukar dengan KMB/Proklamasi."
   },
   {
     "id": "p6_twk_07",
@@ -263,7 +263,7 @@
     ],
     "correctLabel": "B",
     "explanationBasic": "Konferensi Meja Bundar (23 Agustus – 2 November 1949) menghasilkan kesepakatan penyerahan/pengakuan kedaulatan Indonesia oleh Kerajaan Belanda pada 27 Desember 1949.",
-    "quickTrick": "Pengakuan kedaulatan 27 Desember 1949 = hasil Konferensi Meja Bundar (KMB)."
+    "quickTrick": "Urutan diplomasi klasik ('Ling-Ren-Roem-KMB'): Linggarjati (de facto Jawa-Madura-Sumatra), Renville (Garis Van Mook), Roem-Royen (kembali ke Yogya), KMB Den Haag (27 Des 1949) = PENGAKUAN KEDAULATAN."
   },
   {
     "id": "p6_twk_08",
@@ -301,7 +301,7 @@
     ],
     "correctLabel": "D",
     "explanationBasic": "Konstituante hasil Pemilu 1955 mengalami kebuntuan berkepanjangan dalam menetapkan UUD baru menggantikan UUDS 1950, sehingga Presiden Soekarno mengeluarkan Dekrit 5 Juli 1959: membubarkan Konstituante dan kembali ke UUD 1945.",
-    "quickTrick": "Dekrit 5 Juli 1959: Konstituante gagal -> kembali ke UUD 1945, tidak berlaku UUDS 1950."
+    "quickTrick": "Ingat 3 isi Dekrit 5 Juli 1959: (1) Bubarkan Konstituante (karena gagal susun UUD baru), (2) Kembali ke UUD 1945, (3) Tidak berlakunya UUDS 1950."
   },
   {
     "id": "p6_twk_09",
@@ -339,7 +339,7 @@
     ],
     "correctLabel": "D",
     "explanationBasic": "Belanda menyebarkan propaganda bahwa TNI sudah hancur setelah Agresi Militer II. Keberhasilan menduduki Yogyakarta selama 6 jam mematahkan propaganda tersebut dan menekan Belanda kembali ke meja perundingan Roem-Royen.",
-    "quickTrick": "Serangan Umum 1 Maret 1949 = buktikan RI & TNI masih eksis di mata PBB/dunia."
+    "quickTrick": "Bedakan Serangan Umum 1 Maret 1949 (Yogyakarta) vs Pertempuran Surabaya 10 Nov: Serangan Umum 1 Maret punya tujuan DIPLOMATIK khusus -> patahkan propaganda Belanda & buktikan ke PBB bahwa TNI/RI masih eksis!"
   },
   {
     "id": "p6_twk_10",
@@ -415,7 +415,7 @@
     ],
     "correctLabel": "E",
     "explanationBasic": "Integritas ASN menuntut kejujuran fakta ilmiah/lapangan dan keberanian menyampaikan kebenaran secara bertanggung jawab disertai solusi mitigasi tanpa memanipulasi data.",
-    "quickTrick": "Integritas kajian = tolak manipulasi data secara profesional + beri opsi mitigasi."
+    "quickTrick": "Jebakan perintah atasan yang melanggar integritas: hapus data risiko demi investor tidak bisa dibenarkan dengan alasan 'sekadar bawahan' dan membocorkan ke medsos juga keliru -> tolak profesional + beri opsi mitigasi."
   },
   {
     "id": "p6_twk_12",
@@ -453,7 +453,7 @@
     ],
     "correctLabel": "D",
     "explanationBasic": "Dalam suap, pemberi dan penerima sepakat memberi imbalan atas perbuatan jabatan (keduanya dijerat hukum). Dalam pemerasan, pejabat secara aktif menekan/memaksa masyarakat agar memberikan sesuatu sebagai syarat layanan.",
-    "quickTrick": "Suap = sepakat timbal balik (win-win korup); Pemerasan = pejabat menekan/memaksa korban."
+    "quickTrick": "Kunci beda 'Suap' vs 'Pemerasan': SUAP = kesepakatan 2 pihak (sama-sama mau untung, keduanya kena pidana); PEMERASAN = ada paksaan/tekanan sepihak dari pejabat."
   },
   {
     "id": "p6_twk_13",
@@ -491,7 +491,7 @@
     ],
     "correctLabel": "E",
     "explanationBasic": "Panduan perilaku Akuntabel dalam ASN BerAKHLAK meliputi tanggung jawab atas kepercayaan yang diberikan, cermat, berintegritas tinggi, dan penggunaan barang milik negara secara bertanggung jawab dan efisien.",
-    "quickTrick": "BerAKHLAK Akuntabel = tanggung jawab + jujur + hemat/tepat guna aset negara."
+    "quickTrick": "Peta kata kunci BerAKHLAK: 'Akuntabel' wajib memuat unsur JUJUR + BERTANGGUNG JAWAB + CERMAT + HEMAT/EFISIEN terhadap barang milik negara."
   },
   {
     "id": "p6_twk_14",
@@ -529,7 +529,7 @@
     ],
     "correctLabel": "E",
     "explanationBasic": "Diskresi sah digunakan untuk mengisi kekosongan hukum/situasi mendesak demi kepentingan umum dengan itikad baik, objektif, tidak ada konflik kepentingan, dan sesuai AUPB.",
-    "quickTrick": "Diskresi sah = atasi kekosongan/mendesak + kepentingan umum + tanpa konflik kepentingan."
+    "quickTrick": "Syarat sah Diskresi (UU Administrasi Pemerintahan): HANYA jika aturan kosong/tidak jelas + kondisi mendesak + sesuai AUPB & kepentingan umum (coret opsi 'perintah lisan atasan' atau 'bantu kerabat')."
   },
   {
     "id": "p6_twk_15",
@@ -567,7 +567,7 @@
     ],
     "correctLabel": "B",
     "explanationBasic": "UU No. 12 Tahun 2011 Pasal 2 menempatkan Pancasila sebagai sumber segala sumber hukum negara; artinya seluruh hierarki peraturan perundang-undangan wajib selaras dengan nilai lima sila Pancasila.",
-    "quickTrick": "Sumber segala sumber hukum = semua UU/Perda wajib selaras nilai Pancasila."
+    "quickTrick": "Pancasila = 'Sumber dari segala sumber hukum' (UU 12/2011) -> artinya dalam hierarki aturan (UUD, UU, PP, Perda) TIDAK SATU PUN boleh bertentangan dengan Pancasila (dan Pancasila tetap, bukan diganti permen)."
   },
   {
     "id": "p6_twk_16",
@@ -605,7 +605,7 @@
     ],
     "correctLabel": "C",
     "explanationBasic": "Sila Kemanusiaan yang Adil dan Beradab menekankan pengakuan harkat martabat manusia, solidaritas kemanusiaan, dan tenggang rasa tanpa diskriminasi.",
-    "quickTrick": "Aksi kemanusiaan / empati bencana lintas golongan = Sila ke-2."
+    "quickTrick": "Beda Sila 2 vs Sila 5 pada kasus bencana: donasi/relawan/dapur umum spontan antarmanusia tanpa beda suku = nilai KEMANUSIAAN & empati (Sila ke-2); kalau program jaminan negara/anggaran daerah = Sila ke-5."
   },
   {
     "id": "p6_twk_17",
@@ -643,7 +643,7 @@
     ],
     "correctLabel": "E",
     "explanationBasic": "Bhinneka Tunggal Ika bersifat konvergen dan non-sektarian: menghargai keunikan lokal setiap daerah sekaligus mengikatnya dalam kesatuan bangsa Indonesia.",
-    "quickTrick": "Bhinneka Tunggal Ika = bukan menyeragamkan paksa, tapi bersatu dalam kesetaraan."
+    "quickTrick": "Trik eliminasi Bhinneka Tunggal Ika: langsung buang opsi yang bermakna penyeragaman ('asimilasi paksa', 'hapus bahasa daerah', 'isolasi', 'dominasi') -> pilih 'kesetaraan dalam keberagaman'."
   },
   {
     "id": "p6_twk_18",
@@ -681,7 +681,7 @@
     ],
     "correctLabel": "B",
     "explanationBasic": "Di Indonesia, provinsi yang memiliki status khusus/istimewa berdasarkan UU sesuai Pasal 18B ayat (1) antara lain Aceh, DKI Jakarta, D.I. Yogyakarta, dan provinsi-provinsi di Tanah Papua.",
-    "quickTrick": "Daerah Khusus/Istimewa UUD 18B(1) = Aceh, DKI Jakarta, DIY, Papua."
+    "quickTrick": "Hafal 4 daerah berstatus Khusus/Istimewa Pasal 18B(1): 'ADIP' -> Aceh (Syariat/Otsus), DIY (Sultan/Kasultanan), Ibukota DKI Jakarta, dan Papua (Otsus)."
   },
   {
     "id": "p6_twk_19",
@@ -795,7 +795,7 @@
     ],
     "correctLabel": "A",
     "explanationBasic": "Salah satu bentuk keikutsertaan bela negara paling relevan di era modern adalah pengabdian sesuai profesi (riset, pendidikan, kesehatan, ekonomi) untuk menjaga ketahanan dan kemandirian bangsa.",
-    "quickTrick": "Riset benih/inovasi kerja = Bela Negara lewat pengabdian sesuai profesi."
+    "quickTrick": "Pengingat 4 bentuk Bela Negara (UU Pertahanan): PPKn, Pelatihan Kemiliteran Wajib, Pengabdian TNI, dan PENGABDIAN SESUAI PROFESI (peneliti/dokter/guru berkarya di bidangnya)."
   },
   {
     "id": "p6_twk_22",
@@ -985,7 +985,7 @@
     ],
     "correctLabel": "B",
     "explanationBasic": "Alinea kedua Pembukaan UUD 1945 menegaskan bahwa Proklamasi Kemerdekaan merupakan 'pintu gerbang' (jembatan) yang mengantarkan bangsa mengisi kemerdekaan demi terwujudnya negara yang adil dan makmur.",
-    "quickTrick": "Alinea 2 = Kemerdekaan sebagai pintu gerbang/jembatan menuju negara bersatu, berdaulat, adil, makmur."
+    "quickTrick": "Peta 4 alinea Pembukaan UUD 1945: Alinea 1 = anti-penjajahan; Alinea 2 = kemerdekaan sebagai PINTU GERBANG/jembatan (bukan tujuan akhir); Alinea 3 = rahmat Tuhan; Alinea 4 = tujuan & dasar negara."
   },
   {
     "id": "p6_twk_27",
@@ -1023,7 +1023,7 @@
     ],
     "correctLabel": "C",
     "explanationBasic": "Integritas penegakan aturan menuntut sikap adil dan tegas tanpa pengecualian terhadap keluarga maupun kerabat, sesuai prosedur berita acara resmi.",
-    "quickTrick": "Pengawas berintegritas = tegur tegas + catat berita acara tanpa pandang bulu."
+    "quickTrick": "Jebakan pengawas melihat kecurangan kerabat: jangan 'pura-pura tidak lihat' dan jangan hukum semua orang satu baris -> tindak pelaku tepat sasaran + catat Berita Acara."
   },
   {
     "id": "p6_twk_28",
@@ -1061,7 +1061,7 @@
     ],
     "correctLabel": "A",
     "explanationBasic": "Wawasan Nusantara adalah cara pandang dan sikap bangsa Indonesia mengenai diri dan lingkungannya yang serba beragam dengan mengutamakan persatuan dan kesatuan wilayah (satu kesatuan Ipohankam).",
-    "quickTrick": "Cara pandang kesatuan darat-laut-udara & Ipoleksosbudhankam = Wawasan Nusantara."
+    "quickTrick": "Bedakan istilah kewilayahan: WAWASAN NUSANTARA = cara pandang kesatuan darat-laut-udara (Ipoleksosbudhankam); Desentralisasi = pelimpahan wewenang pusat ke daerah."
   },
   {
     "id": "p6_twk_29",
@@ -1137,6 +1137,6 @@
     ],
     "correctLabel": "C",
     "explanationBasic": "Mempertimbangkan hari besar keagamaan seluruh pegawai dalam agenda kerja mencerminkan kepekaan inklusif, toleransi aktif, dan penerapan Bhinneka Tunggal Ika di instansi.",
-    "quickTrick": "Menjaga agenda bebas bentrok hari raya semua agama = toleransi aktif & inklusif."
+    "quickTrick": "Menghindari bentrok jadwal kegiatan kantor dengan hari besar semua agama = contoh TOLERANSI AKTIF (berbeda dengan primordialisme yang sempit)."
   }
 ]
