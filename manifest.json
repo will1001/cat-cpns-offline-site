@@ -1,0 +1,20 @@
+{
+  "minVersionCode": 1,
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0.0",
+  "forceUpdate": false,
+  "updateMessage": "Versi terbaru CAT CPNS Offline tersedia di Google Play Store.",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=id.latihancpns.cat",
+  "schemaVersion": 1,
+  "packages": [
+    {
+      "id": "paket_3",
+      "title": "Paket 3 Harian SKD",
+      "description": "15 soal pilihan terbaru (5 TWK, 5 TIU, 5 TKP) dengan trik cepat & pembahasan.",
+      "fileUrl": "https://will1001.github.io/cat-cpns-offline-site/paket3_harian.json",
+      "version": 1,
+      "minAppVersionCode": 1,
+      "requiresRewardedAd": true
+    }
+  ]
+}

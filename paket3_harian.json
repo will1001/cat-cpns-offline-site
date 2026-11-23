@@ -1,0 +1,272 @@
+[
+  {
+    "id": "p3_twk_1",
+    "category": "TWK",
+    "subtopic": "Integritas",
+    "packageId": "paket_3",
+    "isHots": true,
+    "questionText": "Dalam proses pengadaan barang di instansi, seorang pejabat pembuat komitmen mengetahui bahwa salah satu peserta tender adalah perusahaan milik kerabat dekatnya yang menawarkan harga paling murah. Sikap berintegritas yang paling tepat adalah...",
+    "options": [
+      { "label": "A", "text": "Tetap meloloskan perusahaan kerabat tersebut karena penawarannya paling hemat bagi negara.", "score": 0 },
+      { "label": "B", "text": "Meminta panitia merahasiakan hubungan keluarga agar proses lelang berjalan lancar.", "score": 0 },
+      { "label": "C", "text": "Meminta kerabat meminjam nama perusahaan lain supaya tidak tercatat di dokumen.", "score": 0 },
+      { "label": "D", "text": "Melaporkan adanya potensi benturan kepentingan secara tertulis kepada atasan dan mengundurkan diri dari proses penilaian tender tersebut.", "score": 5 },
+      { "label": "E", "text": "Membatalkan seluruh proses tender meskipun peserta lain sudah memenuhi syarat.", "score": 0 }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Prinsip tata kelola pemerintahan yang bersih mengharuskan ASN menghindari benturan kepentingan (conflict of interest) dengan deklarasi tertulis dan pengunduran diri dari pengambilan keputusan terkait.",
+    "quickTrick": "Integritas pengadaan = deklarasi benturan kepentingan + mundur dari penilaian, bukan sembunyi-sembunyi."
+  },
+  {
+    "id": "p3_twk_2",
+    "category": "TWK",
+    "subtopic": "Pilar Negara",
+    "packageId": "paket_3",
+    "isHots": false,
+    "questionText": "Sesuai amanat Pasal 31 ayat (4) UUD NRI Tahun 1945 hasil amandemen, negara memprioritaskan anggaran pendidikan sekurang-kurangnya sebesar...",
+    "options": [
+      { "label": "A", "text": "15% dari APBN dan APBD", "score": 0 },
+      { "label": "B", "text": "20% dari APBN serta dari APBD", "score": 5 },
+      { "label": "C", "text": "25% dari pendapatan pajak nasional", "score": 0 },
+      { "label": "D", "text": "10% dari belanja modal pemerintah pusat", "score": 0 },
+      { "label": "E", "text": "30% dari total anggaran pembangunan daerah", "score": 0 }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Pasal 31 ayat (4) UUD 1945 menyatakan bahwa negara memprioritaskan anggaran pendidikan sekurang-kurangnya dua puluh persen dari anggaran pendapatan dan belanja negara serta dari anggaran pendapatan dan belanja daerah.",
+    "quickTrick": "Ingat Pasal 31(4) = Mandatory Spending Pendidikan minimal 20% APBN & APBD."
+  },
+  {
+    "id": "p3_twk_3",
+    "category": "TWK",
+    "subtopic": "Nasionalisme",
+    "packageId": "paket_3",
+    "isHots": true,
+    "questionText": "Menjelang masa seleksi nasional, beredar pesan berantai provokatif di grup percakapan yang menuduh suku tertentu mendapat kuota khusus tanpa dasar hukum. Tindakan ASN yang mencerminkan nilai Persatuan Indonesia adalah...",
+    "options": [
+      { "label": "A", "text": "Meneruskan pesan tersebut ke grup lain agar masyarakat segera berdiskusi.", "score": 0 },
+      { "label": "B", "text": "Membalas dengan komentar emosional untuk membela suku asal sendiri.", "score": 0 },
+      { "label": "C", "text": "Tidak menyebarkan pesan, memverifikasi informasi melalui kanal resmi instansi, dan mengedukasi anggota grup secara santun.", "score": 5 },
+      { "label": "D", "text": "Keluar dari semua grup warga agar terhindar dari isu apa pun.", "score": 0 },
+      { "label": "E", "text": "Membiarkan hoaks berkembang karena bukan menjadi tugas pokok unit kerjanya.", "score": 0 }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Menjaga persatuan bangsa di era digital dilakukan melalui literasi informasi (cek sumber resmi), menahan penyebaran hoaks SARA, dan memberi klarifikasi yang menyejukkan.",
+    "quickTrick": "Lawan hoaks SARA = Saring + Cek kanal resmi + Edukasi santun."
+  },
+  {
+    "id": "p3_twk_4",
+    "category": "TWK",
+    "subtopic": "Bahasa Indonesia",
+    "packageId": "paket_3",
+    "isHots": false,
+    "questionText": "Manakah kalimat dinas berikut yang seluruh kata dan penulisannya baku sesuai kaidah EYD V?",
+    "options": [
+      { "label": "A", "text": "Di antara seluruh peserta, hanya tiga orang yang menyerahkan hasil analisis risiko tepat waktu.", "score": 5 },
+      { "label": "B", "text": "Diantara seluruh peserta, hanya tiga orang yang menyerahkan hasil analisa resiko tepat waktu.", "score": 0 },
+      { "label": "C", "text": "Sekedar mengingatkan, rapat koordinasi akan dilaksanakan di ruang aula lantai dua.", "score": 0 },
+      { "label": "D", "text": "Pihak apotik diwajibkan melampirkan ijin operasional yang masih berlaku.", "score": 0 },
+      { "label": "E", "text": "Sistem tehnik pengarsipan modern mempermudah kinerja pegawai negeri.", "score": 0 }
+    ],
+    "correctLabel": "A",
+    "explanationBasic": "Kata depan 'di' pada 'di antara' dipisah, sedangkan kata baku KBBI/EYD V adalah 'analisis' (bukan analisa) dan 'risiko' (bukan resiko). Pada opsi lain terdapat bentuk tidak baku: sekedar (sekadar), apotik (apotek), ijin (izin), tehnik (teknik).",
+    "quickTrick": "Cek jebakan klasik TWK: di antara (pisah), analisis, risiko, sekadar, apotek, izin, teknik."
+  },
+  {
+    "id": "p3_twk_5",
+    "category": "TWK",
+    "subtopic": "Bela Negara",
+    "packageId": "paket_3",
+    "isHots": true,
+    "questionText": "Saat bertugas di daerah terpencil dengan adat istiadat yang kuat, seorang pegawai baru mendapati warga menolak sosialisasi program karena disampaikan dengan istilah teknis yang asing. Langkah bela negara dan wawasan kebangsaan terbaik adalah...",
+    "options": [
+      { "label": "A", "text": "Menunda seluruh program sampai warga belajar istilah birokrasi nasional.", "score": 0 },
+      { "label": "B", "text": "Tetap membacakan materi baku agar sesuai standar operasional pusat.", "score": 0 },
+      { "label": "C", "text": "Menyerahkan tugas sosialisasi sepenuhnya kepada kepala desa tanpa pendampingan.", "score": 0 },
+      { "label": "D", "text": "Melaporkan warga sebagai pihak yang menghambat program pembangunan.", "score": 0 },
+      { "label": "E", "text": "Menggandeng tokoh adat setempat dan mengemas pesan program dengan bahasa serta kearifan lokal tanpa mengubah substansi aturan.", "score": 5 }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Pendekatan partisipatif yang menghormati kearifan lokal mencerminkan Bhinneka Tunggal Ika sekaligus memastikan program negara berjalan efektif.",
+    "quickTrick": "Konteks daerah adat = libatkan tokoh lokal + adaptasi bahasa tanpa melanggar aturan."
+  },
+  {
+    "id": "p3_tiu_1",
+    "category": "TIU",
+    "subtopic": "Deret Angka",
+    "packageId": "paket_3",
+    "isHots": false,
+    "questionText": "Perhatikan pola deret bilangan berikut: 3, 6, 12, 15, 30, 33, 66, ... Bilangan selanjutnya yang tepat adalah...",
+    "options": [
+      { "label": "A", "text": "68", "score": 0 },
+      { "label": "B", "text": "72", "score": 0 },
+      { "label": "C", "text": "69", "score": 5 },
+      { "label": "D", "text": "99", "score": 0 },
+      { "label": "E", "text": "132", "score": 0 }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Pola operasi bergantian: x2 lalu +3 -> 3 (x2)=6, (+3)=9? Tidak, lihat 3 -> 6 (+3 atau x2), 6 -> 12 (x2), 12 -> 15 (+3), 15 -> 30 (x2), 30 -> 33 (+3), 33 -> 66 (x2), sehingga berikutnya 66 + 3 = 69.",
+    "quickTrick": "Baca dua langkah berpasangan: 12->15 (+3), 15->30 (x2), 30->33 (+3), 33->66 (x2) -> +3 = 69!"
+  },
+  {
+    "id": "p3_tiu_2",
+    "category": "TIU",
+    "subtopic": "Hitung Cepat",
+    "packageId": "paket_3",
+    "isHots": false,
+    "questionText": "Hasil dari 37,5% x 640 + 1/4 x 120 adalah...",
+    "options": [
+      { "label": "A", "text": "260", "score": 0 },
+      { "label": "B", "text": "270", "score": 5 },
+      { "label": "C", "text": "280", "score": 0 },
+      { "label": "D", "text": "250", "score": 0 },
+      { "label": "E", "text": "290", "score": 0 }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "37,5% setara dengan pecahan istimewa 3/8. Jadi (3/8 x 640) + (1/4 x 120) = (3 x 80) + 30 = 240 + 30 = 270.",
+    "quickTrick": "Hafalan wajib TIU: 12,5% = 1/8, maka 37,5% = 3/8. 640/8 = 80 -> 3x80 + 30 = 270."
+  },
+  {
+    "id": "p3_tiu_3",
+    "category": "TIU",
+    "subtopic": "Soal Cerita",
+    "packageId": "paket_3",
+    "isHots": false,
+    "questionText": "Andi berangkat dari Kota A pukul 07.00 WIB mengendarai mobil dengan kecepatan rata-rata 60 km/jam menuju Kota B yang berjarak 180 km. Jika di perjalanan Andi beristirahat selama 15 menit, pukul berapa ia tiba di Kota B?",
+    "options": [
+      { "label": "A", "text": "09.45 WIB", "score": 0 },
+      { "label": "B", "text": "10.00 WIB", "score": 0 },
+      { "label": "C", "text": "10.05 WIB", "score": 0 },
+      { "label": "D", "text": "10.15 WIB", "score": 5 },
+      { "label": "E", "text": "10.30 WIB", "score": 0 }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Waktu berkendara = Jarak / Kecepatan = 180 / 60 = 3 jam. Ditambah waktu istirahat 15 menit menjadi 3 jam 15 menit. Pukul 07.00 + 3 jam 15 menit = 10.15 WIB.",
+    "quickTrick": "J = K x W -> 180/60 = 3 jam + 15 menit istirahat = tiba pukul 10.15."
+  },
+  {
+    "id": "p3_tiu_4",
+    "category": "TIU",
+    "subtopic": "Silogisme",
+    "packageId": "paket_3",
+    "isHots": false,
+    "questionText": "Semua peserta yang diperbolehkan masuk ruang CAT wajib membawa KTP asli dan kartu ujian. Budi adalah peserta yang tidak membawa kartu ujian. Kesimpulan yang paling sah adalah...",
+    "options": [
+      { "label": "A", "text": "Budi tidak diperbolehkan masuk ruang CAT.", "score": 5 },
+      { "label": "B", "text": "Budi tidak membawa KTP asli.", "score": 0 },
+      { "label": "C", "text": "Budi boleh masuk asalkan membawa KTP asli.", "score": 0 },
+      { "label": "D", "text": "Semua peserta yang membawa KTP asli boleh masuk ruang CAT.", "score": 0 },
+      { "label": "E", "text": "Budi bukan peserta ujian CAT.", "score": 0 }
+    ],
+    "correctLabel": "A",
+    "explanationBasic": "Bentuk logika: Jika masuk ruang CAT (P), maka bawa KTP asli DAN kartu ujian (Q1 ^ Q2). Karena tidak membawa kartu ujian (~Q2), syarat konjungsi tidak terpenuhi (~(Q1 ^ Q2)), maka dengan Modus Tollens kesimpulannya ~P: Budi tidak diperbolehkan masuk ruang CAT.",
+    "quickTrick": "Syarat pakai 'DAN' berarti dua-duanya wajib. Satu saja gugur = hasil gugur."
+  },
+  {
+    "id": "p3_tiu_5",
+    "category": "TIU",
+    "subtopic": "Penalaran Analitis",
+    "packageId": "paket_3",
+    "isHots": true,
+    "questionText": "Lima pelamar (P, Q, R, S, dan T) menunggu giliran wawancara satu per satu dengan ketentuan: Q diwawancara tepat sebelum R; S bukan yang pertama dan bukan yang terakhir; P diwawancara sebelum Q; dan T mendapat giliran terakhir. Siapakah yang pasti mendapat giliran wawancara pertama?",
+    "options": [
+      { "label": "A", "text": "Q", "score": 0 },
+      { "label": "B", "text": "R", "score": 0 },
+      { "label": "C", "text": "S", "score": 0 },
+      { "label": "D", "text": "T", "score": 0 },
+      { "label": "E", "text": "P", "score": 5 }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "T di posisi terakhir (5). R tepat setelah Q sehingga R bukan posisi 1. P sebelum Q sehingga Q bukan posisi 1. S bukan posisi 1. Dari kelima pelamar, hanya P yang tersisa dan memenuhi syarat untuk posisi pertama.",
+    "quickTrick": "Metode eliminasi posisi ke-1: T(terakhir), S(bukan 1), R(setelah Q), Q(setelah P) -> pasti P!"
+  },
+  {
+    "id": "p3_tkp_1",
+    "category": "TKP",
+    "subtopic": "Pelayanan Publik",
+    "packageId": "paket_3",
+    "isHots": true,
+    "questionText": "Menjelang jam tutup loket, datang seorang lansia dari desa jauh yang keliru membawa fotokopi berkas tanpa dokumen asli karena kurang memahami pengumuman daring. Sikap Anda sebagai petugas loket adalah...",
+    "options": [
+      { "label": "A", "text": "Menjelaskan kekurangan berkas dengan ramah serta membuatkan catatan daftar syarat agar besok tidak bolak-balik.", "score": 4 },
+      { "label": "B", "text": "Meminta beliau membaca papan pengumuman di depan pintu masuk sebelum kembali besok.", "score": 2 },
+      { "label": "C", "text": "Menerima dan mendengarkan keluhannya dengan empati, memeriksa berkas yang sudah ada, lalu menjelaskan dokumen pengganti/resmi yang bisa diakses serta memberi prioritas antrean esok hari.", "score": 5 },
+      { "label": "D", "text": "Menolak langsung karena loket hampir tutup dan aturan tidak bisa ditawar.", "score": 1 },
+      { "label": "E", "text": "Meminta bantuan satpam mengarahkan beliau pulang lalu melanjutkan tutup kas.", "score": 3 }
+    ],
+    "correctLabel": "C",
+    "explanationBasic": "Pelayanan publik prima memadukan empati terhadap kelompok rentan/lansia dengan solusi konkret yang tetap patuh prosedur.",
+    "quickTrick": "Skor 5 Pelayanan Publik = Empati + Solusi nyata + Tetap patuh aturan."
+  },
+  {
+    "id": "p3_tkp_2",
+    "category": "TKP",
+    "subtopic": "TIK",
+    "packageId": "paket_3",
+    "isHots": false,
+    "questionText": "Instansi Anda meluncurkan aplikasi arsip digital baru untuk menggantikan pencatatan kertas, tetapi beberapa pegawai senior masih enggan menggunakannya karena takut salah klik. Apa yang sebaiknya Anda lakukan?",
+    "options": [
+      { "label": "A", "text": "Mengirimkan file panduan PDF ke grup kantor agar dipelajari masing-masing.", "score": 3 },
+      { "label": "B", "text": "Membuat panduan ringkas bergambar dan mendampingi mereka praktik langsung step-by-step sampai terbiasa.", "score": 5 },
+      { "label": "C", "text": "Membiarkan mereka tetap memakai buku catatan manual selama pekerjaan tidak terlambat.", "score": 1 },
+      { "label": "D", "text": "Mengusulkan kepada atasan agar diadakan pelatihan bersama untuk semua pegawai.", "score": 4 },
+      { "label": "E", "text": "Mengambil alih seluruh input data milik pegawai senior supaya cepat selesai.", "score": 2 }
+    ],
+    "correctLabel": "B",
+    "explanationBasic": "Adaptasi TIK yang unggul tidak hanya memakainya sendiri, tetapi juga memberdayakan rekan kerja lewat pendampingan praktis dan bahan ajar yang mudah diikuti.",
+    "quickTrick": "Skor 5 TIK = Proaktif menguasai + mendampingi rekan beradaptasi, bukan mengerjakan tugasnya selamanya."
+  },
+  {
+    "id": "p3_tkp_3",
+    "category": "TKP",
+    "subtopic": "Jejaring Kerja",
+    "packageId": "paket_3",
+    "isHots": true,
+    "questionText": "Dalam proyek lintas bidang, dua rekan kerja berbeda divisi berselisih pendapat mengenai jadwal sinkronisasi data sehingga progres tim terhenti dua hari. Langkah Anda sebagai anggota tim adalah...",
+    "options": [
+      { "label": "A", "text": "Menginisiasi pertemuan singkat yang netral untuk memetakan kendala jadwal kedua divisi dan merumuskan kesepakatan alur kerja bersama.", "score": 5 },
+      { "label": "B", "text": "Menghindari kedua pihak agar tidak terseret konflik antarbidang.", "score": 1 },
+      { "label": "C", "text": "Mengajak keduanya berdiskusi santai saat jam istirahat untuk mencairkan suasana.", "score": 4 },
+      { "label": "D", "text": "Meminta atasan langsung mengambil alih dan menegur kedua rekan tersebut.", "score": 2 },
+      { "label": "E", "text": "Mengerjakan bagian divisi sendiri lebih dulu sambil menunggu mereka berdamai.", "score": 3 }
+    ],
+    "correctLabel": "A",
+    "explanationBasic": "Jejaring kerja menuntut kemampuan mediasi kolaboratif yang berfokus pada penyelarasan kepentingan tim dan target kerja.",
+    "quickTrick": "Skor 5 Jejaring Kerja = Jembatan komunikasi netral + cari solusi kolaboratif."
+  },
+  {
+    "id": "p3_tkp_4",
+    "category": "TKP",
+    "subtopic": "Profesionalisme",
+    "packageId": "paket_3",
+    "isHots": false,
+    "questionText": "Anda menemukan kesalahan input angka pada laporan triwulan yang baru saja disetujui atasan satu jam lalu dan belum dikirim ke instansi pusat. Tindakan paling profesional adalah...",
+    "options": [
+      { "label": "A", "text": "Memperbaiki angkanya diam-diam tanpa melapor agar tidak dianggap ceroboh.", "score": 2 },
+      { "label": "B", "text": "Segera memberi tahu atasan mengenai bagian yang keliru sebelum laporan terkirim ke pusat.", "score": 4 },
+      { "label": "C", "text": "Mencatat koreksi tersebut untuk dibahas pada evaluasi triwulan berikutnya.", "score": 3 },
+      { "label": "D", "text": "Membiarkannya karena sudah ditandatangani dan menjadi tanggung jawab atasan.", "score": 1 },
+      { "label": "E", "text": "Mengakui kekeliruan secara terbuka kepada atasan sambil langsung menyerahkan draf revisi yang akurat lengkap dengan rincian perbaikannya.", "score": 5 }
+    ],
+    "correctLabel": "E",
+    "explanationBasic": "Profesionalisme menuntut tanggung jawab, keterbukaan, dan kecepatan dalam membawa solusi korektif sebelum kesalahan berdampak lebih luas.",
+    "quickTrick": "Skor 5 Profesionalisme = Mengakui + bertindak cepat + membawa solusi siap pakai."
+  },
+  {
+    "id": "p3_tkp_5",
+    "category": "TKP",
+    "subtopic": "Anti Radikalisme",
+    "packageId": "paket_3",
+    "isHots": true,
+    "questionText": "Seorang rekan kerja sering membagikan potongan video ceramah yang mengajak menolak hukum positif dan menjelekkan simbol negara di ruang istirahat kantor. Respon Anda yang paling tepat adalah...",
+    "options": [
+      { "label": "A", "text": "Menyampaikan dengan tegas namun santun bahwa hal tersebut bertentangan dengan nilai ASN lalu mengingatkannya agar tidak mengulanginya.", "score": 4 },
+      { "label": "B", "text": "Mengabaikan ajakannya dan menasihati rekan lain agar tidak terpengaruh.", "score": 3 },
+      { "label": "C", "text": "Mendebatnya keras di depan umum agar ia merasa malu dan berhenti.", "score": 1 },
+      { "label": "D", "text": "Berbicara empat mata secara tenang untuk meluruskan komitmen ASN pada Pancasila dan UUD 1945, serta mendokumentasikan bila berlanjut untuk dilaporkan lewat jalur pembinaan kepegawaian.", "score": 5 },
+      { "label": "E", "text": "Meninggalkan ruangan setiap kali ia memutar video agar tidak ikut terlibat.", "score": 2 }
+    ],
+    "correctLabel": "D",
+    "explanationBasic": "Pencegahan paham anti-Pancasila dilakukan dengan sikap tegas terhadap ideologi negara namun tetap persuasif, bermartabat, dan sesuai mekanisme pembinaan instansi bila berulang.",
+    "quickTrick": "Skor 5 Anti-Radikalisme = Persuasif empat mata + teguh pada Pancasila/UUD + jalur pembinaan resmi."
+  }
+]
